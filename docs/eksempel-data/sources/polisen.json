@@ -1,0 +1,61 @@
+{
+ "id": "polisen",
+ "name": "Polisen händelser (SE)",
+ "url": "https://polisen.se/aktuellt/handelser/",
+ "category": "naboland",
+ "ok": true,
+ "stale": false,
+ "fetched_at": "2026-10-27T00:44:53+00:00",
+ "last_success_at": "2026-10-27T00:44:53+00:00",
+ "error": "",
+ "license": "Se polisen.se/psidata",
+ "data": {
+  "events": [
+   {
+    "id": 1,
+    "datetime": "2026-10-27 07:00:00 +01:00",
+    "name": "27 oktober 07:00, Brand, Stockholm",
+    "summary": "Brand i källare.",
+    "type": "Brand",
+    "location": "Stockholm",
+    "gps": "59.3,18.0",
+    "url": "https://polisen.se/aktuellt/handelser/2026/oktober/27/brand-stockholm/"
+   },
+   {
+    "id": 2,
+    "datetime": "2026-10-27 06:00:00 +01:00",
+    "name": "Fylleri",
+    "summary": "x",
+    "type": "Fylleri/LOB",
+    "location": "Malmö",
+    "gps": null,
+    "url": "https://polisen.se/a"
+   }
+  ],
+  "count": 2,
+  "flagged": [
+   {
+    "id": 1,
+    "datetime": "2026-10-27 07:00:00 +01:00",
+    "name": "27 oktober 07:00, Brand, Stockholm",
+    "summary": "Brand i källare.",
+    "type": "Brand",
+    "location": "Stockholm",
+    "gps": "59.3,18.0",
+    "url": "https://polisen.se/aktuellt/handelser/2026/oktober/27/brand-stockholm/"
+   }
+  ]
+ },
+ "signals": [
+  {
+   "category": "naboland",
+   "level": 0,
+   "text": "Polisen: 2 hendelser, 1 flagget for gjennomsyn",
+   "source": "polisen",
+   "url": "https://polisen.se/aktuellt/handelser/",
+   "since": null,
+   "value": 1,
+   "level_name": "green"
+  }
+ ]
+}

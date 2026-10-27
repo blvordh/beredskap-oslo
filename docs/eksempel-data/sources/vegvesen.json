@@ -1,0 +1,179 @@
+{
+ "id": "vegvesen",
+ "name": "Statens vegvesen trafikkmeldinger",
+ "url": "https://www.vegvesen.no/trafikk",
+ "category": "transport",
+ "ok": true,
+ "stale": false,
+ "fetched_at": "2026-10-27T00:44:53+00:00",
+ "last_success_at": "2026-10-27T00:44:53+00:00",
+ "error": "",
+ "license": "NLOD (Statens vegvesen)",
+ "data": {
+  "situations": {
+   "situations": [
+    {
+     "road": "E6",
+     "location": "Vålerengtunnelen",
+     "description": "Stengt pga. ulykke",
+     "type": "AccidentsAndIncidents",
+     "secondary": "roadClosed",
+     "severity": "high",
+     "start": "2026-10-27T07:00:00Z",
+     "end": null,
+     "updated": null,
+     "closure": true,
+     "main_road": true,
+     "geometry": {
+      "type": "LineString",
+      "coordinates": [
+       [
+        10.8,
+        59.9
+       ],
+       [
+        10.9,
+        59.95
+       ]
+      ]
+     }
+    },
+    {
+     "road": "FV150",
+     "location": "Ring 3",
+     "description": "Vegarbeid",
+     "type": "MaintenanceWorks",
+     "secondary": "",
+     "severity": "low",
+     "start": null,
+     "end": null,
+     "updated": null,
+     "closure": false,
+     "main_road": false,
+     "geometry": {
+      "type": "LineString",
+      "coordinates": [
+       [
+        10.8,
+        59.9
+       ],
+       [
+        10.9,
+        59.95
+       ]
+      ]
+     }
+    }
+   ],
+   "count": 2,
+   "closures_main_roads": [
+    {
+     "road": "E6",
+     "location": "Vålerengtunnelen",
+     "description": "Stengt pga. ulykke",
+     "type": "AccidentsAndIncidents",
+     "secondary": "roadClosed",
+     "severity": "high",
+     "start": "2026-10-27T07:00:00Z",
+     "end": null,
+     "updated": null,
+     "closure": true,
+     "main_road": true,
+     "geometry": {
+      "type": "LineString",
+      "coordinates": [
+       [
+        10.8,
+        59.9
+       ],
+       [
+        10.9,
+        59.95
+       ]
+      ]
+     }
+    }
+   ]
+  },
+  "traveltimes": {
+   "stretches": [
+    {
+     "stretch": "Skedsmovollen - Karihaugen",
+     "expected_s": 600,
+     "actual_s": 1000,
+     "delay_pct": 66.7,
+     "status": "heavy",
+     "trend": null,
+     "missing": false,
+     "valid_at": null
+    },
+    {
+     "stretch": "Karihaugen - Helsfyr",
+     "expected_s": 500,
+     "actual_s": 900,
+     "delay_pct": 80.0,
+     "status": "congested",
+     "trend": null,
+     "missing": false,
+     "valid_at": null
+    },
+    {
+     "stretch": "Mosseporten - Kambo",
+     "expected_s": 300,
+     "actual_s": 300,
+     "delay_pct": 0.0,
+     "status": "freeFlow",
+     "trend": null,
+     "missing": true,
+     "valid_at": null
+    }
+   ],
+   "count": 3,
+   "with_data": 2
+  },
+  "cameras": [
+   {
+    "id": "123",
+    "road": "E6",
+    "name": "Karihaugen",
+    "image_url": "https://kamera.atlas.vegvesen.no/api/images/123",
+    "updated": null,
+    "geometry": {
+     "type": "LineString",
+     "coordinates": [
+      [
+       10.8,
+       59.9
+      ],
+      [
+       10.9,
+       59.95
+      ]
+     ]
+    }
+   }
+  ]
+ },
+ "signals": [
+  {
+   "category": "transport",
+   "level": 2,
+   "text": "Stengt hovedvei: E6 Vålerengtunnelen",
+   "source": "vegvesen",
+   "url": "https://www.vegvesen.no/trafikk",
+   "since": null,
+   "value": 1,
+   "level_name": "red"
+  },
+  {
+   "category": "transport",
+   "level": 1,
+   "text": "Kø: 2 strekninger med over 50 % forsinkelse (Skedsmovollen - Karihaugen; Karihaugen - Helsfyr)",
+   "source": "vegvesen",
+   "url": "https://www.vegvesen.no/trafikk",
+   "since": null,
+   "value": 2,
+   "level_name": "yellow"
+  }
+ ]
+}

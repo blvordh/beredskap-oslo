@@ -1,0 +1,76 @@
+{
+ "id": "entur",
+ "name": "Entur avvik (SIRI SX)",
+ "url": "https://developer.entur.org/",
+ "category": "transport",
+ "ok": true,
+ "stale": false,
+ "fetched_at": "2026-10-27T00:44:53+00:00",
+ "last_success_at": "2026-10-27T00:44:53+00:00",
+ "error": "",
+ "license": "NLOD (Entur)",
+ "data": {
+  "situations": [
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:823966",
+    "severity": "severe",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-10-27T06:00:00+01:00",
+    "end": null,
+    "summary": "Innstilt: linje 1",
+    "description": "Signalfeil.",
+    "lines": [
+     "RUT:Line:1"
+    ]
+   },
+   {
+    "dataset": "BNR",
+    "id": "RUT:SituationNumber:823966",
+    "severity": "severe",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-10-27T06:00:00+01:00",
+    "end": null,
+    "summary": "Innstilt: linje 1",
+    "description": "Signalfeil.",
+    "lines": [
+     "RUT:Line:1"
+    ]
+   },
+   {
+    "dataset": "FLT",
+    "id": "RUT:SituationNumber:823966",
+    "severity": "severe",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-10-27T06:00:00+01:00",
+    "end": null,
+    "summary": "Innstilt: linje 1",
+    "description": "Signalfeil.",
+    "lines": [
+     "RUT:Line:1"
+    ]
+   }
+  ],
+  "count": 3,
+  "by_dataset": {
+   "RUT": 1,
+   "BNR": 1,
+   "FLT": 1
+  }
+ },
+ "signals": [
+  {
+   "category": "transport",
+   "level": 1,
+   "text": "Entur: 3 alvorlige avvik (Innstilt: linje 1; Innstilt: linje 1)",
+   "source": "entur",
+   "url": "https://developer.entur.org/",
+   "since": null,
+   "value": 3,
+   "level_name": "yellow"
+  }
+ ]
+}

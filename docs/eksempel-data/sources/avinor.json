@@ -1,0 +1,86 @@
+{
+ "id": "avinor",
+ "name": "Avinor flydata OSL",
+ "url": "https://avinor.no/flyplass/oslo/",
+ "category": "transport",
+ "ok": true,
+ "stale": false,
+ "fetched_at": "2026-10-27T00:44:53+00:00",
+ "last_success_at": "2026-10-27T00:44:53+00:00",
+ "error": "",
+ "license": "Flight data from Avinor (avinor.no)",
+ "data": {
+  "departures": {
+   "count": 3,
+   "cancelled": 1,
+   "delayed": 1,
+   "status_codes": {
+    "C": 1,
+    "E": 1,
+    "-": 1
+   },
+   "last_update": "2026-10-27T08:00:00Z",
+   "credit": "Flight data from Avinor (avinor.no)"
+  },
+  "arrivals": {
+   "count": 3,
+   "cancelled": 1,
+   "delayed": 1,
+   "status_codes": {
+    "C": 1,
+    "E": 1,
+    "-": 1
+   },
+   "last_update": "2026-10-27T08:00:00Z",
+   "credit": "Flight data from Avinor (avinor.no)"
+  },
+  "departures_list": [
+   {
+    "id": "1",
+    "airline": "SK",
+    "flight_id": "SK1460",
+    "scheduled": "2026-10-27T09:00:00Z",
+    "direction": "D",
+    "airport": "BGO",
+    "dom_int": "D",
+    "status_code": "C",
+    "status_time": "2026-10-27T08:00:00Z"
+   },
+   {
+    "id": "2",
+    "airline": "DY",
+    "flight_id": "DY740",
+    "scheduled": "2026-10-27T09:10:00Z",
+    "direction": "D",
+    "airport": "TRD",
+    "dom_int": "D",
+    "status_code": "E",
+    "status_time": "2026-10-27T09:40:00Z"
+   },
+   {
+    "id": "3",
+    "airline": "WF",
+    "flight_id": "WF123",
+    "scheduled": "2026-10-27T09:20:00Z",
+    "direction": "D",
+    "airport": "SVG",
+    "dom_int": "D",
+    "status_code": null,
+    "status_time": null
+   }
+  ],
+  "credit": "Flight data from Avinor (avinor.no)"
+ },
+ "signals": [
+  {
+   "category": "transport",
+   "level": 0,
+   "text": "OSL: 2 innstilte og 2 forsinkede av 6 fly",
+   "source": "avinor",
+   "url": "https://avinor.no/flyplass/oslo/",
+   "since": null,
+   "value": 2,
+   "level_name": "green"
+  }
+ ]
+}

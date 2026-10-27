@@ -1,0 +1,40 @@
+{
+ "id": "krisinformation",
+ "name": "Krisinformation.se",
+ "url": "https://www.krisinformation.se/",
+ "category": "naboland",
+ "ok": true,
+ "stale": false,
+ "fetched_at": "2026-10-27T00:44:53+00:00",
+ "last_success_at": "2026-10-27T00:44:53+00:00",
+ "error": "",
+ "license": "",
+ "data": {
+  "vmas": [],
+  "news": [
+   {
+    "id": "n1",
+    "published": "2026-10-26T10:00:00Z",
+    "updated": null,
+    "headline": "Störning i elnätet",
+    "preamble": "Kort",
+    "url": "https://www.krisinformation.se/x",
+    "area": "Stockholms län",
+    "event": "El",
+    "sender": "Svenska kraftnät"
+   }
+  ]
+ },
+ "signals": [
+  {
+   "category": "naboland",
+   "level": 0,
+   "text": "Ingen aktive VMA i Sverige; 1 krisenyheter siste to døgn",
+   "source": "krisinformation",
+   "url": "https://www.krisinformation.se/",
+   "since": null,
+   "value": 0,
+   "level_name": "green"
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "id": "vipps",
+ "name": "Vipps MobilePay status",
+ "url": "https://status.vippsmobilepay.com",
+ "category": "betaling",
+ "ok": true,
+ "stale": false,
+ "fetched_at": "2026-10-27T00:44:53+00:00",
+ "last_success_at": "2026-10-27T00:44:53+00:00",
+ "error": "",
+ "license": "",
+ "data": {
+  "status": {
+   "indicator": "none",
+   "description": "All Systems Operational"
+  },
+  "incidents": []
+ },
+ "signals": [
+  {
+   "category": "betaling",
+   "level": 0,
+   "text": "Vipps MobilePay: All Systems Operational",
+   "source": "vipps",
+   "url": "https://status.vippsmobilepay.com",
+   "since": null,
+   "value": null,
+   "level_name": "green"
+  }
+ ]
+}

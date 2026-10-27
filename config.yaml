@@ -1,0 +1,120 @@
+# Konfigurasjon for innsamleren til beredskap.oslo.no
+# Fyll inn kontakt før første kjøring: MET avviser kall uten identifiserende User-Agent.
+
+contact: "bl@vordh.com"
+user_agent: "beredskap-oslo-collector/0.1 (+https://beredskap.oslo.no; {contact})"
+et_client_name: "spark-beredskap-oslo"    # Entur: <firma>-<app>, gir høyere kvote
+
+http:
+  timeout_seconds: 20
+  retries: 2
+  workers: 8                              # parallelle kilder
+
+output_dir: data
+
+# Geografi
+oslo:
+  kommunenummer: "0301"
+  fylkesnummer: "03"
+  # Oslo-regionen som bbox for Vegvesen WFS: lat_min, lon_min, lat_max, lon_max
+  bbox: [59.75, 10.45, 60.05, 11.05]
+  # Veier vi regner som utfartsveier (brukes til stengnings-signal)
+  hovedveier: ["E6", "E18", "E16", "RV4", "RV150", "R4", "R150"]
+  # Stedsnavn som gjør et nasjonalt varsel (Nødvarsel, politilogg) til et lokalt
+  stedsnavn: ["Oslo", "Bærum", "Asker", "Lillestrøm", "Lørenskog", "Nittedal", "Nordre Follo", "Oppegård", "Ski", "Nesodden", "Gardermoen", "Akershus"]
+
+# Terskler for trafikklys
+thresholds:
+  strom:
+    elvia_yellow_customers: 500
+    elvia_red_customers: 5000
+  transport:
+    # Ruter har 50–80 avvik en vanlig dag; vi teller bare «alvorlige» (innstilt, stengt,
+    # stans, eller bane/trikk/båt). Første ekte kjøring 27.10 kl. 09:29: 66 avvik totalt.
+    ruter_yellow_serious: 4
+    ruter_red_serious: 10
+    ruter_red_rail: 3                 # rødt når minst så mange bane/trikk/båt-linjer har alvorlig avvik
+    # Reisetid fra Vegvesen: i morgenrushet har 5–8 strekninger over 50 % forsinkelse,
+    # så gult krever mer enn vanlig rush.
+    traveltime_yellow_delay_percent: 75
+    traveltime_yellow_min_stretches: 4
+    traveltime_red_delay_percent: 150
+    traveltime_red_min_stretches: 6
+    avinor_delay_minutes: 15          # E-status regnes som forsinket først over dette
+    avinor_yellow_cancelled: 10
+    avinor_red_cancelled: 30
+  betaling:
+    # Statuspage-indikator → nivå
+    indicator_levels: {none: 0, minor: 1, major: 2, critical: 2, maintenance: 0}
+
+# Hvilke kilder som kjøres. false = hopp over.
+sources:
+  elvia: true
+  statnett: true
+  strompris: true
+  nve: true
+  met: true
+  nodvarsel: true
+  vegvesen: true
+  ruter: true
+  entur: true
+  krisinformation: true
+  vipps: true
+  avinor: true
+  polisen: true
+  politiloggen: true            # ikke verifisert fra sandkassen; feiler mykt
+  cloudflare_radar: false       # krever CLOUDFLARE_API_TOKEN i miljøet
+  rss_news: true
+
+# Entur-datasett som hentes fra SIRI SX (avvik). RUT = Ruter, BNR = Bane NOR,
+# VYG = Vy, FLT = Flytoget. Maks 4 kall per minutt totalt.
+entur_datasets: ["RUT", "BNR", "FLT"]
+
+# Nyhetsfeeder. group styrer hvor de vises. requires_agreement = Schibsted-vilkår;
+# disse står enabled: false til avtalen er på plass.
+news_window_hours: 36
+news_feeds:
+  - {id: nrk_siste,        name: "NRK siste nytt",            url: "https://www.nrk.no/nyheter/siste.rss",                        lang: no, group: nyheter,   enabled: true}
+  - {id: nrk_topp,         name: "NRK toppsaker",             url: "https://www.nrk.no/toppsaker.rss",                            lang: no, group: nyheter,   enabled: true}
+  - {id: nrk_oslo,         name: "NRK Oslo og Viken",         url: "https://www.nrk.no/osloogviken/siste.rss",                    lang: no, group: lokalt,    enabled: true}
+  - {id: nrk_finnmark,     name: "NRK Troms og Finnmark",     url: "https://www.nrk.no/tromsogfinnmark/siste.rss",                lang: no, group: nyheter,   enabled: true}
+  - {id: aftenposten,      name: "Aftenposten",               url: "https://www.aftenposten.no/rss",                              lang: no, group: nyheter,   enabled: false, requires_agreement: true}
+  - {id: vg,               name: "VG",                        url: "https://www.vg.no/rss/feed/",                                 lang: no, group: nyheter,   enabled: false, requires_agreement: true}
+  - {id: e24,              name: "E24",                       url: "https://e24.no/rss",                                          lang: no, group: nyheter,   enabled: false, requires_agreement: true}
+  - {id: dagbladet,        name: "Dagbladet",                 url: "https://www.dagbladet.no/rss/nyheter",                        lang: no, group: nyheter,   enabled: true}
+  - {id: tv2,              name: "TV 2",                      url: "https://www.tv2.no/rest/cms-feeds-dw-rest/v2/cms/article/",   lang: no, group: nyheter,   enabled: true}
+  - {id: nettavisen,       name: "Nettavisen",                url: "https://www.nettavisen.no/service/rss",                       lang: no, group: nyheter,   enabled: true}
+  - {id: avisa_oslo,       name: "Avisa Oslo",                url: "https://www.ao.no/service/rss",                               lang: no, group: lokalt,    enabled: true}
+  - {id: forsvarets_forum, name: "Forsvarets forum",          url: "https://www.forsvaretsforum.no/?lab_viewport=rss",            lang: no, group: forsvar,   enabled: true}
+  - {id: barents_observer, name: "The Barents Observer",      url: "https://www.thebarentsobserver.com/?lab_viewport=rss",        lang: en, group: forsvar,   enabled: true}
+  - {id: high_north_news,  name: "High North News",           url: "https://en.highnorthnews.com/?lab_viewport=rss",              lang: en, group: forsvar,   enabled: true}
+  - {id: digi,             name: "Digi.no",                   url: "https://www.digi.no/rss",                                     lang: no, group: cyber,     enabled: true}
+  - {id: dsb,              name: "DSB aktuelt",               url: "https://www.dsb.no/rss/rss-dsb---aktuelt/",                   lang: no, group: myndigheter, enabled: true}
+  - {id: regjeringen,      name: "Regjeringen.no",            url: "https://www.regjeringen.no/no/rss/Rss/2581966/?documentType=aktuelt", lang: no, group: myndigheter, enabled: true}
+  - {id: statsforvalteren, name: "Statsforvalteren ØBOA",     url: "https://www.statsforvalteren.no/nb/ostfold-buskerud-oslo-og-akershus/nyheter/rss/?limit=20", lang: no, group: myndigheter, enabled: true}
+  - {id: pst,              name: "PST",                       url: "https://www.pst.no/feed/",                                    lang: no, group: forsvar,   enabled: true}
+  - {id: nsm,              name: "NSM",                       url: "https://nsm.no/rss/nyheter-fra-nsm/",                         lang: no, group: cyber,     enabled: true}
+  - {id: svt,              name: "SVT Nyheter",               url: "https://www.svt.se/nyheter/rss.xml",                          lang: sv, group: norden,    enabled: true}
+  - {id: sr_ekot,          name: "SR Ekot",                   url: "https://api.sr.se/api/rss/program/83?format=145",             lang: sv, group: norden,    enabled: true}
+  - {id: dn,               name: "Dagens Nyheter",            url: "https://www.dn.se/rss/",                                      lang: sv, group: norden,    enabled: true}
+  - {id: dr,               name: "DR Nyheder",                url: "https://www.dr.dk/nyheder/service/feeds/allenyheder",         lang: da, group: norden,    enabled: true}
+  - {id: tv2dk,            name: "TV 2 Danmark",              url: "https://services.tv2.dk/api/feeds/nyheder/rss",               lang: da, group: norden,    enabled: true}   # tidsavbrudd 27.10.2026; Kildevakt følger opp
+  - {id: yle_en,           name: "Yle News",                  url: "https://yle.fi/rss/news",                                     lang: en, group: norden,    enabled: true}
+  - {id: yle_fi,           name: "Yle Uutiset",               url: "https://yle.fi/rss/uutiset/tuoreimmat",                       lang: fi, group: norden,    enabled: true}
+  - {id: err,              name: "ERR News",                  url: "https://news.err.ee/rss",                                     lang: en, group: norden,    enabled: true}
+  - {id: lsm,              name: "LSM",                       url: "https://eng.lsm.lv/rss/",                                     lang: en, group: norden,    enabled: true}
+  - {id: lrt,              name: "LRT",                       url: "https://www.lrt.lt/en/news-in-english?rss",                   lang: en, group: norden,    enabled: true}
+  - {id: kriis_ee,         name: "kriis.ee",                  url: "https://www.kriis.ee/en/rss-feeds/rss.xml",                   lang: en, group: norden,    enabled: true}
+  - {id: almannavarnir,    name: "Almannavarnir",             url: "https://www.almannavarnir.is/feed/",                          lang: is, group: norden,    enabled: true}
+  - {id: bbc_europe,       name: "BBC Europe",                url: "https://feeds.bbci.co.uk/news/world/europe/rss.xml",          lang: en, group: internasjonalt, enabled: true}
+  - {id: guardian_world,   name: "The Guardian World",        url: "https://www.theguardian.com/world/rss",                       lang: en, group: internasjonalt, enabled: true}
+  - {id: aljazeera,        name: "Al Jazeera",                url: "https://www.aljazeera.com/xml/rss/all.xml",                   lang: en, group: internasjonalt, enabled: true}
+  - {id: euronews,         name: "Euronews",                  url: "https://www.euronews.com/rss?level=theme&name=news",          lang: en, group: internasjonalt, enabled: true}
+  - {id: politico_eu,      name: "Politico Europe",           url: "https://www.politico.eu/feed/",                               lang: en, group: internasjonalt, enabled: true}
+  - {id: kyiv_independent, name: "Kyiv Independent",          url: "https://kyivindependent.com/feed/",                           lang: en, group: internasjonalt, enabled: false}   # 404 ved kjøring 27.10.2026; ingen feed funnet
+  - {id: defense_news,     name: "Defense News",              url: "https://www.defensenews.com/arc/outboundfeeds/rss/?outputType=xml", lang: en, group: forsvar, enabled: true}
+  - {id: breaking_defense, name: "Breaking Defense",          url: "https://breakingdefense.com/feed/",                           lang: en, group: forsvar,   enabled: true}
+  - {id: bellingcat,       name: "Bellingcat",                url: "https://www.bellingcat.com/feed/",                            lang: en, group: forsvar,   enabled: true}
+  - {id: nodvarsel_tidl,   name: "Nødvarsel – tidligere",     url: "https://www.nodvarsel.no/rss/rss-tidligere-nodvarsler/",      lang: no, group: myndigheter, enabled: true}
+  - {id: vipps_status,     name: "Vipps MobilePay status",    url: "https://status.vippsmobilepay.com/history.rss",               lang: en, group: betaling,  enabled: true}
+  - {id: netaxept_status,  name: "Netaxept status",           url: "https://netaxept-status.developers.nets.eu/history.rss",      lang: en, group: betaling,  enabled: true}

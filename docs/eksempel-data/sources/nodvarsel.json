@@ -1,0 +1,35 @@
+{
+ "id": "nodvarsel",
+ "name": "Nødvarsel (DSB)",
+ "url": "https://www.nodvarsel.no/",
+ "category": "varsler",
+ "ok": true,
+ "stale": false,
+ "fetched_at": "2026-10-27T00:44:53+00:00",
+ "last_success_at": "2026-10-27T00:44:53+00:00",
+ "error": "",
+ "license": "",
+ "data": {
+  "active": [],
+  "previous": [
+   {
+    "title": "EKSPLOSJONSFARE",
+    "link": "https://www.nodvarsel.no/varsler/1",
+    "summary": "Hold deg unna Lutvann, Oslo.",
+    "updated": "2026-10-27T07:30:00+00:00"
+   }
+  ]
+ },
+ "signals": [
+  {
+   "category": "varsler",
+   "level": 0,
+   "text": "Ingen aktive Nødvarsel (siste: EKSPLOSJONSFARE)",
+   "source": "nodvarsel",
+   "url": "https://www.nodvarsel.no/",
+   "since": null,
+   "value": null,
+   "level_name": "green"
+  }
+ ]
+}

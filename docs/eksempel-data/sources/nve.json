@@ -1,0 +1,80 @@
+{
+ "id": "nve",
+ "name": "NVE varsom og magasinstatistikk",
+ "url": "https://varsom.no/",
+ "category": "vann",
+ "ok": true,
+ "stale": false,
+ "fetched_at": "2026-10-27T00:44:53+00:00",
+ "last_success_at": "2026-10-27T00:44:53+00:00",
+ "error": "",
+ "license": "NLOD. Varsler fra Flomvarslingen og Jordskredvarslingen i Norge, www.varsom.no",
+ "data": {
+  "flom": {
+   "warnings": [
+    {
+     "kind": "flom",
+     "activity_level": 2,
+     "main_text": "Gult nivå",
+     "warning_text": "Mye regn",
+     "valid_from": "2026-10-27T00:00:00",
+     "valid_to": "2026-10-27T23:59:00",
+     "publish_time": null
+    }
+   ],
+   "max_level": 2
+  },
+  "jordskred": {
+   "warnings": [
+    {
+     "kind": "jordskred",
+     "activity_level": 1,
+     "main_text": "Grønt nivå",
+     "warning_text": "",
+     "valid_from": null,
+     "valid_to": null,
+     "publish_time": null
+    },
+    {
+     "kind": "jordskred",
+     "activity_level": 1,
+     "main_text": "Grønt nivå",
+     "warning_text": "",
+     "valid_from": null,
+     "valid_to": null,
+     "publish_time": null
+    }
+   ],
+   "max_level": 1
+  },
+  "magasin_no1": {
+   "week": "2026-W42",
+   "fill_pct": 74.8,
+   "change_pct": -1.2,
+   "capacity_twh": 5.9,
+   "next_publish": null
+  }
+ },
+ "signals": [
+  {
+   "category": "vann",
+   "level": 1,
+   "text": "NVE: flom- og jordskredvarsel for Oslo på gult nivå",
+   "source": "nve",
+   "url": "https://varsom.no/",
+   "since": null,
+   "value": 2,
+   "level_name": "yellow"
+  },
+  {
+   "category": "strom",
+   "level": 0,
+   "text": "Magasinfylling NO1 uke 2026-W42: 74.8 %",
+   "source": "nve",
+   "url": "https://varsom.no/",
+   "since": null,
+   "value": 74.8,
+   "level_name": "green"
+  }
+ ]
+}

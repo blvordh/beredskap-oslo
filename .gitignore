@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+# Innsamlerens output lokalt (publiseres til grenen data av Actions)
+data/
+!docs/eksempel-data/

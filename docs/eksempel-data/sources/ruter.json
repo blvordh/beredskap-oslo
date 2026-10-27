@@ -1,0 +1,69 @@
+{
+ "id": "ruter",
+ "name": "Ruter trafikkstatus",
+ "url": "https://ruter.no/trafikkstatus",
+ "category": "transport",
+ "ok": true,
+ "stale": false,
+ "fetched_at": "2026-10-27T00:44:53+00:00",
+ "last_success_at": "2026-10-27T00:44:53+00:00",
+ "error": "",
+ "license": "Vilkår ikke oppgitt; avklar med Ruter",
+ "data": {
+  "fetched_at_source": "2026-10-27T08:00:00Z",
+  "stale_after": "2026-10-27T08:01:00Z",
+  "situations": [
+   {
+    "id": "RUT:1",
+    "summary": "T-banen stengt mellom Majorstuen og Tøyen",
+    "description": "",
+    "report_type": "INCIDENT",
+    "lines": [
+     "1"
+    ],
+    "modes": [
+     "metro"
+    ],
+    "stop_places": [
+     "Majorstuen"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "info_url": null
+   },
+   {
+    "id": "RUT:2",
+    "summary": "Buss 31 omkjøring",
+    "description": "",
+    "report_type": "GENERAL",
+    "lines": [
+     "31"
+    ],
+    "modes": [
+     "bus"
+    ],
+    "stop_places": [],
+    "valid_from": null,
+    "valid_to": null,
+    "info_url": null
+   }
+  ],
+  "planned_changes": 1,
+  "incident_count": 1,
+  "incidents_by_mode": {
+   "metro": 1
+  }
+ },
+ "signals": [
+  {
+   "category": "transport",
+   "level": 0,
+   "text": "Ruter: 1 pågående avvik",
+   "source": "ruter",
+   "url": "https://ruter.no/trafikkstatus",
+   "since": null,
+   "value": 1,
+   "level_name": "green"
+  }
+ ]
+}

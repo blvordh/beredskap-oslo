@@ -1,0 +1,53 @@
+{
+ "id": "politiloggen",
+ "name": "Politiloggen Oslo",
+ "url": "https://www.politiet.no/politiloggen/",
+ "category": "lokalt",
+ "ok": true,
+ "stale": false,
+ "fetched_at": "2026-10-27T00:44:53+00:00",
+ "last_success_at": "2026-10-27T00:44:53+00:00",
+ "error": "",
+ "license": "NLOD 2.0 (Politiet)",
+ "data": {
+  "entries": [
+   {
+    "title": "Brann, Grünerløkka",
+    "summary": "Melding om røykutvikling i leilighet. Nødetatene på stedet.",
+    "category": "Brann",
+    "published": "2026-10-27T06:45:00+00:00",
+    "link": "https://www.politiet.no/politiloggen/hendelse/1"
+   },
+   {
+    "title": "Trafikk, Ring 3",
+    "summary": "Bil med motorstopp.",
+    "category": "Trafikk",
+    "published": "2026-10-27T06:30:00+00:00",
+    "link": null
+   }
+  ],
+  "count": 2,
+  "serious": [
+   {
+    "title": "Brann, Grünerløkka",
+    "summary": "Melding om røykutvikling i leilighet. Nødetatene på stedet.",
+    "category": "Brann",
+    "published": "2026-10-27T06:45:00+00:00",
+    "link": "https://www.politiet.no/politiloggen/hendelse/1"
+   }
+  ],
+  "feed_title": "Politiloggen Oslo"
+ },
+ "signals": [
+  {
+   "category": "lokalt",
+   "level": 1,
+   "text": "Politiloggen: 1 alvorlige meldinger siste timer (Brann, Grünerløkka)",
+   "source": "politiloggen",
+   "url": "https://www.politiet.no/politiloggen/",
+   "since": null,
+   "value": 1,
+   "level_name": "yellow"
+  }
+ ]
+}

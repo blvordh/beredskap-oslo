@@ -1,0 +1,53 @@
+{
+ "id": "statnett",
+ "name": "Statnett driftsdata",
+ "url": "https://driftsdata.statnett.no/",
+ "category": "strom",
+ "ok": true,
+ "stale": false,
+ "fetched_at": "2026-10-27T00:44:53+00:00",
+ "last_success_at": "2026-10-27T00:44:53+00:00",
+ "error": "",
+ "license": "Vilkår ikke funnet; avklar med Statnett",
+ "data": {
+  "areas": {
+   "NO1": {
+    "status": "Normal",
+    "text": "Normal kraftsituasjon"
+   },
+   "NO2": {
+    "status": "Stram",
+    "text": "Stram"
+   }
+  },
+  "flows_no1": [
+   {
+    "from": "NO1",
+    "to": "SE3",
+    "mw": 512.5,
+    "measured_at": "2026-10-27T08:00:00+00:00"
+   }
+  ],
+  "overview_raw": {
+   "MeasuredAt": 1793088000000,
+   "ProductionData": [
+    {
+     "title": "Norway",
+     "value": "14449"
+    }
+   ]
+  }
+ },
+ "signals": [
+  {
+   "category": "strom",
+   "level": 0,
+   "text": "Statnett: kraftsituasjon NO1 er «Normal»",
+   "source": "statnett",
+   "url": "https://driftsdata.statnett.no/",
+   "since": null,
+   "value": null,
+   "level_name": "green"
+  }
+ ]
+}
