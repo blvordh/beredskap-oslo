@@ -7,9 +7,9 @@ klassifisere dem, og skrive resultatet tilbake til repoet som `agent/nyheter.jso
 
 ## Steg
 
-1. Hent `https://raw.githubusercontent.com/<EIER>/<REPO>/data/nyheter_raw.json`.
+1. Hent `https://raw.githubusercontent.com/blvordh/beredskap-oslo/data/nyheter_raw.json`.
    Feltet `items[]` har `key, source, source_name, group, lang, title, summary, link, published`.
-   Hent også `https://raw.githubusercontent.com/<EIER>/<REPO>/data/status.json` for kontekst
+   Hent også `https://raw.githubusercontent.com/blvordh/beredskap-oslo/data/status.json` for kontekst
    (trafikklys per kategori), og forrige `agent/nyheter.json` fra main, så du kan gjenbruke
    klassifiseringer for saker du har sett før (samme `key`).
 2. Behold bare saker publisert siste 24 timer. Saker uten dato beholdes hvis de er nye siden sist.

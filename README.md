@@ -92,7 +92,7 @@ Tre skedulerte oppgaver i Claude, én per fil i `agent/`:
 
 Agentene leser fra GitHub (raw-URL-er) og committer til `main`. De trenger derfor skrivetilgang
 til repoet: GitHub-koblingen i Claude, eller en finkornet token med bare `contents: write`
-på dette ene repoet. Bytt ut `<EIER>/<REPO>` i promptene. Prompten limes inn som oppgavens
+på dette ene repoet. Promptene peker på `blvordh/beredskap-oslo`. Prompten limes inn som oppgavens
 instruks; hver kjøring starter uten minne, så alt agenten trenger står i filen.
 
 ## Vilkår å huske
