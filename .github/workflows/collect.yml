@@ -8,7 +8,8 @@ name: Innsamler
 
 on:
   schedule:
-    - cron: "*/10 * * * *"      # GitHub kjører tidligst hvert 5. min, og kan forsinke
+    - cron: "*/10 * * * *"      # GitHub kjører tidligst hvert 5. min, og kan forsinke.
+                                # Fila er rørt 27.10.2026 for å få schedule registrert (docs/funn-2026-10-27-cron-ikke-kjort.md).
   workflow_dispatch:
 
 permissions:
