@@ -1,0 +1,490 @@
+{
+ "generated_at": "2026-10-31T20:40:01+00:00",
+ "generator": "beredskap-oslo-collector 0.1",
+ "disclaimer": "Uoffisiell tjeneste. Automatisk sammenstilt fra åpne kilder; følg alltid Nødvarsel, politiet og Oslo kommune.",
+ "overall": {
+  "level": 0,
+  "level_name": "green",
+  "summary": "Ingen avvik registrert i de automatiske kildene"
+ },
+ "categories": {
+  "strom": {
+   "id": "strom",
+   "name": "Strøm",
+   "level": 0,
+   "level_name": "green",
+   "headline": "Ingen uplanlagte strømbrudd i Oslo; 0 kunder i planlagt utkobling",
+   "stale": false,
+   "signals": [
+    {
+     "category": "strom",
+     "level": 0,
+     "text": "Ingen uplanlagte strømbrudd i Oslo; 0 kunder i planlagt utkobling",
+     "source": "elvia",
+     "url": "https://www.elvia.no/strombruddskart/",
+     "since": null,
+     "value": 0,
+     "level_name": "green",
+     "stale": false,
+     "fetched_at": "2026-10-31T20:40:01+00:00"
+    },
+    {
+     "category": "strom",
+     "level": 0,
+     "text": "Magasinfylling NO1 uke 2026-W43: 77.8 %",
+     "source": "nve",
+     "url": "https://varsom.no/",
+     "since": null,
+     "value": 77.8,
+     "level_name": "green",
+     "stale": false,
+     "fetched_at": "2026-10-31T20:40:01+00:00"
+    },
+    {
+     "category": "strom",
+     "level": 0,
+     "text": "Statnett: kraftsituasjon NO1 er «Normal»",
+     "source": "statnett",
+     "url": "https://driftsdata.statnett.no/",
+     "since": null,
+     "value": null,
+     "level_name": "green",
+     "stale": false,
+     "fetched_at": "2026-10-31T20:40:01+00:00"
+    },
+    {
+     "category": "strom",
+     "level": 0,
+     "text": "Strømpris NO1 i dag: snitt 1.77 kr/kWh (maks 1.82)",
+     "source": "strompris",
+     "url": "https://www.hvakosterstrommen.no/",
+     "since": null,
+     "value": 1.7664,
+     "level_name": "green",
+     "stale": false,
+     "fetched_at": "2026-10-31T20:40:01+00:00"
+    }
+   ],
+   "sources": [
+    {
+     "id": "elvia",
+     "name": "Elvia strømbruddskart",
+     "url": "https://www.elvia.no/strombruddskart/",
+     "ok": true,
+     "stale": false,
+     "fetched_at": "2026-10-31T20:40:01+00:00",
+     "last_success_at": "2026-10-31T20:40:01+00:00",
+     "error": "",
+     "license": "Udokumentert ArcGIS-tjeneste, ingen vilkår funnet"
+    },
+    {
+     "id": "statnett",
+     "name": "Statnett driftsdata",
+     "url": "https://driftsdata.statnett.no/",
+     "ok": true,
+     "stale": false,
+     "fetched_at": "2026-10-31T20:40:01+00:00",
+     "last_success_at": "2026-10-31T20:40:01+00:00",
+     "error": "",
+     "license": "Vilkår ikke funnet; avklar med Statnett"
+    },
+    {
+     "id": "strompris",
+     "name": "Hva koster strømmen (NO1)",
+     "url": "https://www.hvakosterstrommen.no/",
+     "ok": true,
+     "stale": false,
+     "fetched_at": "2026-10-31T20:40:01+00:00",
+     "last_success_at": "2026-10-31T20:40:01+00:00",
+     "error": "",
+     "license": "Strømpriser levert av Hva koster strømmen.no"
+    }
+   ]
+  },
+  "vann": {
+   "id": "vann",
+   "name": "Vann",
+   "level": 0,
+   "level_name": "green",
+   "headline": "NVE: flom- og jordskredvarsel for Oslo på grønt nivå",
+   "stale": false,
+   "signals": [
+    {
+     "category": "vann",
+     "level": 0,
+     "text": "NVE: flom- og jordskredvarsel for Oslo på grønt nivå",
+     "source": "nve",
+     "url": "https://varsom.no/",
+     "since": null,
+     "value": 1,
+     "level_name": "green",
+     "stale": false,
+     "fetched_at": "2026-10-31T20:40:01+00:00"
+    }
+   ],
+   "sources": [
+    {
+     "id": "nve",
+     "name": "NVE varsom og magasinstatistikk",
+     "url": "https://varsom.no/",
+     "ok": true,
+     "stale": false,
+     "fetched_at": "2026-10-31T20:40:01+00:00",
+     "last_success_at": "2026-10-31T20:40:01+00:00",
+     "error": "",
+     "license": "NLOD. Varsler fra Flomvarslingen og Jordskredvarslingen i Norge, www.varsom.no"
+    }
+   ]
+  },
+  "ekom": {
+   "id": "ekom",
+   "name": "Mobil og internett",
+   "level": -1,
+   "level_name": "unknown",
+   "headline": "Ingen automatisk kilde ennå: operatørenes driftssider må skrapes, eller Cloudflare Radar slås på med token.",
+   "stale": false,
+   "signals": [],
+   "sources": []
+  },
+  "betaling": {
+   "id": "betaling",
+   "name": "Betaling og bank",
+   "level": 0,
+   "level_name": "green",
+   "headline": "Vipps MobilePay: All Systems Operational",
+   "stale": false,
+   "signals": [
+    {
+     "category": "betaling",
+     "level": 0,
+     "text": "Vipps MobilePay: All Systems Operational",
+     "source": "vipps",
+     "url": "https://status.vippsmobilepay.com",
+     "since": null,
+     "value": null,
+     "level_name": "green",
+     "stale": false,
+     "fetched_at": "2026-10-31T20:40:02+00:00"
+    }
+   ],
+   "sources": [
+    {
+     "id": "vipps",
+     "name": "Vipps MobilePay status",
+     "url": "https://status.vippsmobilepay.com",
+     "ok": true,
+     "stale": false,
+     "fetched_at": "2026-10-31T20:40:02+00:00",
+     "last_success_at": "2026-10-31T20:40:02+00:00",
+     "error": "",
+     "license": ""
+    }
+   ]
+  },
+  "transport": {
+   "id": "transport",
+   "name": "Transport",
+   "level": 0,
+   "level_name": "green",
+   "headline": "OSL: 1 innstilte og 3 forsinket over 15 min av 41 fly",
+   "stale": false,
+   "signals": [
+    {
+     "category": "transport",
+     "level": 0,
+     "text": "OSL: 1 innstilte og 3 forsinket over 15 min av 41 fly",
+     "source": "avinor",
+     "url": "https://avinor.no/flyplass/oslo/",
+     "since": null,
+     "value": 1,
+     "level_name": "green",
+     "stale": false,
+     "fetched_at": "2026-10-31T20:40:02+00:00"
+    },
+    {
+     "category": "transport",
+     "level": 0,
+     "text": "Entur: 55 åpne avvik, ingen merket alvorlige",
+     "source": "entur",
+     "url": "https://developer.entur.org/",
+     "since": null,
+     "value": 55,
+     "level_name": "green",
+     "stale": false,
+     "fetched_at": "2026-10-31T20:40:02+00:00"
+    },
+    {
+     "category": "transport",
+     "level": 0,
+     "text": "Ruter: 46 avvik, 0 alvorlige",
+     "source": "ruter",
+     "url": "https://ruter.no/trafikkstatus",
+     "since": null,
+     "value": 0,
+     "level_name": "green",
+     "stale": false,
+     "fetched_at": "2026-10-31T20:40:01+00:00"
+    },
+    {
+     "category": "transport",
+     "level": 0,
+     "text": "Ingen stengte hovedveier; 1 aktive trafikkmeldinger i Oslo-regionen",
+     "source": "vegvesen",
+     "url": "https://www.vegvesen.no/trafikk",
+     "since": null,
+     "value": 0,
+     "level_name": "green",
+     "stale": false,
+     "fetched_at": "2026-10-31T20:40:01+00:00"
+    },
+    {
+     "category": "transport",
+     "level": 0,
+     "text": "Reisetider: 0 av 43 strekninger med vesentlig forsinkelse",
+     "source": "vegvesen",
+     "url": "https://www.vegvesen.no/trafikk",
+     "since": null,
+     "value": 0,
+     "level_name": "green",
+     "stale": false,
+     "fetched_at": "2026-10-31T20:40:01+00:00"
+    }
+   ],
+   "sources": [
+    {
+     "id": "avinor",
+     "name": "Avinor flydata OSL",
+     "url": "https://avinor.no/flyplass/oslo/",
+     "ok": true,
+     "stale": false,
+     "fetched_at": "2026-10-31T20:40:02+00:00",
+     "last_success_at": "2026-10-31T20:40:02+00:00",
+     "error": "",
+     "license": "Flight data from Avinor (avinor.no)"
+    },
+    {
+     "id": "entur",
+     "name": "Entur avvik (SIRI SX)",
+     "url": "https://developer.entur.org/",
+     "ok": true,
+     "stale": false,
+     "fetched_at": "2026-10-31T20:40:02+00:00",
+     "last_success_at": "2026-10-31T20:40:02+00:00",
+     "error": "",
+     "license": "NLOD (Entur)"
+    },
+    {
+     "id": "ruter",
+     "name": "Ruter trafikkstatus",
+     "url": "https://ruter.no/trafikkstatus",
+     "ok": true,
+     "stale": false,
+     "fetched_at": "2026-10-31T20:40:01+00:00",
+     "last_success_at": "2026-10-31T20:40:01+00:00",
+     "error": "",
+     "license": "Vilkår ikke oppgitt; avklar med Ruter"
+    },
+    {
+     "id": "vegvesen",
+     "name": "Statens vegvesen trafikkmeldinger",
+     "url": "https://www.vegvesen.no/trafikk",
+     "ok": true,
+     "stale": false,
+     "fetched_at": "2026-10-31T20:40:01+00:00",
+     "last_success_at": "2026-10-31T20:40:01+00:00",
+     "error": "",
+     "license": "NLOD (Statens vegvesen)"
+    }
+   ]
+  },
+  "varsler": {
+   "id": "varsler",
+   "name": "Varsler",
+   "level": 0,
+   "level_name": "green",
+   "headline": "Ingen farevarsler fra MET for Oslo",
+   "stale": false,
+   "signals": [
+    {
+     "category": "varsler",
+     "level": 0,
+     "text": "Ingen farevarsler fra MET for Oslo",
+     "source": "met",
+     "url": "https://www.yr.no/nb/farevarsler",
+     "since": null,
+     "value": null,
+     "level_name": "green",
+     "stale": false,
+     "fetched_at": "2026-10-31T20:40:01+00:00"
+    },
+    {
+     "category": "varsler",
+     "level": 0,
+     "text": "Ingen aktive Nødvarsel (siste: AKUTT FARE OVER)",
+     "source": "nodvarsel",
+     "url": "https://www.nodvarsel.no/",
+     "since": null,
+     "value": null,
+     "level_name": "green",
+     "stale": false,
+     "fetched_at": "2026-10-31T20:40:01+00:00"
+    }
+   ],
+   "sources": [
+    {
+     "id": "met",
+     "name": "MET farevarsel (Oslo)",
+     "url": "https://www.yr.no/nb/farevarsler",
+     "ok": true,
+     "stale": false,
+     "fetched_at": "2026-10-31T20:40:01+00:00",
+     "last_success_at": "2026-10-31T20:40:01+00:00",
+     "error": "",
+     "license": "CC BY 4.0, Meteorologisk institutt"
+    },
+    {
+     "id": "nodvarsel",
+     "name": "Nødvarsel (DSB)",
+     "url": "https://www.nodvarsel.no/",
+     "ok": true,
+     "stale": false,
+     "fetched_at": "2026-10-31T20:40:01+00:00",
+     "last_success_at": "2026-10-31T20:40:01+00:00",
+     "error": "",
+     "license": ""
+    }
+   ]
+  },
+  "lokalt": {
+   "id": "lokalt",
+   "name": "Lokalt",
+   "level": 0,
+   "level_name": "green",
+   "headline": "Politiloggen: 0 aktive hendelser, ingen flagget som alvorlige",
+   "stale": false,
+   "signals": [
+    {
+     "category": "lokalt",
+     "level": 0,
+     "text": "Politiloggen: 0 aktive hendelser, ingen flagget som alvorlige",
+     "source": "politiloggen",
+     "url": "https://www.politiet.no/politiloggen/",
+     "since": null,
+     "value": 0,
+     "level_name": "green",
+     "stale": false,
+     "fetched_at": "2026-10-31T20:40:02+00:00"
+    }
+   ],
+   "sources": [
+    {
+     "id": "politiloggen",
+     "name": "Politiloggen Oslo",
+     "url": "https://www.politiet.no/politiloggen/",
+     "ok": true,
+     "stale": false,
+     "fetched_at": "2026-10-31T20:40:02+00:00",
+     "last_success_at": "2026-10-31T20:40:02+00:00",
+     "error": "",
+     "license": "NLOD 2.0 (Politiet)"
+    }
+   ]
+  },
+  "naboland": {
+   "id": "naboland",
+   "name": "Naboland",
+   "level": 0,
+   "level_name": "green",
+   "headline": "Ingen aktive VMA i Sverige; 2 krisenyheter siste to døgn",
+   "stale": false,
+   "signals": [
+    {
+     "category": "naboland",
+     "level": 0,
+     "text": "Ingen aktive VMA i Sverige; 2 krisenyheter siste to døgn",
+     "source": "krisinformation",
+     "url": "https://www.krisinformation.se/",
+     "since": null,
+     "value": 0,
+     "level_name": "green",
+     "stale": false,
+     "fetched_at": "2026-10-31T20:40:02+00:00"
+    },
+    {
+     "category": "naboland",
+     "level": 0,
+     "text": "Polisen: 500 hendelser, 50 flagget for gjennomsyn",
+     "source": "polisen",
+     "url": "https://polisen.se/aktuellt/handelser/",
+     "since": null,
+     "value": 50,
+     "level_name": "green",
+     "stale": false,
+     "fetched_at": "2026-10-31T20:40:02+00:00"
+    }
+   ],
+   "sources": [
+    {
+     "id": "krisinformation",
+     "name": "Krisinformation.se",
+     "url": "https://www.krisinformation.se/",
+     "ok": true,
+     "stale": false,
+     "fetched_at": "2026-10-31T20:40:02+00:00",
+     "last_success_at": "2026-10-31T20:40:02+00:00",
+     "error": "",
+     "license": ""
+    },
+    {
+     "id": "polisen",
+     "name": "Polisen händelser (SE)",
+     "url": "https://polisen.se/aktuellt/handelser/",
+     "ok": true,
+     "stale": false,
+     "fetched_at": "2026-10-31T20:40:02+00:00",
+     "last_success_at": "2026-10-31T20:40:02+00:00",
+     "error": "",
+     "license": "Se polisen.se/psidata"
+    }
+   ]
+  },
+  "nyheter": {
+   "id": "nyheter",
+   "name": "Nyheter",
+   "level": 0,
+   "level_name": "green",
+   "headline": "580 saker fra 39 feeder siste 36 t (1 feeder feilet)",
+   "stale": false,
+   "signals": [
+    {
+     "category": "nyheter",
+     "level": 0,
+     "text": "580 saker fra 39 feeder siste 36 t (1 feeder feilet)",
+     "source": "rss_news",
+     "url": "",
+     "since": null,
+     "value": 580,
+     "level_name": "green",
+     "stale": false,
+     "fetched_at": "2026-10-31T20:40:03+00:00"
+    }
+   ],
+   "sources": [
+    {
+     "id": "rss_news",
+     "name": "Nyhetsfeeder (RSS)",
+     "url": "",
+     "ok": true,
+     "stale": false,
+     "fetched_at": "2026-10-31T20:40:03+00:00",
+     "last_success_at": "2026-10-31T20:40:03+00:00",
+     "error": "1 feeder feilet: tv2dk",
+     "license": ""
+    }
+   ]
+  }
+ },
+ "sources_total": 15,
+ "sources_failed": [],
+ "sources_stale": []
+}

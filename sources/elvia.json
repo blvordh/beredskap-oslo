@@ -1,0 +1,31 @@
+{
+ "id": "elvia",
+ "name": "Elvia strømbruddskart",
+ "url": "https://www.elvia.no/strombruddskart/",
+ "category": "strom",
+ "ok": true,
+ "stale": false,
+ "fetched_at": "2026-10-31T20:40:01+00:00",
+ "last_success_at": "2026-10-31T20:40:01+00:00",
+ "error": "",
+ "license": "Udokumentert ArcGIS-tjeneste, ingen vilkår funnet",
+ "data": {
+  "outages": [],
+  "count": 0,
+  "unplanned_count": 0,
+  "customers_unplanned": 0,
+  "customers_planned": 0
+ },
+ "signals": [
+  {
+   "category": "strom",
+   "level": 0,
+   "text": "Ingen uplanlagte strømbrudd i Oslo; 0 kunder i planlagt utkobling",
+   "source": "elvia",
+   "url": "https://www.elvia.no/strombruddskart/",
+   "since": null,
+   "value": 0,
+   "level_name": "green"
+  }
+ ]
+}

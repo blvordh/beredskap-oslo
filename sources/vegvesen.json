@@ -1,0 +1,912 @@
+{
+ "id": "vegvesen",
+ "name": "Statens vegvesen trafikkmeldinger",
+ "url": "https://www.vegvesen.no/trafikk",
+ "category": "transport",
+ "ok": true,
+ "stale": false,
+ "fetched_at": "2026-10-31T20:40:01+00:00",
+ "last_success_at": "2026-10-31T20:40:01+00:00",
+ "error": "",
+ "license": "NLOD (Statens vegvesen)",
+ "data": {
+  "situations": {
+   "situations": [
+    {
+     "road": "RV226",
+     "location": "Rv. 226 Øvre Ris i Lillestrøm, Akershus",
+     "description": "Vegarbeid, gyldig mellom 00:00 og 23:59 hver dag fra 01.10.2026 til 30.11.2026.",
+     "type": "MaintenanceWorks",
+     "secondary": "roadworks",
+     "severity": "low",
+     "start": "2026-10-01T00:00:00+02:00",
+     "end": "2026-11-30T23:59:00+01:00",
+     "updated": "2026-08-31T09:04:45.601+02:00",
+     "closure": false,
+     "main_road": false,
+     "geometry": {
+      "type": "Point",
+      "coordinates": [
+       11.050658,
+       59.98342
+      ]
+     }
+    }
+   ],
+   "count": 1,
+   "closures_main_roads": []
+  },
+  "traveltimes": {
+   "stretches": [
+    {
+     "stretch": "Skedsmovollen - Kløfta",
+     "expected_s": 339,
+     "actual_s": 350,
+     "delay_pct": 3.0,
+     "status": "freeFlow",
+     "trend": "stable",
+     "missing": false,
+     "valid_at": "2026-10-31T21:35:39.984+01:00"
+    },
+    {
+     "stretch": "Kløfta - Skedsmovollen",
+     "expected_s": 339,
+     "actual_s": 352,
+     "delay_pct": 4.0,
+     "status": "freeFlow",
+     "trend": "stable",
+     "missing": false,
+     "valid_at": "2026-10-31T21:35:39.984+01:00"
+    },
+    {
+     "stretch": "Skedsmovollen - Karihaugen",
+     "expected_s": 407,
+     "actual_s": 422,
+     "delay_pct": 4.0,
+     "status": "freeFlow",
+     "trend": "stable",
+     "missing": false,
+     "valid_at": "2026-10-31T21:35:39.984+01:00"
+    },
+    {
+     "stretch": "Karihaugen - Skedsmovollen",
+     "expected_s": 404,
+     "actual_s": 407,
+     "delay_pct": 1.0,
+     "status": "freeFlow",
+     "trend": "stable",
+     "missing": false,
+     "valid_at": "2026-10-31T21:35:39.984+01:00"
+    },
+    {
+     "stretch": "Lillestrømbrua - Blåkollen",
+     "expected_s": 162,
+     "actual_s": 153,
+     "delay_pct": -6.0,
+     "status": "freeFlow",
+     "trend": "stable",
+     "missing": false,
+     "valid_at": "2026-10-31T21:35:39.984+01:00"
+    },
+    {
+     "stretch": "Blåkollen - Lillestrømbrua",
+     "expected_s": 166,
+     "actual_s": 160,
+     "delay_pct": -4.0,
+     "status": "freeFlow",
+     "trend": "stable",
+     "missing": false,
+     "valid_at": "2026-10-31T21:35:39.984+01:00"
+    },
+    {
+     "stretch": "Ammerud - Bjerke",
+     "expected_s": 228,
+     "actual_s": 0,
+     "delay_pct": null,
+     "status": "unknown",
+     "trend": null,
+     "missing": true,
+     "valid_at": "2026-10-31T21:35:39.984+01:00"
+    },
+    {
+     "stretch": "Bjerke - Ammerud",
+     "expected_s": 228,
+     "actual_s": 0,
+     "delay_pct": null,
+     "status": "unknown",
+     "trend": null,
+     "missing": true,
+     "valid_at": "2026-10-31T21:35:39.984+01:00"
+    },
+    {
+     "stretch": "Blåkollen - Karihaugen",
+     "expected_s": 202,
+     "actual_s": 197,
+     "delay_pct": -2.0,
+     "status": "freeFlow",
+     "trend": "stable",
+     "missing": false,
+     "valid_at": "2026-10-31T21:35:39.984+01:00"
+    },
+    {
+     "stretch": "Karihaugen - Blåkollen",
+     "expected_s": 202,
+     "actual_s": 211,
+     "delay_pct": 4.0,
+     "status": "freeFlow",
+     "trend": "stable",
+     "missing": false,
+     "valid_at": "2026-10-31T21:35:39.984+01:00"
+    },
+    {
+     "stretch": "Karihaugen - Grefsen",
+     "expected_s": 408,
+     "actual_s": 425,
+     "delay_pct": 4.0,
+     "status": "freeFlow",
+     "trend": "stable",
+     "missing": false,
+     "valid_at": "2026-10-31T21:35:39.984+01:00"
+    },
+    {
+     "stretch": "Karihaugen - Teisen",
+     "expected_s": 334,
+     "actual_s": 338,
+     "delay_pct": 1.0,
+     "status": "freeFlow",
+     "trend": "stable",
+     "missing": false,
+     "valid_at": "2026-10-31T21:35:39.984+01:00"
+    },
+    {
+     "stretch": "Karihaugen - Helsfyr",
+     "expected_s": 326,
+     "actual_s": 296,
+     "delay_pct": -9.0,
+     "status": "freeFlow",
+     "trend": "stable",
+     "missing": false,
+     "valid_at": "2026-10-31T21:35:39.984+01:00"
+    },
+    {
+     "stretch": "Helsfyr - Karihaugen",
+     "expected_s": 326,
+     "actual_s": 325,
+     "delay_pct": 0.0,
+     "status": "freeFlow",
+     "trend": "stable",
+     "missing": false,
+     "valid_at": "2026-10-31T21:35:39.984+01:00"
+    },
+    {
+     "stretch": "Teisen - Karihaugen",
+     "expected_s": 324,
+     "actual_s": 319,
+     "delay_pct": -2.0,
+     "status": "freeFlow",
+     "trend": "stable",
+     "missing": false,
+     "valid_at": "2026-10-31T21:35:39.984+01:00"
+    },
+    {
+     "stretch": "Grefsen - Karihaugen",
+     "expected_s": 420,
+     "actual_s": 442,
+     "delay_pct": 5.0,
+     "status": "freeFlow",
+     "trend": "stable",
+     "missing": false,
+     "valid_at": "2026-10-31T21:35:39.984+01:00"
+    },
+    {
+     "stretch": "Bjerke - Helsfyr",
+     "expected_s": 273,
+     "actual_s": 0,
+     "delay_pct": null,
+     "status": "unknown",
+     "trend": null,
+     "missing": true,
+     "valid_at": "2026-10-31T21:35:39.984+01:00"
+    },
+    {
+     "stretch": "Bjerke - Grefsen",
+     "expected_s": 87,
+     "actual_s": 0,
+     "delay_pct": null,
+     "status": "unknown",
+     "trend": null,
+     "missing": true,
+     "valid_at": "2026-10-31T21:35:39.984+01:00"
+    },
+    {
+     "stretch": "Bjerke - Teisen",
+     "expected_s": 237,
+     "actual_s": 0,
+     "delay_pct": null,
+     "status": "unknown",
+     "trend": null,
+     "missing": true,
+     "valid_at": "2026-10-31T21:35:39.984+01:00"
+    },
+    {
+     "stretch": "Helsfyr - Bjerke",
+     "expected_s": 273,
+     "actual_s": 0,
+     "delay_pct": null,
+     "status": "unknown",
+     "trend": null,
+     "missing": true,
+     "valid_at": "2026-10-31T21:35:39.984+01:00"
+    },
+    {
+     "stretch": "Grefsen - Bjerke",
+     "expected_s": 87,
+     "actual_s": 0,
+     "delay_pct": null,
+     "status": "unknown",
+     "trend": null,
+     "missing": true,
+     "valid_at": "2026-10-31T21:35:39.984+01:00"
+    },
+    {
+     "stretch": "Teisen - Bjerke",
+     "expected_s": 237,
+     "actual_s": 0,
+     "delay_pct": null,
+     "status": "unknown",
+     "trend": null,
+     "missing": true,
+     "valid_at": "2026-10-31T21:35:39.984+01:00"
+    },
+    {
+     "stretch": "Teisen - Grefsen",
+     "expected_s": 191,
+     "actual_s": 186,
+     "delay_pct": -3.0,
+     "status": "freeFlow",
+     "trend": "stable",
+     "missing": false,
+     "valid_at": "2026-10-31T21:35:39.984+01:00"
+    },
+    {
+     "stretch": "Grefsen - Teisen",
+     "expected_s": 191,
+     "actual_s": 200,
+     "delay_pct": 5.0,
+     "status": "freeFlow",
+     "trend": "stable",
+     "missing": false,
+     "valid_at": "2026-10-31T21:35:39.984+01:00"
+    },
+    {
+     "stretch": "Ryen - Teisen",
+     "expected_s": 164,
+     "actual_s": 155,
+     "delay_pct": -5.0,
+     "status": "freeFlow",
+     "trend": "stable",
+     "missing": false,
+     "valid_at": "2026-10-31T21:35:39.984+01:00"
+    },
+    {
+     "stretch": "Teisen - Ryen",
+     "expected_s": 164,
+     "actual_s": 150,
+     "delay_pct": -9.0,
+     "status": "freeFlow",
+     "trend": "stable",
+     "missing": false,
+     "valid_at": "2026-10-31T21:35:39.984+01:00"
+    },
+    {
+     "stretch": "Ryen - Helsfyr",
+     "expected_s": 300,
+     "actual_s": 0,
+     "delay_pct": null,
+     "status": "unknown",
+     "trend": null,
+     "missing": true,
+     "valid_at": "2026-10-31T21:35:39.984+01:00"
+    },
+    {
+     "stretch": "Helsfyr - Ryen",
+     "expected_s": 300,
+     "actual_s": 309,
+     "delay_pct": 3.0,
+     "status": "freeFlow",
+     "trend": "stable",
+     "missing": false,
+     "valid_at": "2026-10-31T21:35:39.984+01:00"
+    },
+    {
+     "stretch": "Sydhavna - Filipstad",
+     "expected_s": 256,
+     "actual_s": 255,
+     "delay_pct": 0.0,
+     "status": "freeFlow",
+     "trend": "stable",
+     "missing": false,
+     "valid_at": "2026-10-31T21:35:39.984+01:00"
+    },
+    {
+     "stretch": "Ryen - Filipstad",
+     "expected_s": 355,
+     "actual_s": 362,
+     "delay_pct": 2.0,
+     "status": "freeFlow",
+     "trend": "stable",
+     "missing": false,
+     "valid_at": "2026-10-31T21:35:39.984+01:00"
+    },
+    {
+     "stretch": "Filipstad - Ryen",
+     "expected_s": 355,
+     "actual_s": 375,
+     "delay_pct": 6.0,
+     "status": "freeFlow",
+     "trend": "stable",
+     "missing": false,
+     "valid_at": "2026-10-31T21:35:39.984+01:00"
+    },
+    {
+     "stretch": "Filipstad - Sydhavna",
+     "expected_s": 256,
+     "actual_s": 254,
+     "delay_pct": -1.0,
+     "status": "freeFlow",
+     "trend": "stable",
+     "missing": false,
+     "valid_at": "2026-10-31T21:35:39.984+01:00"
+    },
+    {
+     "stretch": "Klemetsrud - Ryen",
+     "expected_s": 275,
+     "actual_s": 258,
+     "delay_pct": -6.0,
+     "status": "freeFlow",
+     "trend": "stable",
+     "missing": false,
+     "valid_at": "2026-10-31T21:35:39.984+01:00"
+    },
+    {
+     "stretch": "Ryen - Klemetsrud",
+     "expected_s": 274,
+     "actual_s": 270,
+     "delay_pct": -1.0,
+     "status": "freeFlow",
+     "trend": "stable",
+     "missing": false,
+     "valid_at": "2026-10-31T21:35:39.984+01:00"
+    },
+    {
+     "stretch": "Fiskevollbukta - Sydhavna",
+     "expected_s": 388,
+     "actual_s": 414,
+     "delay_pct": 7.0,
+     "status": "freeFlow",
+     "trend": "stable",
+     "missing": false,
+     "valid_at": "2026-10-31T21:35:39.984+01:00"
+    },
+    {
+     "stretch": "Sydhavna - Fiskevollbukta",
+     "expected_s": 388,
+     "actual_s": 360,
+     "delay_pct": -7.0,
+     "status": "freeFlow",
+     "trend": "stable",
+     "missing": false,
+     "valid_at": "2026-10-31T21:35:39.984+01:00"
+    },
+    {
+     "stretch": "Taraldrud - Klemetsrud",
+     "expected_s": 232,
+     "actual_s": 228,
+     "delay_pct": -2.0,
+     "status": "freeFlow",
+     "trend": "stable",
+     "missing": false,
+     "valid_at": "2026-10-31T21:35:39.984+01:00"
+    },
+    {
+     "stretch": "Klemetsrud - Taraldrud",
+     "expected_s": 234,
+     "actual_s": 219,
+     "delay_pct": -6.0,
+     "status": "freeFlow",
+     "trend": "stable",
+     "missing": false,
+     "valid_at": "2026-10-31T21:35:39.984+01:00"
+    },
+    {
+     "stretch": "Tusenfryd - Fiskevollbukta",
+     "expected_s": 507,
+     "actual_s": 486,
+     "delay_pct": -4.0,
+     "status": "freeFlow",
+     "trend": "stable",
+     "missing": false,
+     "valid_at": "2026-10-31T21:35:39.984+01:00"
+    },
+    {
+     "stretch": "Fiskevollbukta - Tusenfryd",
+     "expected_s": 507,
+     "actual_s": 521,
+     "delay_pct": 3.0,
+     "status": "freeFlow",
+     "trend": "stable",
+     "missing": false,
+     "valid_at": "2026-10-31T21:35:39.984+01:00"
+    },
+    {
+     "stretch": "Tusenfryd - Taraldrud",
+     "expected_s": 248,
+     "actual_s": 239,
+     "delay_pct": -4.0,
+     "status": "freeFlow",
+     "trend": "stable",
+     "missing": false,
+     "valid_at": "2026-10-31T21:35:39.984+01:00"
+    },
+    {
+     "stretch": "Taraldrud - Tusenfryd",
+     "expected_s": 248,
+     "actual_s": 247,
+     "delay_pct": 0.0,
+     "status": "freeFlow",
+     "trend": "stable",
+     "missing": false,
+     "valid_at": "2026-10-31T21:35:39.984+01:00"
+    },
+    {
+     "stretch": "Ullevål - Strand",
+     "expected_s": 525,
+     "actual_s": 0,
+     "delay_pct": null,
+     "status": "unknown",
+     "trend": null,
+     "missing": true,
+     "valid_at": "2026-10-31T21:35:39.984+01:00"
+    },
+    {
+     "stretch": "Strand - Ullevål",
+     "expected_s": 528,
+     "actual_s": 535,
+     "delay_pct": 1.0,
+     "status": "freeFlow",
+     "trend": "stable",
+     "missing": false,
+     "valid_at": "2026-10-31T21:35:39.984+01:00"
+    },
+    {
+     "stretch": "Vøyenenga - Sollihøgda",
+     "expected_s": 495,
+     "actual_s": 0,
+     "delay_pct": null,
+     "status": "unknown",
+     "trend": null,
+     "missing": true,
+     "valid_at": "2026-10-31T21:35:39.984+01:00"
+    },
+    {
+     "stretch": "Sollihøgda - Vøyenenga",
+     "expected_s": 497,
+     "actual_s": 0,
+     "delay_pct": null,
+     "status": "unknown",
+     "trend": null,
+     "missing": true,
+     "valid_at": "2026-10-31T21:35:39.984+01:00"
+    },
+    {
+     "stretch": "Helsfyr - Filipstad",
+     "expected_s": 318,
+     "actual_s": 303,
+     "delay_pct": -5.0,
+     "status": "freeFlow",
+     "trend": "stable",
+     "missing": false,
+     "valid_at": "2026-10-31T21:35:39.984+01:00"
+    },
+    {
+     "stretch": "Filipstad - Helsfyr",
+     "expected_s": 318,
+     "actual_s": 317,
+     "delay_pct": 0.0,
+     "status": "freeFlow",
+     "trend": "stable",
+     "missing": false,
+     "valid_at": "2026-10-31T21:35:39.984+01:00"
+    },
+    {
+     "stretch": "Filipstad - Skøyen",
+     "expected_s": 153,
+     "actual_s": 168,
+     "delay_pct": 10.0,
+     "status": "freeFlow",
+     "trend": "stable",
+     "missing": false,
+     "valid_at": "2026-10-31T21:35:39.984+01:00"
+    },
+    {
+     "stretch": "Skøyen - Filipstad",
+     "expected_s": 153,
+     "actual_s": 174,
+     "delay_pct": 14.0,
+     "status": "freeFlow",
+     "trend": "stable",
+     "missing": false,
+     "valid_at": "2026-10-31T21:35:39.984+01:00"
+    },
+    {
+     "stretch": "Skøyen - Strand",
+     "expected_s": 204,
+     "actual_s": 0,
+     "delay_pct": null,
+     "status": "unknown",
+     "trend": null,
+     "missing": true,
+     "valid_at": "2026-10-31T21:35:39.984+01:00"
+    },
+    {
+     "stretch": "Strand - Skøyen",
+     "expected_s": 201,
+     "actual_s": 243,
+     "delay_pct": 21.0,
+     "status": "freeFlow",
+     "trend": "stable",
+     "missing": false,
+     "valid_at": "2026-10-31T21:35:39.984+01:00"
+    },
+    {
+     "stretch": "Strand - Sandvika",
+     "expected_s": 148,
+     "actual_s": 0,
+     "delay_pct": null,
+     "status": "unknown",
+     "trend": null,
+     "missing": true,
+     "valid_at": "2026-10-31T21:35:39.984+01:00"
+    },
+    {
+     "stretch": "Sandvika - Strand",
+     "expected_s": 150,
+     "actual_s": 146,
+     "delay_pct": -3.0,
+     "status": "freeFlow",
+     "trend": "stable",
+     "missing": false,
+     "valid_at": "2026-10-31T21:35:39.984+01:00"
+    },
+    {
+     "stretch": "Holmen - Vøyenenga",
+     "expected_s": 480,
+     "actual_s": 0,
+     "delay_pct": null,
+     "status": "unknown",
+     "trend": null,
+     "missing": true,
+     "valid_at": "2026-10-31T21:35:39.984+01:00"
+    },
+    {
+     "stretch": "Sandvika - Vøyenenga",
+     "expected_s": 242,
+     "actual_s": 0,
+     "delay_pct": null,
+     "status": "unknown",
+     "trend": null,
+     "missing": true,
+     "valid_at": "2026-10-31T21:35:39.984+01:00"
+    },
+    {
+     "stretch": "Vøyenenga - Holmen",
+     "expected_s": 480,
+     "actual_s": 0,
+     "delay_pct": null,
+     "status": "unknown",
+     "trend": null,
+     "missing": true,
+     "valid_at": "2026-10-31T21:35:39.984+01:00"
+    },
+    {
+     "stretch": "Vøyenenga - Sandvika",
+     "expected_s": 258,
+     "actual_s": 252,
+     "delay_pct": -2.0,
+     "status": "freeFlow",
+     "trend": "stable",
+     "missing": false,
+     "valid_at": "2026-10-31T21:35:39.984+01:00"
+    },
+    {
+     "stretch": "Sandvika - Holmen",
+     "expected_s": 216,
+     "actual_s": 0,
+     "delay_pct": null,
+     "status": "unknown",
+     "trend": null,
+     "missing": true,
+     "valid_at": "2026-10-31T21:35:39.984+01:00"
+    },
+    {
+     "stretch": "Holmen - Sandvika",
+     "expected_s": 198,
+     "actual_s": 0,
+     "delay_pct": null,
+     "status": "unknown",
+     "trend": null,
+     "missing": true,
+     "valid_at": "2026-10-31T21:35:39.984+01:00"
+    },
+    {
+     "stretch": "Holmen - Asker",
+     "expected_s": 163,
+     "actual_s": 0,
+     "delay_pct": null,
+     "status": "unknown",
+     "trend": null,
+     "missing": true,
+     "valid_at": "2026-10-31T21:35:39.984+01:00"
+    },
+    {
+     "stretch": "Asker - Holmen",
+     "expected_s": 160,
+     "actual_s": 0,
+     "delay_pct": null,
+     "status": "unknown",
+     "trend": null,
+     "missing": true,
+     "valid_at": "2026-10-31T21:35:39.984+01:00"
+    },
+    {
+     "stretch": "Asker - Heiakrysset (21)",
+     "expected_s": 228,
+     "actual_s": 0,
+     "delay_pct": null,
+     "status": "unknown",
+     "trend": null,
+     "missing": true,
+     "valid_at": "2026-10-31T21:35:39.984+01:00"
+    },
+    {
+     "stretch": "Heiakrysset (21) - Asker",
+     "expected_s": 228,
+     "actual_s": 0,
+     "delay_pct": null,
+     "status": "unknown",
+     "trend": null,
+     "missing": true,
+     "valid_at": "2026-10-31T21:35:39.984+01:00"
+    },
+    {
+     "stretch": "Grefsen - Ullevål",
+     "expected_s": 184,
+     "actual_s": 202,
+     "delay_pct": 10.0,
+     "status": "freeFlow",
+     "trend": "stable",
+     "missing": false,
+     "valid_at": "2026-10-31T21:35:39.984+01:00"
+    },
+    {
+     "stretch": "Ullevål - Grefsen",
+     "expected_s": 184,
+     "actual_s": 199,
+     "delay_pct": 8.0,
+     "status": "freeFlow",
+     "trend": "stable",
+     "missing": false,
+     "valid_at": "2026-10-31T21:35:39.984+01:00"
+    }
+   ],
+   "count": 66,
+   "with_data": 43
+  },
+  "cameras": [
+   {
+    "id": "3001091_1",
+    "road": "E16",
+    "name": "",
+    "image_url": "https://kamera.atlas.vegvesen.no/api/images/3001091_1",
+    "updated": "2026-10-31T21:39:29.357+01:00",
+    "geometry": {
+     "type": "Point",
+     "coordinates": [
+      10.425091,
+      59.939003
+     ]
+    }
+   },
+   {
+    "id": "0229009_1",
+    "road": "E18",
+    "name": "",
+    "image_url": "https://kamera.atlas.vegvesen.no/api/images/0229009_1",
+    "updated": "2026-10-31T21:39:28.914+01:00",
+    "geometry": {
+     "type": "Point",
+     "coordinates": [
+      10.539927,
+      59.89262
+     ]
+    }
+   },
+   {
+    "id": "0329002_1",
+    "road": "E18",
+    "name": "",
+    "image_url": "https://kamera.atlas.vegvesen.no/api/images/0329002_1",
+    "updated": "2026-10-31T21:39:28.927+01:00",
+    "geometry": {
+     "type": "Point",
+     "coordinates": [
+      10.7041645,
+      59.91114
+     ]
+    }
+   },
+   {
+    "id": "0329034_1",
+    "road": "RV150",
+    "name": "",
+    "image_url": "https://kamera.atlas.vegvesen.no/api/images/0329034_1",
+    "updated": "2026-10-31T21:39:28.893+01:00",
+    "geometry": {
+     "type": "Point",
+     "coordinates": [
+      10.726195,
+      59.94821
+     ]
+    }
+   },
+   {
+    "id": "0329007_1",
+    "road": "E18",
+    "name": "",
+    "image_url": "https://kamera.atlas.vegvesen.no/api/images/0329007_1",
+    "updated": "2026-10-31T21:39:27.906+01:00",
+    "geometry": {
+     "type": "Point",
+     "coordinates": [
+      10.77669,
+      59.841663
+     ]
+    }
+   },
+   {
+    "id": "0229017_1",
+    "road": "E18",
+    "name": "",
+    "image_url": "https://kamera.atlas.vegvesen.no/api/images/0229017_1",
+    "updated": "2026-10-31T21:39:28.595+01:00",
+    "geometry": {
+     "type": "Point",
+     "coordinates": [
+      10.770351,
+      59.775513
+     ]
+    }
+   },
+   {
+    "id": "0329031_1",
+    "road": "E6",
+    "name": "",
+    "image_url": "https://kamera.atlas.vegvesen.no/api/images/0329031_1",
+    "updated": "2026-10-31T21:39:28.737+01:00",
+    "geometry": {
+     "type": "Point",
+     "coordinates": [
+      10.807426,
+      59.887856
+     ]
+    }
+   },
+   {
+    "id": "0329003_1",
+    "road": "RV4",
+    "name": "",
+    "image_url": "https://kamera.atlas.vegvesen.no/api/images/0329003_1",
+    "updated": "2026-10-31T21:39:28.080+01:00",
+    "geometry": {
+     "type": "Point",
+     "coordinates": [
+      10.834632,
+      59.943844
+     ]
+    }
+   },
+   {
+    "id": "3000084_1",
+    "road": "E6",
+    "name": "",
+    "image_url": "https://kamera.atlas.vegvesen.no/api/images/3000084_1",
+    "updated": "2026-10-31T21:39:28.358+01:00",
+    "geometry": {
+     "type": "Point",
+     "coordinates": [
+      10.832886,
+      59.772236
+     ]
+    }
+   },
+   {
+    "id": "3000417_1",
+    "road": "E6",
+    "name": "",
+    "image_url": "https://kamera.atlas.vegvesen.no/api/images/3000417_1",
+    "updated": "2026-10-31T21:39:29.259+01:00",
+    "geometry": {
+     "type": "Point",
+     "coordinates": [
+      10.842923,
+      59.79944
+     ]
+    }
+   },
+   {
+    "id": "0329004_1",
+    "road": "E6",
+    "name": "",
+    "image_url": "https://kamera.atlas.vegvesen.no/api/images/0329004_1",
+    "updated": "2026-10-31T21:39:28.655+01:00",
+    "geometry": {
+     "type": "Point",
+     "coordinates": [
+      10.900307,
+      59.939404
+     ]
+    }
+   },
+   {
+    "id": "0229005_1",
+    "road": "RV4",
+    "name": "",
+    "image_url": "https://kamera.atlas.vegvesen.no/api/images/0229005_1",
+    "updated": "2026-10-31T21:39:27.713+01:00",
+    "geometry": {
+     "type": "Point",
+     "coordinates": [
+      10.929779,
+      59.98876
+     ]
+    }
+   },
+   {
+    "id": "0229018_1",
+    "road": "E6",
+    "name": "",
+    "image_url": "https://kamera.atlas.vegvesen.no/api/images/0229018_1",
+    "updated": "2026-10-31T21:39:27.629+01:00",
+    "geometry": {
+     "type": "Point",
+     "coordinates": [
+      10.97496,
+      59.96208
+     ]
+    }
+   }
+  ]
+ },
+ "signals": [
+  {
+   "category": "transport",
+   "level": 0,
+   "text": "Ingen stengte hovedveier; 1 aktive trafikkmeldinger i Oslo-regionen",
+   "source": "vegvesen",
+   "url": "https://www.vegvesen.no/trafikk",
+   "since": null,
+   "value": 0,
+   "level_name": "green"
+  },
+  {
+   "category": "transport",
+   "level": 0,
+   "text": "Reisetider: 0 av 43 strekninger med vesentlig forsinkelse",
+   "source": "vegvesen",
+   "url": "https://www.vegvesen.no/trafikk",
+   "since": null,
+   "value": 0,
+   "level_name": "green"
+  }
+ ]
+}

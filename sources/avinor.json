@@ -1,0 +1,142 @@
+{
+ "id": "avinor",
+ "name": "Avinor flydata OSL",
+ "url": "https://avinor.no/flyplass/oslo/",
+ "category": "transport",
+ "ok": true,
+ "stale": false,
+ "fetched_at": "2026-10-31T20:40:02+00:00",
+ "last_success_at": "2026-10-31T20:40:02+00:00",
+ "error": "",
+ "license": "Flight data from Avinor (avinor.no)",
+ "data": {
+  "departures": {
+   "count": 7,
+   "cancelled": 1,
+   "delayed": 0,
+   "status_codes": {
+    "C": 1,
+    "D": 6
+   },
+   "last_update": "2026-10-31T20:40:02.400929Z",
+   "credit": "Flight data from Avinor (avinor.no)"
+  },
+  "arrivals": {
+   "count": 34,
+   "cancelled": 0,
+   "delayed": 3,
+   "status_codes": {
+    "A": 8,
+    "E": 26
+   },
+   "last_update": "2026-10-31T20:39:56.556081Z",
+   "credit": "Flight data from Avinor (avinor.no)"
+  },
+  "departures_list": [
+   {
+    "id": "1243276784",
+    "airline": "SK",
+    "flight_id": "SK1330",
+    "scheduled": "2026-10-31T19:30:00Z",
+    "direction": "D",
+    "airport": "AES",
+    "dom_int": "D",
+    "status_code": "C",
+    "status_time": null,
+    "delay_min": null,
+    "delayed": false
+   },
+   {
+    "id": "2028433109",
+    "airline": "SK",
+    "flight_id": "SK291",
+    "scheduled": "2026-10-31T19:30:00Z",
+    "direction": "D",
+    "airport": "BGO",
+    "dom_int": "D",
+    "status_code": "D",
+    "status_time": "2026-10-31T19:25:19Z",
+    "delay_min": -5,
+    "delayed": false
+   },
+   {
+    "id": "1978071024",
+    "airline": "SK",
+    "flight_id": "SK4047",
+    "scheduled": "2026-10-31T19:30:00Z",
+    "direction": "D",
+    "airport": "SVG",
+    "dom_int": "D",
+    "status_code": "D",
+    "status_time": "2026-10-31T19:26:00Z",
+    "delay_min": -4,
+    "delayed": false
+   },
+   {
+    "id": "1725829345",
+    "airline": "AY",
+    "flight_id": "AY918",
+    "scheduled": "2026-10-31T19:50:00Z",
+    "direction": "D",
+    "airport": "HEL",
+    "dom_int": "S",
+    "status_code": "D",
+    "status_time": "2026-10-31T19:37:29Z",
+    "delay_min": -13,
+    "delayed": false
+   },
+   {
+    "id": "991646061",
+    "airline": "SK",
+    "flight_id": "SK370",
+    "scheduled": "2026-10-31T20:00:00Z",
+    "direction": "D",
+    "airport": "TRD",
+    "dom_int": "D",
+    "status_code": "D",
+    "status_time": "2026-10-31T20:08:21Z",
+    "delay_min": 8,
+    "delayed": false
+   },
+   {
+    "id": "1748603150",
+    "airline": "SK",
+    "flight_id": "SK1475",
+    "scheduled": "2026-10-31T20:05:00Z",
+    "direction": "D",
+    "airport": "CPH",
+    "dom_int": "S",
+    "status_code": "D",
+    "status_time": "2026-10-31T19:55:46Z",
+    "delay_min": -9,
+    "delayed": false
+   },
+   {
+    "id": "1295000880",
+    "airline": "SK",
+    "flight_id": "SK4432",
+    "scheduled": "2026-10-31T20:35:00Z",
+    "direction": "D",
+    "airport": "TOS",
+    "dom_int": "D",
+    "status_code": "D",
+    "status_time": "2026-10-31T20:29:47Z",
+    "delay_min": -5,
+    "delayed": false
+   }
+  ],
+  "credit": "Flight data from Avinor (avinor.no)"
+ },
+ "signals": [
+  {
+   "category": "transport",
+   "level": 0,
+   "text": "OSL: 1 innstilte og 3 forsinket over 15 min av 41 fly",
+   "source": "avinor",
+   "url": "https://avinor.no/flyplass/oslo/",
+   "since": null,
+   "value": 1,
+   "level_name": "green"
+  }
+ ]
+}

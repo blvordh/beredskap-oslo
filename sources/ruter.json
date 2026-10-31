@@ -1,0 +1,1037 @@
+{
+ "id": "ruter",
+ "name": "Ruter trafikkstatus",
+ "url": "https://ruter.no/trafikkstatus",
+ "category": "transport",
+ "ok": true,
+ "stale": false,
+ "fetched_at": "2026-10-31T20:40:01+00:00",
+ "last_success_at": "2026-10-31T20:40:01+00:00",
+ "error": "",
+ "license": "Vilkår ikke oppgitt; avklar med Ruter",
+ "data": {
+  "fetched_at_source": "2026-10-31T20:40:02.205Z",
+  "stale_after": "2026-10-31T20:41:02.297Z",
+  "situations": [
+   {
+    "id": "823966",
+    "summary": "Linje 385: Endring av rutetider lørdager",
+    "description": "Linje 385 får 30-minutters frekvens på lørdager mellom kl. 10 - 18 på strekningen Lørenskog sentrum og Olavsgaard.",
+    "report_type": "GENERAL",
+    "lines": [
+     "385"
+    ],
+    "modes": [
+     "bus"
+    ],
+    "stop_places": [],
+    "valid_from": "2026-10-31T09:00:00.000Z",
+    "valid_to": "2026-10-31T23:00:00.000Z",
+    "info_url": null
+   },
+   {
+    "id": "2026-73646-1",
+    "summary": "Linje 160 stopper ikke mellom Lysaker stasjon og Høvik kirke",
+    "description": "Linje 160 stopper ikke mellom Lysaker stasjon og Høvik kirke. Dette skyldes veiarbeid langs ruta.",
+    "report_type": "INCIDENT",
+    "lines": [
+     "160"
+    ],
+    "modes": [
+     "bus"
+    ],
+    "stop_places": [
+     "Oksenøyveien",
+     "Strand"
+    ],
+    "valid_from": "2026-10-30T20:00:00.000Z",
+    "valid_to": "2026-11-01T13:00:00.000Z",
+    "info_url": null
+   },
+   {
+    "id": "2026-73646-2",
+    "summary": "Linje 250N stopper ikke mellom Lysaker stasjon og Høvik stasjon",
+    "description": "Linje 250N stopper ikke mellom Lysaker stasjon og Høvik stasjon. Dette skyldes veiarbeid langs ruta.",
+    "report_type": "INCIDENT",
+    "lines": [
+     "250N"
+    ],
+    "modes": [
+     "bus"
+    ],
+    "stop_places": [
+     "Oksenøyveien",
+     "Strand"
+    ],
+    "valid_from": "2026-10-30T20:00:00.000Z",
+    "valid_to": "2026-11-01T13:00:00.000Z",
+    "info_url": null
+   },
+   {
+    "id": "2026-73646-3",
+    "summary": "Linje 270 stopper ikke mellom Lilløyveien og Høvik stasjon",
+    "description": "Linje 270 stopper ikke mellom Lilløyveien og Høvik stasjon. Dette skyldes veiarbeid langs ruta.",
+    "report_type": "INCIDENT",
+    "lines": [
+     "270"
+    ],
+    "modes": [
+     "bus"
+    ],
+    "stop_places": [
+     "Oksenøyveien",
+     "Strand"
+    ],
+    "valid_from": "2026-10-30T20:00:00.000Z",
+    "valid_to": "2026-11-01T13:00:00.000Z",
+    "info_url": null
+   },
+   {
+    "id": "2026-73646-4",
+    "summary": "Linje 250 stopper ikke på Oksenøyveien",
+    "description": "Linje 250 stopper ikke på Oksenøyveien. Dette skyldes veiarbeid langs ruta.",
+    "report_type": "INCIDENT",
+    "lines": [
+     "250"
+    ],
+    "modes": [
+     "bus"
+    ],
+    "stop_places": [
+     "Oksenøyveien"
+    ],
+    "valid_from": "2026-10-30T20:00:00.000Z",
+    "valid_to": "2026-11-01T13:00:00.000Z",
+    "info_url": null
+   },
+   {
+    "id": "2026-73626-1",
+    "summary": "Linje 315 stopper ikke mellom Fjellsrud skole og Knatten",
+    "description": "Linje 315 stopper ikke mellom Fjellsrud skole og Knatten. Dette skyldes veiarbeid langs ruta.",
+    "report_type": "INCIDENT",
+    "lines": [
+     "315"
+    ],
+    "modes": [
+     "bus"
+    ],
+    "stop_places": [
+     "Arne Garborgs vei",
+     "Dovre trygdesenter"
+    ],
+    "valid_from": "2026-10-26T18:40:00.000Z",
+    "valid_to": "2026-11-16T01:00:00.000Z",
+    "info_url": null
+   },
+   {
+    "id": "823960",
+    "summary": "Toaletter på Nakkholmen stengt for vinteren",
+    "description": "Toalettene på Nakkholmen er nå stengt ned for vinteren og vil holdes permanent stengt frem til april. Passasjerer som planlegger et besøk på øya bør derfor være oppmerksomme på at det ikke er tilgjengelige toalettfasiliteter der i denne perioden.",
+    "report_type": "GENERAL",
+    "lines": [
+     "B1"
+    ],
+    "modes": [
+     "water"
+    ],
+    "stop_places": [
+     "Nakkholmen"
+    ],
+    "valid_from": "2026-10-24T03:42:00.000Z",
+    "valid_to": "2027-03-31T21:59:00.000Z",
+    "info_url": null
+   },
+   {
+    "id": "2026-72959-2",
+    "summary": "Linje 3644 stopper ikke på Blakermoen",
+    "description": "Linje 3644 stopper ikke på Blakermoen. Dette skyldes en stengt vei.",
+    "report_type": "INCIDENT",
+    "lines": [
+     "3644"
+    ],
+    "modes": [
+     "bus"
+    ],
+    "stop_places": [
+     "Blakermoen"
+    ],
+    "valid_from": "2026-10-22T03:24:00.000Z",
+    "valid_to": "2026-11-09T22:59:00.000Z",
+    "info_url": null
+   },
+   {
+    "id": "2026-72959-1",
+    "summary": "Linje 3643 stopper ikke på Blakermoen",
+    "description": "Linje 3643 stopper ikke på Blakermoen. Dette skyldes en stengt vei.",
+    "report_type": "INCIDENT",
+    "lines": [
+     "3643"
+    ],
+    "modes": [
+     "bus"
+    ],
+    "stop_places": [
+     "Blakermoen"
+    ],
+    "valid_from": "2026-10-22T03:24:00.000Z",
+    "valid_to": "2026-11-09T22:59:00.000Z",
+    "info_url": null
+   },
+   {
+    "id": "823942",
+    "summary": "Holdeplass Ulven torg flyttet",
+    "description": "Holdeplass Ulven torg retning Økern er flyttet noe lenger frem og over til bilfeltet",
+    "report_type": "INCIDENT",
+    "lines": [
+     "23",
+     "24",
+     "28",
+     "125E"
+    ],
+    "modes": [
+     "bus"
+    ],
+    "stop_places": [
+     "Ulven torg"
+    ],
+    "valid_from": "2026-10-22T03:00:00.000Z",
+    "valid_to": "2026-11-27T22:59:00.000Z",
+    "info_url": null
+   },
+   {
+    "id": "823947",
+    "summary": "Stoppestedet Fjellsrud skole flyttet midlertidig",
+    "description": "Fjellsrud skole i retning Vallerudtoppen er flyttet til holdeplassen i Kloppaveien. Gangavstand ca. 150 meter",
+    "report_type": "INCIDENT",
+    "lines": [
+     "315"
+    ],
+    "modes": [
+     "bus"
+    ],
+    "stop_places": [
+     "Fjellsrud skole"
+    ],
+    "valid_from": "2026-10-19T02:00:00.000Z",
+    "valid_to": "2026-11-15T22:59:00.000Z",
+    "info_url": null
+   },
+   {
+    "id": "823932",
+    "summary": "Holdeplass Ski stasjon i retning mot Ski stasjon er flyttet",
+    "description": "Siste avstigningsholdeplass blir i Jernbanesvingen, bak Ski Storsenter. Buss 81N, 516 og 580 stopper ikke for avstigning på Ski stasjon (i Jernbaneveien) i perioden.",
+    "report_type": "INCIDENT",
+    "lines": [
+     "81N",
+     "516",
+     "580"
+    ],
+    "modes": [
+     "bus"
+    ],
+    "stop_places": [
+     "Ski stasjon Jernbaneveien"
+    ],
+    "valid_from": "2026-10-18T22:00:00.000Z",
+    "valid_to": "2026-11-06T22:59:00.000Z",
+    "info_url": null
+   },
+   {
+    "id": "823919",
+    "summary": "Grorud stasjon (plattform A): Buss 65 og 79 stopper på midlertidig holdeplass i Grorudveien.",
+    "description": "Dette skyldes veiarbeid på den ordinære holdeplassen.",
+    "report_type": "INCIDENT",
+    "lines": [
+     "65",
+     "79"
+    ],
+    "modes": [
+     "bus"
+    ],
+    "stop_places": [
+     "Grorud stasjon"
+    ],
+    "valid_from": "2026-10-13T02:00:00.000Z",
+    "valid_to": "2026-11-15T22:59:00.000Z",
+    "info_url": null
+   },
+   {
+    "id": "823921",
+    "summary": "Omkjøring på linje 3575",
+    "description": "Stopper ikke på holdeplass: Gamle Eltonveg, Gutugropa, Hagamoen, Haugerud, Korslund, Låvegghellinga og Slemdal.",
+    "report_type": "INCIDENT",
+    "lines": [],
+    "modes": [],
+    "stop_places": [
+     "Korslund",
+     "Hagamoen",
+     "Slemdal",
+     "Låvegghellinga",
+     "Haugerud",
+     "Gamle Eltonveg",
+     "Gutugropa"
+    ],
+    "valid_from": "2026-10-11T22:00:00.000Z",
+    "valid_to": "2026-12-13T22:59:00.000Z",
+    "info_url": null
+   },
+   {
+    "id": "823920",
+    "summary": "Omkjøring på linje 410",
+    "description": "Stopper ikke på holdeplass: Gamle Eltonveg, Gutugropa, Hagamoen, Haugerud, Korslund, Låvegghellinga og Slemdal.",
+    "report_type": "INCIDENT",
+    "lines": [
+     "410"
+    ],
+    "modes": [
+     "bus"
+    ],
+    "stop_places": [
+     "Korslund",
+     "Hagamoen",
+     "Slemdal",
+     "Låvegghellinga",
+     "Haugerud",
+     "Gamle Eltonveg",
+     "Gutugropa"
+    ],
+    "valid_from": "2026-10-11T22:00:00.000Z",
+    "valid_to": "2026-12-13T22:59:00.000Z",
+    "info_url": null
+   },
+   {
+    "id": "823922",
+    "summary": "Omkjøring på linje 3837",
+    "description": "Følgende holdeplasser på linje 3837 til og fra Eltonåsen skole blir iveratatt med minibuss/ taxi: Brotno, Døhlen, Finstad sameie, Finstad skole Gutugropa, Hagamoen, Haugerud, Korslund og Låvegghellinga.",
+    "report_type": "INCIDENT",
+    "lines": [
+     "3837"
+    ],
+    "modes": [
+     "bus"
+    ],
+    "stop_places": [
+     "Korslund",
+     "Hagamoen",
+     "Slemdal",
+     "Låvegghellinga",
+     "Haugerud",
+     "Gamle Eltonveg",
+     "Gutugropa"
+    ],
+    "valid_from": "2026-10-11T22:00:00.000Z",
+    "valid_to": "2026-12-13T22:59:00.000Z",
+    "info_url": null
+   },
+   {
+    "id": "2026-71016-2",
+    "summary": "Linje 516 stopper ikke på Ski skole",
+    "description": "Linje 516 stopper ikke på Ski skole. Dette skyldes veiarbeid langs ruta.",
+    "report_type": "INCIDENT",
+    "lines": [
+     "516"
+    ],
+    "modes": [
+     "bus"
+    ],
+    "stop_places": [
+     "Ski skole"
+    ],
+    "valid_from": "2026-10-05T17:34:00.000Z",
+    "valid_to": "2026-11-06T22:59:00.000Z",
+    "info_url": null
+   },
+   {
+    "id": "2026-71016-7",
+    "summary": "Linje 1572 stopper ikke på Ski skole",
+    "description": "Linje 1572 stopper ikke på Ski skole. Dette skyldes veiarbeid langs ruta.",
+    "report_type": "INCIDENT",
+    "lines": [
+     "1572"
+    ],
+    "modes": [
+     "bus"
+    ],
+    "stop_places": [
+     "Ski skole"
+    ],
+    "valid_from": "2026-10-05T17:34:00.000Z",
+    "valid_to": "2026-11-06T22:59:00.000Z",
+    "info_url": null
+   },
+   {
+    "id": "2026-71016-6",
+    "summary": "Linje 510 stopper ikke på Ski skole",
+    "description": "Linje 510 stopper ikke på Ski skole. Dette skyldes veiarbeid langs ruta.",
+    "report_type": "INCIDENT",
+    "lines": [
+     "510"
+    ],
+    "modes": [
+     "bus"
+    ],
+    "stop_places": [
+     "Ski skole"
+    ],
+    "valid_from": "2026-10-05T17:34:00.000Z",
+    "valid_to": "2026-11-06T22:59:00.000Z",
+    "info_url": null
+   },
+   {
+    "id": "2026-71016-5",
+    "summary": "Linje 350 stopper ikke på Ski skole",
+    "description": "Linje 350 stopper ikke på Ski skole. Dette skyldes veiarbeid langs ruta.",
+    "report_type": "INCIDENT",
+    "lines": [
+     "350"
+    ],
+    "modes": [
+     "bus"
+    ],
+    "stop_places": [
+     "Ski skole"
+    ],
+    "valid_from": "2026-10-05T17:34:00.000Z",
+    "valid_to": "2026-11-06T22:59:00.000Z",
+    "info_url": null
+   },
+   {
+    "id": "2026-71016-4",
+    "summary": "Linje 580 stopper ikke på Ski skole",
+    "description": "Linje 580 stopper ikke på Ski skole. Dette skyldes veiarbeid langs ruta.",
+    "report_type": "INCIDENT",
+    "lines": [
+     "580"
+    ],
+    "modes": [
+     "bus"
+    ],
+    "stop_places": [
+     "Ski skole"
+    ],
+    "valid_from": "2026-10-05T17:34:00.000Z",
+    "valid_to": "2026-11-06T22:59:00.000Z",
+    "info_url": null
+   },
+   {
+    "id": "2026-71016-3",
+    "summary": "Linje 81N stopper ikke på Ski skole",
+    "description": "Linje 81N stopper ikke på Ski skole. Dette skyldes veiarbeid langs ruta.",
+    "report_type": "INCIDENT",
+    "lines": [
+     "81N"
+    ],
+    "modes": [
+     "bus"
+    ],
+    "stop_places": [
+     "Ski skole"
+    ],
+    "valid_from": "2026-10-05T17:34:00.000Z",
+    "valid_to": "2026-11-06T22:59:00.000Z",
+    "info_url": null
+   },
+   {
+    "id": "2026-71016-1",
+    "summary": "Linje 515 stopper ikke på Ski skole",
+    "description": "Linje 515 stopper ikke på Ski skole. Dette skyldes veiarbeid langs ruta.",
+    "report_type": "INCIDENT",
+    "lines": [
+     "515"
+    ],
+    "modes": [
+     "bus"
+    ],
+    "stop_places": [
+     "Ski skole"
+    ],
+    "valid_from": "2026-10-05T17:34:00.000Z",
+    "valid_to": "2026-11-06T22:59:00.000Z",
+    "info_url": null
+   },
+   {
+    "id": "823911",
+    "summary": "Omkjøring på linje 381",
+    "description": "Grunnet veiarbeid betjener ikke linje 381 holdeplassene Kurbadet, Kastellveien og Bernt Ankers vei i begge retninger.",
+    "report_type": "INCIDENT",
+    "lines": [
+     "381"
+    ],
+    "modes": [
+     "bus"
+    ],
+    "stop_places": [],
+    "valid_from": "2026-10-04T22:00:00.000Z",
+    "valid_to": "2026-11-03T01:00:00.000Z",
+    "info_url": null
+   },
+   {
+    "id": "2026-70739-1",
+    "summary": "Linje 381 stopper ikke mellom Stalsberghagen og Strømmen kirke",
+    "description": "Linje 381 stopper ikke mellom Stalsberghagen og Strømmen kirke. Dette skyldes veiarbeid langs ruta.",
+    "report_type": "INCIDENT",
+    "lines": [
+     "381"
+    ],
+    "modes": [
+     "bus"
+    ],
+    "stop_places": [
+     "Bernt Ankers vei",
+     "Kastellveien",
+     "Kurbadet"
+    ],
+    "valid_from": "2026-10-04T22:00:00.000Z",
+    "valid_to": "2026-11-02T01:00:00.000Z",
+    "info_url": null
+   },
+   {
+    "id": "823910",
+    "summary": "Tøyen: Spor 4 retning sentrum",
+    "description": "På grunn av bygging av ny inngang, ber vi reisende benytte fremre del av toget ved avstigning.",
+    "report_type": "GENERAL",
+    "lines": [],
+    "modes": [],
+    "stop_places": [
+     "Tøyen"
+    ],
+    "valid_from": "2026-10-02T02:00:00.000Z",
+    "valid_to": "2026-12-31T22:59:00.000Z",
+    "info_url": null
+   },
+   {
+    "id": "823813",
+    "summary": "Buss 30 og 58 stopper ikke på Sandaker",
+    "description": "Bussene stopper på midlertidig holdeplass Sandakerveien i Amtmann Meinichs gate, og på holdeplass Grefsenveien i Sandakerveien.",
+    "report_type": "INCIDENT",
+    "lines": [
+     "30",
+     "58"
+    ],
+    "modes": [
+     "bus"
+    ],
+    "stop_places": [
+     "Sandaker"
+    ],
+    "valid_from": "2026-09-14T02:00:00.000Z",
+    "valid_to": "2026-11-17T01:00:00.000Z",
+    "info_url": null
+   },
+   {
+    "id": "823834",
+    "summary": "Buss 30 i retning mot Huk stopper ikke på holdeplass Sandaker.",
+    "description": "Bussen stopper i stedet på trikkens holdeplass i Grefsenveien.",
+    "report_type": "INCIDENT",
+    "lines": [
+     "30"
+    ],
+    "modes": [
+     "bus"
+    ],
+    "stop_places": [
+     "Grefsenveien"
+    ],
+    "valid_from": "2026-09-14T01:00:00.000Z",
+    "valid_to": "2026-11-16T00:00:00.000Z",
+    "info_url": null
+   },
+   {
+    "id": "823836",
+    "summary": "Buss 58 i retning mot Tveita stopper ikke på holdeplass Sandaker.",
+    "description": "Bussen stopper i stedet på trikkens holdeplass i Grefsenveien.",
+    "report_type": "INCIDENT",
+    "lines": [
+     "58"
+    ],
+    "modes": [
+     "bus"
+    ],
+    "stop_places": [
+     "Grefsenveien"
+    ],
+    "valid_from": "2026-09-14T01:00:00.000Z",
+    "valid_to": "2026-11-16T00:00:00.000Z",
+    "info_url": null
+   },
+   {
+    "id": "823835",
+    "summary": "Buss 58: Holdeplass Sandaker i retning mot Tamburveien er midlertidig flyttet.",
+    "description": "Holdeplassen er flyttet inn i Amtmann Meinichs gate",
+    "report_type": "INCIDENT",
+    "lines": [
+     "58"
+    ],
+    "modes": [
+     "bus"
+    ],
+    "stop_places": [
+     "Sandaker"
+    ],
+    "valid_from": "2026-09-14T01:00:00.000Z",
+    "valid_to": "2026-11-16T00:00:00.000Z",
+    "info_url": null
+   },
+   {
+    "id": "823833",
+    "summary": "Buss 30: Holdeplass Sandaker i retning mot Tamburveien er midlertidig flyttet",
+    "description": "Holdeplassen er flyttet inn i Amtmann Meinichs gate",
+    "report_type": "INCIDENT",
+    "lines": [
+     "30"
+    ],
+    "modes": [
+     "bus"
+    ],
+    "stop_places": [
+     "Sandaker"
+    ],
+    "valid_from": "2026-09-14T01:00:00.000Z",
+    "valid_to": "2026-11-16T00:00:00.000Z",
+    "info_url": null
+   },
+   {
+    "id": "823732",
+    "summary": "Buss 500 og 500N stopper ikke ved Drøbak kirke i retning mot Oslo",
+    "description": "Nærmeste holdeplass er Drøbak torg. Dette skyldes gravearbeider i Kirkegata",
+    "report_type": "INCIDENT",
+    "lines": [
+     "500",
+     "500N"
+    ],
+    "modes": [
+     "bus"
+    ],
+    "stop_places": [
+     "Drøbak kirke"
+    ],
+    "valid_from": "2026-08-19T05:00:00.000Z",
+    "valid_to": "2026-11-30T22:59:00.000Z",
+    "info_url": null
+   },
+   {
+    "id": "823740",
+    "summary": "Buss 21 har omkjøring mellom Bislett og Observatoriegata i retning mot Tjuvholmen",
+    "description": "Bussene kjører Pilestredet og Parkveien. Bussene stopper på holdeplass Welhavens gate og midlertidig holdeplass Riddervolds gate i Parkveien. På Solli stopper bussene på plattform B.",
+    "report_type": "INCIDENT",
+    "lines": [
+     "21"
+    ],
+    "modes": [
+     "bus"
+    ],
+    "stop_places": [
+     "Welhavens gate",
+     "Solli",
+     "Bislett",
+     "Sofies plass",
+     "St. Hanshaugen",
+     "Alexander Kiellands plass",
+     "Falck Ytters plass",
+     "Riddervolds gate"
+    ],
+    "valid_from": "2026-08-17T01:00:00.000Z",
+    "valid_to": "2026-11-09T22:59:00.000Z",
+    "info_url": null
+   },
+   {
+    "id": "740605",
+    "summary": "Linje 13: Buss for trikk direkte mellom Thune og Furulund - Lilleaker",
+    "description": "Vi kjører buss for trikk (linje 13B) direkte mellom Thune og Furulund - Lilleaker. Bussen stopper ikke på Sollerud. 13B betjener Thune fra midlertidig holdeplass i Drammensveien",
+    "report_type": "INCIDENT",
+    "lines": [
+     "13"
+    ],
+    "modes": [
+     "tram"
+    ],
+    "stop_places": [
+     "Dronningens gate",
+     "Øvre Slottsgate",
+     "Nationaltheatret",
+     "Solli",
+     "Skillebekk",
+     "Skarpsno",
+     "Nobels gate",
+     "Bjørvika",
+     "Thune"
+    ],
+    "valid_from": "2026-08-10T02:00:00.000Z",
+    "valid_to": "2027-01-29T01:00:00.000Z",
+    "info_url": null
+   },
+   {
+    "id": "823715",
+    "summary": "Avstigning med rullestol på Frognerseteren stasjon",
+    "description": "Ved ankomst Frognerseteren kan forflytningshemmede bli med toget videre når det kjører inn for å vende. Plattform mot sentrum er bedre egnet for avstigning med rullestol.",
+    "report_type": "INCIDENT",
+    "lines": [
+     "1"
+    ],
+    "modes": [
+     "metro"
+    ],
+    "stop_places": [
+     "Frognerseteren"
+    ],
+    "valid_from": "2026-08-06T08:18:00.000Z",
+    "valid_to": "2027-12-31T22:59:00.000Z",
+    "info_url": null
+   },
+   {
+    "id": "823609",
+    "summary": "Holdeplass Skjønhaug i retning Lindeberg er flyttet ca. 50 meter bakover.",
+    "description": "Dette skyldes bytting av membran på bruen rett etter holdeplassen.",
+    "report_type": "INCIDENT",
+    "lines": [
+     "26",
+     "79"
+    ],
+    "modes": [
+     "bus"
+    ],
+    "stop_places": [
+     "Skjønhaug"
+    ],
+    "valid_from": "2026-08-03T03:00:00.000Z",
+    "valid_to": "2026-12-31T22:59:00.000Z",
+    "info_url": null
+   },
+   {
+    "id": "822850",
+    "summary": "Holdeplass Refstadsvingen retning Nydalen flyttet",
+    "description": "Holdeplass Refstadsvingen (retning Nydalen) er flyttet midlertidig 70 meter tilbake i Refstadveien",
+    "report_type": "INCIDENT",
+    "lines": [
+     "58"
+    ],
+    "modes": [
+     "bus"
+    ],
+    "stop_places": [
+     "Refstadsvingen"
+    ],
+    "valid_from": "2026-08-02T22:00:00.000Z",
+    "valid_to": "2026-11-09T22:59:00.000Z",
+    "info_url": null
+   },
+   {
+    "id": "822457",
+    "summary": "Holdeplassen er flyttet 110 meter ned i Frysjavegen",
+    "description": "",
+    "report_type": "INCIDENT",
+    "lines": [
+     "25"
+    ],
+    "modes": [
+     "bus"
+    ],
+    "stop_places": [
+     "Skibakken"
+    ],
+    "valid_from": "2026-07-08T10:00:00.000Z",
+    "valid_to": "2027-07-04T21:59:00.000Z",
+    "info_url": null
+   },
+   {
+    "id": "822456",
+    "summary": "Holdeplass er flyttet ca. 80 meter oppover retning Maridalen/Kjelsås",
+    "description": "",
+    "report_type": "INCIDENT",
+    "lines": [
+     "51",
+     "54"
+    ],
+    "modes": [
+     "bus"
+    ],
+    "stop_places": [
+     "Skibakken"
+    ],
+    "valid_from": "2026-07-08T10:00:00.000Z",
+    "valid_to": "2027-07-07T21:59:00.000Z",
+    "info_url": null
+   },
+   {
+    "id": "822520",
+    "summary": "Holdeplass Stabekk stasjon i retning mot Bekkestua er flyttet ca. 50 meter bakover.",
+    "description": "Dette skyldes anleggsarbeid i området.",
+    "report_type": "INCIDENT",
+    "lines": [
+     "145",
+     "150",
+     "213"
+    ],
+    "modes": [
+     "bus"
+    ],
+    "stop_places": [
+     "Stabekk stasjon"
+    ],
+    "valid_from": "2026-07-06T07:00:00.000Z",
+    "valid_to": "2028-04-30T21:59:00.000Z",
+    "info_url": null
+   },
+   {
+    "id": "740651",
+    "summary": "Holdeplass Haslevangen i retning mot Oslo sentrum er midlertidig lagt ned.",
+    "description": "Dette skyldes et større byggearbeid i området. Nærmeste holdeplass er Hasle.",
+    "report_type": "INCIDENT",
+    "lines": [
+     "5N",
+     "28",
+     "60"
+    ],
+    "modes": [
+     "bus"
+    ],
+    "stop_places": [
+     "Hasle"
+    ],
+    "valid_from": "2026-06-29T02:00:00.000Z",
+    "valid_to": "2027-07-12T00:00:00.000Z",
+    "info_url": null
+   },
+   {
+    "id": "740629",
+    "summary": "Holdeplass Thune: Buss for trikk 13B stopper på andre siden av rundkjøringen i Drammensveien.",
+    "description": "Gangavstand ca. 140 meter i retning mot Skøyen stasjon.",
+    "report_type": "INCIDENT",
+    "lines": [
+     "13",
+     "13B"
+    ],
+    "modes": [
+     "bus",
+     "tram"
+    ],
+    "stop_places": [
+     "Skillebekk",
+     "Skarpsno",
+     "Nobels gate",
+     "Thune",
+     "Thune"
+    ],
+    "valid_from": "2026-06-10T15:45:00.000Z",
+    "valid_to": "2027-01-29T01:00:00.000Z",
+    "info_url": null
+   },
+   {
+    "id": "740604",
+    "summary": "Linje 13: Buss for trikk mellom Thune og Lilleaker",
+    "description": "Vi kjører buss for trikk (linje 13B) mellom Thune og Lilleaker. Bussen stopper ikke på Sollerud. 13B betjener Thune fra midlertidig holdeplass i Drammensveien",
+    "report_type": "INCIDENT",
+    "lines": [
+     "13",
+     "13B"
+    ],
+    "modes": [
+     "bus",
+     "tram"
+    ],
+    "stop_places": [
+     "Skillebekk",
+     "Skarpsno",
+     "Nobels gate",
+     "Thune"
+    ],
+    "valid_from": "2026-06-10T02:00:00.000Z",
+    "valid_to": "2027-01-29T01:00:00.000Z",
+    "info_url": null
+   },
+   {
+    "id": "740631",
+    "summary": "Buss 20 og 31 stopper i bilfeltet på Thune",
+    "description": "",
+    "report_type": "INCIDENT",
+    "lines": [
+     "20",
+     "31"
+    ],
+    "modes": [
+     "bus"
+    ],
+    "stop_places": [
+     "Thune"
+    ],
+    "valid_from": "2026-06-09T21:45:00.000Z",
+    "valid_to": "2027-01-29T01:00:00.000Z",
+    "info_url": null
+   },
+   {
+    "id": "740615",
+    "summary": "Holdeplass Abbediengen betjenes i Sigurd Iversens vei",
+    "description": "Gjelder i retning Skøyen.",
+    "report_type": "INCIDENT",
+    "lines": [
+     "13B"
+    ],
+    "modes": [
+     "bus"
+    ],
+    "stop_places": [
+     "Abbediengen"
+    ],
+    "valid_from": "2026-06-09T21:45:00.000Z",
+    "valid_to": "2027-01-29T01:00:00.000Z",
+    "info_url": null
+   },
+   {
+    "id": "740383",
+    "summary": "Buss 21: Omkjøring mellom Riddervolds plass og Hegdehaugsveien i retning mot Helsfyr.",
+    "description": "Bussene kjører via Holtegata. Under omkjøringen stopper bussene på holdeplass Rosenborg i Holtegata.",
+    "report_type": "INCIDENT",
+    "lines": [
+     "21"
+    ],
+    "modes": [
+     "bus"
+    ],
+    "stop_places": [
+     "Tjuvholmen",
+     "Solli",
+     "Observatoriegata",
+     "Rosenborg",
+     "Riddervolds plass"
+    ],
+    "valid_from": "2026-05-08T17:50:00.000Z",
+    "valid_to": "2026-11-09T22:59:00.000Z",
+    "info_url": null
+   },
+   {
+    "id": "740350",
+    "summary": "Holdeplass CC vest retning Simensbråten/Voksen skog er flyttet 50 meter bakover",
+    "description": "Dette skyldes buss for trikk på Lilleakerbanen.",
+    "report_type": "INCIDENT",
+    "lines": [
+     "23",
+     "42",
+     "42N"
+    ],
+    "modes": [
+     "bus"
+    ],
+    "stop_places": [
+     "CC vest"
+    ],
+    "valid_from": "2026-04-14T22:00:00.000Z",
+    "valid_to": "2027-01-29T22:59:00.000Z",
+    "info_url": null
+   },
+   {
+    "id": "740362",
+    "summary": "Husk å sjekke siste avgang fra din destinasjon før du går av båten",
+    "description": "",
+    "report_type": "GENERAL",
+    "lines": [
+     "B1"
+    ],
+    "modes": [
+     "water"
+    ],
+    "stop_places": [],
+    "valid_from": "2026-03-26T08:54:00.000Z",
+    "valid_to": "2026-10-31T22:59:00.000Z",
+    "info_url": null
+   },
+   {
+    "id": "740310",
+    "summary": "Linje 453 og 455 har omkjøring",
+    "description": "Holdeplass Sandnesvegen flyttes midlertidig ut i Eidsvegen. Gangavstand ca. 100 meter. Holdeplass Auli senter i retning mot Årnes flyttes til motsatt side av veien utenfor Kiwi (Samme holdeplass som bussene benytter i retning mot Rånåsfoss).",
+    "report_type": "INCIDENT",
+    "lines": [
+     "453",
+     "455"
+    ],
+    "modes": [
+     "bus"
+    ],
+    "stop_places": [
+     "Sandnesvegen",
+     "Auli senter"
+    ],
+    "valid_from": "2026-03-09T23:00:00.000Z",
+    "valid_to": "2026-12-31T22:59:00.000Z",
+    "info_url": null
+   },
+   {
+    "id": "740003",
+    "summary": "Holdeplass Kolbotn torg er flyttet",
+    "description": "Linje 83, 83N, 580 og 585 stopper på midlertidig holdeplass i Ingierveien. Gjelder i retning Oslo og Svartskog.",
+    "report_type": "INCIDENT",
+    "lines": [],
+    "modes": [],
+    "stop_places": [
+     "Kolbotn torg"
+    ],
+    "valid_from": "2025-10-10T12:00:00.000Z",
+    "valid_to": "2026-12-31T22:59:00.000Z",
+    "info_url": null
+   },
+   {
+    "id": "739491",
+    "summary": "Linje 1: anleggsarbeid ved Diakonhjemmet",
+    "description": "Kunder som skal fra/til Diakonhjemmet anbefales å benytte holdeplass Steinerud i stedet for Frøen",
+    "report_type": "GENERAL",
+    "lines": [
+     "1"
+    ],
+    "modes": [
+     "metro"
+    ],
+    "stop_places": [
+     "Frøen",
+     "Steinerud"
+    ],
+    "valid_from": "2025-06-01T22:00:00.000Z",
+    "valid_to": "2027-05-31T21:59:00.000Z",
+    "info_url": null
+   },
+   {
+    "id": "597420",
+    "summary": "Holdeplassene Tinghuset, Stortorvet, Lakkegata skole og Ekebergparken egner seg ikke for rullestolbrukere.",
+    "description": "Benytt andre holdeplasser for av- og påstigning. Gjelder i begge retninger.",
+    "report_type": "GENERAL",
+    "lines": [
+     "17",
+     "18",
+     "19"
+    ],
+    "modes": [
+     "tram"
+    ],
+    "stop_places": [
+     "Stortorvet",
+     "Tinghuset",
+     "Lakkegata skole",
+     "Ekebergparken"
+    ],
+    "valid_from": "2023-07-17T08:16:00.000Z",
+    "valid_to": "2027-12-31T22:59:00.000Z",
+    "info_url": null
+   }
+  ],
+  "planned_changes": 0,
+  "incident_count": 46,
+  "incidents_by_mode": {
+   "bus": 42,
+   "ukjent": 2,
+   "tram": 3,
+   "metro": 1
+  },
+  "serious_count": 0,
+  "serious": []
+ },
+ "signals": [
+  {
+   "category": "transport",
+   "level": 0,
+   "text": "Ruter: 46 avvik, 0 alvorlige",
+   "source": "ruter",
+   "url": "https://ruter.no/trafikkstatus",
+   "since": null,
+   "value": 0,
+   "level_name": "green"
+  }
+ ]
+}

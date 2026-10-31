@@ -1,0 +1,179 @@
+{
+ "id": "nodvarsel",
+ "name": "Nødvarsel (DSB)",
+ "url": "https://www.nodvarsel.no/",
+ "category": "varsler",
+ "ok": true,
+ "stale": false,
+ "fetched_at": "2026-10-31T20:40:01+00:00",
+ "last_success_at": "2026-10-31T20:40:01+00:00",
+ "error": "",
+ "license": "",
+ "data": {
+  "active": [],
+  "previous": [
+   {
+    "title": "AKUTT FARE OVER",
+    "link": "https://www.nodvarsel.no/tidligere-varsler/akutt-fare-over/",
+    "summary": "AKUTT FARE OVER",
+    "updated": "2026-10-02T20:31:02+00:00"
+   },
+   {
+    "title": "EKSPLOSJONSFARE",
+    "link": "https://www.nodvarsel.no/tidligere-varsler/eksplosjonsfare3/",
+    "summary": "EKSPLOSJONSFARE",
+    "updated": "2026-10-02T19:22:24+00:00"
+   },
+   {
+    "title": "Brann, Sortland",
+    "link": "https://www.nodvarsel.no/tidligere-varsler/brann-sortland/",
+    "summary": "Brann, Sortland",
+    "updated": "2026-09-17T16:03:59+00:00"
+   },
+   {
+    "title": "Brann i objekt",
+    "link": "https://www.nodvarsel.no/tidligere-varsler/brann-i-objekt2/",
+    "summary": "Brann i objekt",
+    "updated": "2026-08-31T23:09:02+00:00"
+   },
+   {
+    "title": "Brann i objekt",
+    "link": "https://www.nodvarsel.no/tidligere-varsler/brann-i-objekt/",
+    "summary": "Brann i objekt",
+    "updated": "2026-08-22T00:30:53+00:00"
+   },
+   {
+    "title": "Brann Skog / Natur",
+    "link": "https://www.nodvarsel.no/tidligere-varsler/brann-skog--natur/",
+    "summary": "Brann Skog / Natur",
+    "updated": "2026-07-17T15:14:35+00:00"
+   },
+   {
+    "title": "Nasjonal varslingsprøve",
+    "link": "https://www.nodvarsel.no/tidligere-varsler/nasjonal-varslingsprove2/",
+    "summary": "Nasjonal varslingsprøve",
+    "updated": "2026-06-10T10:00:01+00:00"
+   },
+   {
+    "title": "TEST",
+    "link": "https://www.nodvarsel.no/tidligere-varsler/test/",
+    "summary": "TEST",
+    "updated": "2026-06-01T10:00:00+00:00"
+   },
+   {
+    "title": "Faren er over - normalisering av samfunnet",
+    "link": "https://www.nodvarsel.no/tidligere-varsler/faren-er-over---normalisering-av-samfunnet/",
+    "summary": "Faren er over - normalisering av samfunnet",
+    "updated": "2026-05-27T15:12:27+00:00"
+   },
+   {
+    "title": "Brann – i industri bygg . Dirdal",
+    "link": "https://www.nodvarsel.no/tidligere-varsler/brann--i-industri-bygg-.-dirdal",
+    "summary": "Brann – i industri bygg . Dirdal",
+    "updated": "2026-05-27T08:40:17+00:00"
+   },
+   {
+    "title": "FAREN OVER",
+    "link": "https://www.nodvarsel.no/tidligere-varsler/faren-over2/",
+    "summary": "FAREN OVER",
+    "updated": "2026-05-02T22:05:07+00:00"
+   },
+   {
+    "title": "Brann",
+    "link": "https://www.nodvarsel.no/tidligere-varsler/brann2/",
+    "summary": "Brann",
+    "updated": "2026-05-02T20:02:02+00:00"
+   },
+   {
+    "title": "FAREN OVER",
+    "link": "https://www.nodvarsel.no/tidligere-varsler/faren-over/",
+    "summary": "FAREN OVER",
+    "updated": "2026-05-02T11:43:15+00:00"
+   },
+   {
+    "title": "Evakuering av beboere i Hellesvingen.",
+    "link": "https://www.nodvarsel.no/tidligere-varsler/evakuering-av-beboere-i-hellesvingen/",
+    "summary": "Evakuering av beboere i Hellesvingen.",
+    "updated": "2026-05-02T08:55:34+00:00"
+   },
+   {
+    "title": "Brann på Emma Hjort",
+    "link": "https://www.nodvarsel.no/tidligere-varsler/brann-pa-emma-hjort-/",
+    "summary": "Brann på Emma Hjort",
+    "updated": "2026-05-02T08:34:13+00:00"
+   },
+   {
+    "title": "LEKKASJE AV AMMONIAKK",
+    "link": "https://www.nodvarsel.no/tidligere-varsler/lekkasje-av-ammoniakk/",
+    "summary": "LEKKASJE AV AMMONIAKK",
+    "updated": "2026-04-30T18:57:24+00:00"
+   },
+   {
+    "title": "Brann - skog/natur",
+    "link": "https://www.nodvarsel.no/tidligere-varsler/brann---skognatur/",
+    "summary": "Brann - skog/natur",
+    "updated": "2026-04-26T19:16:47+00:00"
+   },
+   {
+    "title": "Oppdatering angående brann på bensinstasjonen i Øksfjord",
+    "link": "https://www.nodvarsel.no/tidligere-varsler/oppdatering-angaende-brann-pa-bensinstasjonen-i-oksfjord/",
+    "summary": "Oppdatering angående brann på bensinstasjonen i Øksfjord",
+    "updated": "2026-03-26T18:34:50+00:00"
+   },
+   {
+    "title": "Brann på bensinstasjonen i Øksfjord",
+    "link": "https://www.nodvarsel.no/tidligere-varsler/brann-pa-bensinstasjonen-i-oksfjord/",
+    "summary": "Brann på bensinstasjonen i Øksfjord",
+    "updated": "2026-03-26T14:14:48+00:00"
+   },
+   {
+    "title": "Teknisk test av Nødvarsel 3",
+    "link": "https://www.nodvarsel.no/tidligere-varsler/teknisk-test-av-nodvarsel-3/",
+    "summary": "Teknisk test av Nødvarsel 3",
+    "updated": "2026-03-05T14:06:48+00:00"
+   },
+   {
+    "title": "Teknisk test av Nødvarsel 1",
+    "link": "https://www.nodvarsel.no/tidligere-varsler/teknisk-test-av-nodvarsel-1/",
+    "summary": "Teknisk test av Nødvarsel 1",
+    "updated": "2026-03-05T12:06:55+00:00"
+   },
+   {
+    "title": "Nasjonal varslingsprøve",
+    "link": "https://www.nodvarsel.no/tidligere-varsler/nasjonal-varslingsprove/",
+    "summary": "Nasjonal varslingsprøve",
+    "updated": "2026-01-14T11:00:02+00:00"
+   },
+   {
+    "title": "TEST 5 januar",
+    "link": "https://www.nodvarsel.no/tidligere-varsler/test-5-januar/",
+    "summary": "TEST 5 januar",
+    "updated": "2026-01-05T11:00:01+00:00"
+   },
+   {
+    "title": "Bodø sentrum",
+    "link": "https://www.nodvarsel.no/tidligere-varsler/bodo-sentrum/",
+    "summary": "Bodø sentrum",
+    "updated": "2025-12-27T09:23:05+00:00"
+   },
+   {
+    "title": "Befolkningsvarsling fra Oppdal kommune",
+    "link": "https://www.nodvarsel.no/tidligere-varsler/befolkningsvarsling-fra-oppdal-kommune/",
+    "summary": "Befolkningsvarsling fra Oppdal kommune",
+    "updated": "2025-10-04T11:28:37+00:00"
+   }
+  ]
+ },
+ "signals": [
+  {
+   "category": "varsler",
+   "level": 0,
+   "text": "Ingen aktive Nødvarsel (siste: AKUTT FARE OVER)",
+   "source": "nodvarsel",
+   "url": "https://www.nodvarsel.no/",
+   "since": null,
+   "value": null,
+   "level_name": "green"
+  }
+ ]
+}

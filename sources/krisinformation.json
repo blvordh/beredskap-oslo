@@ -1,0 +1,51 @@
+{
+ "id": "krisinformation",
+ "name": "Krisinformation.se",
+ "url": "https://www.krisinformation.se/",
+ "category": "naboland",
+ "ok": true,
+ "stale": false,
+ "fetched_at": "2026-10-31T20:40:02+00:00",
+ "last_success_at": "2026-10-31T20:40:02+00:00",
+ "error": "",
+ "license": "",
+ "data": {
+  "vmas": [],
+  "news": [
+   {
+    "id": "1234",
+    "published": "2026-10-30T10:16:14+01:00",
+    "updated": "2026-10-31T09:43:52+01:00",
+    "headline": "Fortsatta oroligheter i flera europeiska länder",
+    "preamble": "Demonstrationer väntas fortsatt förekomma i bland annat Frankrike, Italien, Tyskland och Albanien. Respektive ambassad uppmanar svenska resenärer till vaksamhet.",
+    "url": "https://www.krisinformation.se/aktuellt/nyheter/fortsatta-oroligheter-i-frankrike/",
+    "area": "Sverige",
+    "event": "News",
+    "sender": ""
+   },
+   {
+    "id": "1227",
+    "published": "2026-10-28T13:15:15+01:00",
+    "updated": "2026-10-30T10:25:24+01:00",
+    "headline": "Allvarlig tågolycka i Spanien",
+    "preamble": "En allvarlig tågolycka har inträffat i Spanien med flera omkomna och skadade. Svenskar i området uppmanas kontakta anhöriga.",
+    "url": "https://www.krisinformation.se/aktuellt/nyheter/allvarlig-tagolycka-i-spanien/",
+    "area": "Sverige",
+    "event": "News",
+    "sender": ""
+   }
+  ]
+ },
+ "signals": [
+  {
+   "category": "naboland",
+   "level": 0,
+   "text": "Ingen aktive VMA i Sverige; 2 krisenyheter siste to døgn",
+   "source": "krisinformation",
+   "url": "https://www.krisinformation.se/",
+   "since": null,
+   "value": 0,
+   "level_name": "green"
+  }
+ ]
+}
