@@ -1,0 +1,45 @@
+{
+ "id": "elvia",
+ "name": "Elvia strømbruddskart",
+ "url": "https://www.elvia.no/strombruddskart/",
+ "category": "strom",
+ "ok": true,
+ "stale": false,
+ "fetched_at": "2026-11-07T18:51:00+00:00",
+ "last_success_at": "2026-11-07T18:51:00+00:00",
+ "error": "",
+ "license": "Udokumentert ArcGIS-tjeneste, ingen vilkår funnet",
+ "data": {
+  "outages": [
+   {
+    "customers": 1,
+    "planned": true,
+    "type": "Planned",
+    "status": "deenergized",
+    "description": "Planned",
+    "detected_at": null,
+    "start": "2026-11-03T23:01:00+00:00",
+    "end": "2026-11-04T05:00:00+00:00",
+    "postcode": "0181",
+    "place": "Oslo",
+    "substation": "1833"
+   }
+  ],
+  "count": 1,
+  "unplanned_count": 0,
+  "customers_unplanned": 0,
+  "customers_planned": 1
+ },
+ "signals": [
+  {
+   "category": "strom",
+   "level": 0,
+   "text": "Ingen uplanlagte strømbrudd i Oslo; 1 kunder i planlagt utkobling",
+   "source": "elvia",
+   "url": "https://www.elvia.no/strombruddskart/",
+   "since": null,
+   "value": 0,
+   "level_name": "green"
+  }
+ ]
+}

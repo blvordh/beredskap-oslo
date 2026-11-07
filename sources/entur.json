@@ -1,0 +1,847 @@
+{
+ "id": "entur",
+ "name": "Entur avvik (SIRI SX)",
+ "url": "https://developer.entur.org/",
+ "category": "transport",
+ "ok": true,
+ "stale": false,
+ "fetched_at": "2026-11-07T18:51:00+00:00",
+ "last_success_at": "2026-11-07T18:51:00+00:00",
+ "error": "",
+ "license": "NLOD (Entur)",
+ "data": {
+  "situations": [
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:823966",
+    "severity": "normal",
+    "report_type": "general",
+    "progress": "open",
+    "start": "2026-10-31T10:00:00+01:00",
+    "end": "2026-11-01T00:00:00+01:00",
+    "summary": "Linje 385: Endring av rutetider lørdager",
+    "description": "Linje 385 får 30-minutters frekvens på lørdager mellom kl. 10 - 18 på strekningen Lørenskog sentrum og Olavsgaard.",
+    "lines": [
+     "RUT:Line:385"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:740383",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-05-08T19:50:00+02:00",
+    "end": "2026-11-09T23:59:00+01:00",
+    "summary": "Buss 21: Omkjøring mellom Riddervolds plass og Hegdehaugsveien i retning mot Helsfyr.",
+    "description": "Bussene kjører via Holtegata. Under omkjøringen stopper bussene på holdeplass Rosenborg i Holtegata.",
+    "lines": [
+     "RUT:Line:21"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:823834",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-09-14T03:00:00+02:00",
+    "end": "2026-11-16T01:00:00+01:00",
+    "summary": "Buss 30 i retning mot Huk stopper ikke på holdeplass Sandaker.",
+    "description": "Bussen stopper i stedet på trikkens holdeplass i Grefsenveien.",
+    "lines": [
+     "RUT:Line:30"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:597420",
+    "severity": "normal",
+    "report_type": "general",
+    "progress": "open",
+    "start": "2023-07-17T10:16:00+02:00",
+    "end": "2027-12-31T23:59:00+01:00",
+    "summary": "Holdeplassene Tinghuset, Stortorvet, Lakkegata skole og Ekebergparken egner seg ikke for rullestolbrukere.",
+    "description": "Benytt andre holdeplasser for av- og påstigning. Gjelder i begge retninger.",
+    "lines": [
+     "RUT:Line:17",
+     "RUT:Line:18",
+     "RUT:Line:19"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-71016-4",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-10-05T19:34:00+02:00",
+    "end": "2026-11-13T23:59:00+01:00",
+    "summary": "Linje 580 stopper ikke på Ski skole",
+    "description": "Linje 580 stopper ikke på Ski skole. Dette skyldes veiarbeid langs ruta.",
+    "lines": [
+     "RUT:Line:580"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:823922",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-10-12T00:00:00+02:00",
+    "end": "2026-12-13T23:59:00+01:00",
+    "summary": "Omkjøring på linje 3837",
+    "description": "Følgende holdeplasser på linje 3837 til og fra Eltonåsen skole blir iveratatt med minibuss/ taxi: Brotno, Døhlen, Finstad sameie, Finstad skole Gutugropa, Hagamoen, Haugerud, Korslund og Låvegghellinga.",
+    "lines": [
+     "RUT:Line:3837"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-74283-1",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-11-02T04:00:00+01:00",
+    "end": "2026-11-20T23:59:00+01:00",
+    "summary": "Linje 525: Holdeplass Stasjonsveien i retning mot Ski er flyttet ca. 30 meter bakover",
+    "description": "Dette skyldes anleggsarbeid på bussholdeplassen",
+    "lines": [
+     "RUT:Line:525"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:740651",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-06-29T04:00:00+02:00",
+    "end": "2027-07-12T02:00:00+02:00",
+    "summary": "Holdeplass Haslevangen i retning mot Oslo sentrum er midlertidig lagt ned.",
+    "description": "Dette skyldes et større byggearbeid i området. Nærmeste holdeplass er Hasle.",
+    "lines": [
+     "RUT:Line:28",
+     "RUT:Line:3905",
+     "RUT:Line:60"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-71016-5",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-10-05T19:34:00+02:00",
+    "end": "2026-11-13T23:59:00+01:00",
+    "summary": "Linje 350 stopper ikke på Ski skole",
+    "description": "Linje 350 stopper ikke på Ski skole. Dette skyldes veiarbeid langs ruta.",
+    "lines": [
+     "RUT:Line:350"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:823835",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-09-14T03:00:00+02:00",
+    "end": "2026-11-16T01:00:00+01:00",
+    "summary": "Buss 58: Holdeplass Sandaker i retning mot Tamburveien er midlertidig flyttet.",
+    "description": "Holdeplassen er flyttet inn i Amtmann Meinichs gate",
+    "lines": [
+     "RUT:Line:58"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:823878",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-11-08T17:00:00+01:00",
+    "end": "2026-11-08T23:59:00+01:00",
+    "summary": "Buss 31 stopper ikke på Fornebuparken.",
+    "description": "Benytt derfor holdpelass Telenor Fornebu. Dette skyldes konsert på Unity arena.",
+    "lines": [
+     "RUT:Line:31"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:823932",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-10-19T00:00:00+02:00",
+    "end": "2026-11-15T23:59:00+01:00",
+    "summary": "Holdeplass Ski stasjon i retning mot Ski stasjon er flyttet",
+    "description": "Siste avstigningsholdeplass blir i Jernbanesvingen, bak Ski Storsenter. Buss 81N, 516 og 580 stopper ikke for avstigning på Ski stasjon (i Jernbaneveien) i perioden.",
+    "lines": [
+     "RUT:Line:3981",
+     "RUT:Line:516",
+     "RUT:Line:580"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:823942",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-10-22T05:00:00+02:00",
+    "end": "2026-11-27T23:59:00+01:00",
+    "summary": "Holdeplass Ulven torg flyttet",
+    "description": "Holdeplass Ulven torg retning Økern er flyttet noe lenger frem og over til bilfeltet",
+    "lines": [
+     "RUT:Line:23",
+     "RUT:Line:24",
+     "RUT:Line:28",
+     "RUT:Line:3125"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-75015-33",
+    "severity": "normal",
+    "report_type": "general",
+    "progress": "open",
+    "start": "2026-11-07T20:00:00+01:00",
+    "end": "2026-11-07T20:50:00+01:00",
+    "summary": "Sanntid er ute av drift",
+    "description": "Sanntidsoppdateringer er dessverre ute av drift på denne avgangen. Dette skyldes tekniske problemer. Vennligst se tidtabellen for planlagte avgangstider.",
+    "lines": []
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-72959-1",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-10-22T05:24:00+02:00",
+    "end": "2026-11-17T23:59:00+01:00",
+    "summary": "Linje 3643 stopper ikke på Blakermoen",
+    "description": "Linje 3643 stopper ikke på Blakermoen. Dette skyldes en stengt vei.",
+    "lines": [
+     "RUT:Line:3643"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-71016-6",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-10-05T19:34:00+02:00",
+    "end": "2026-11-13T23:59:00+01:00",
+    "summary": "Linje 510 stopper ikke på Ski skole",
+    "description": "Linje 510 stopper ikke på Ski skole. Dette skyldes veiarbeid langs ruta.",
+    "lines": [
+     "RUT:Line:510"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-75015-20",
+    "severity": "normal",
+    "report_type": "general",
+    "progress": "open",
+    "start": "2026-11-07T23:30:00+01:00",
+    "end": "2026-11-08T00:20:00+01:00",
+    "summary": "Sanntid er ute av drift",
+    "description": "Sanntidsoppdateringer er dessverre ute av drift på denne avgangen. Dette skyldes tekniske problemer. Vennligst se tidtabellen for planlagte avgangstider.",
+    "lines": []
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-75015-16",
+    "severity": "normal",
+    "report_type": "general",
+    "progress": "open",
+    "start": "2026-11-07T18:30:00+01:00",
+    "end": "2026-11-07T20:05:00+01:00",
+    "summary": "Sanntid er ute av drift",
+    "description": "Sanntidsoppdateringer er dessverre ute av drift på denne avgangen. Dette skyldes tekniske problemer. Vennligst se tidtabellen for planlagte avgangstider.",
+    "lines": []
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-75015-7",
+    "severity": "normal",
+    "report_type": "general",
+    "progress": "open",
+    "start": "2026-11-07T19:47:00+01:00",
+    "end": "2026-11-07T20:20:00+01:00",
+    "summary": "Sanntid er ute av drift",
+    "description": "Sanntidsoppdateringer er dessverre ute av drift på denne avgangen. Dette skyldes tekniske problemer. Vennligst se tidtabellen for planlagte avgangstider.",
+    "lines": []
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:823960",
+    "severity": "normal",
+    "report_type": "general",
+    "progress": "open",
+    "start": "2026-10-24T05:42:00+02:00",
+    "end": "2027-03-31T23:59:00+02:00",
+    "summary": "Toaletter på Nakkholmen stengt for vinteren",
+    "description": "Toalettene på Nakkholmen er nå stengt ned for vinteren og vil holdes permanent stengt frem til april. Passasjerer som planlegger et besøk på øya bør derfor være oppmerksomme på at det ikke er tilgjengelige toalettfasiliteter der i denne perioden.",
+    "lines": [
+     "RUT:Line:3701"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-71016-7",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-10-05T19:34:00+02:00",
+    "end": "2026-11-13T23:59:00+01:00",
+    "summary": "Linje 1572 stopper ikke på Ski skole",
+    "description": "Linje 1572 stopper ikke på Ski skole. Dette skyldes veiarbeid langs ruta.",
+    "lines": [
+     "RUT:Line:1572"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:823833",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-09-14T03:00:00+02:00",
+    "end": "2026-11-16T01:00:00+01:00",
+    "summary": "Buss 30: Holdeplass Sandaker i retning mot Tamburveien er midlertidig flyttet",
+    "description": "Holdeplassen er flyttet inn i Amtmann Meinichs gate",
+    "lines": [
+     "RUT:Line:30"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-75015-17",
+    "severity": "normal",
+    "report_type": "general",
+    "progress": "open",
+    "start": "2026-11-07T20:18:00+01:00",
+    "end": "2026-11-07T21:50:00+01:00",
+    "summary": "Sanntid er ute av drift",
+    "description": "Sanntidsoppdateringer er dessverre ute av drift på denne avgangen. Dette skyldes tekniske problemer. Vennligst se tidtabellen for planlagte avgangstider.",
+    "lines": []
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-72959-2",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-10-22T05:24:00+02:00",
+    "end": "2026-11-17T23:59:00+01:00",
+    "summary": "Linje 3644 stopper ikke på Blakermoen",
+    "description": "Linje 3644 stopper ikke på Blakermoen. Dette skyldes en stengt vei.",
+    "lines": [
+     "RUT:Line:3644"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-75015-8",
+    "severity": "normal",
+    "report_type": "general",
+    "progress": "open",
+    "start": "2026-11-07T20:30:00+01:00",
+    "end": "2026-11-07T22:05:00+01:00",
+    "summary": "Sanntid er ute av drift",
+    "description": "Sanntidsoppdateringer er dessverre ute av drift på denne avgangen. Dette skyldes tekniske problemer. Vennligst se tidtabellen for planlagte avgangstider.",
+    "lines": []
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:822456",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-07-08T12:00:00+02:00",
+    "end": "2027-07-07T23:59:00+02:00",
+    "summary": "Holdeplass er flyttet ca. 80 meter oppover retning Maridalen/Kjelsås",
+    "description": "",
+    "lines": [
+     "RUT:Line:51",
+     "RUT:Line:54"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-75015-19",
+    "severity": "normal",
+    "report_type": "general",
+    "progress": "open",
+    "start": "2026-11-07T22:47:00+01:00",
+    "end": "2026-11-07T23:20:00+01:00",
+    "summary": "Sanntid er ute av drift",
+    "description": "Sanntidsoppdateringer er dessverre ute av drift på denne avgangen. Dette skyldes tekniske problemer. Vennligst se tidtabellen for planlagte avgangstider.",
+    "lines": []
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:823910",
+    "severity": "normal",
+    "report_type": "general",
+    "progress": "open",
+    "start": "2026-10-02T04:00:00+02:00",
+    "end": "2026-12-31T23:59:00+01:00",
+    "summary": "Tøyen: Spor 4 retning sentrum",
+    "description": "På grunn av bygging av ny inngang, ber vi reisende benytte fremre del av toget ved avstigning.",
+    "lines": []
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-74405-1",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-11-02T07:42:00+01:00",
+    "end": "2026-11-23T04:00:00+01:00",
+    "summary": "T-banen stenger 19.-22. november",
+    "description": "T-banen er stengt på nesten alle strekninger 19. - 22. november. Se ruter.no for mer informasjon.",
+    "lines": [
+     "RUT:Line:1"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:823715",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-08-06T10:18:00+02:00",
+    "end": "2027-12-31T23:59:00+01:00",
+    "summary": "Avstigning med rullestol på Frognerseteren stasjon",
+    "description": "Ved ankomst Frognerseteren kan forflytningshemmede bli med toget videre når det kjører inn for å vende. Plattform mot sentrum er bedre egnet for avstigning med rullestol.",
+    "lines": [
+     "RUT:Line:1"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:823740",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-08-17T03:00:00+02:00",
+    "end": "2026-11-09T23:59:00+01:00",
+    "summary": "Buss 21 har omkjøring mellom Bislett og Observatoriegata i retning mot Tjuvholmen",
+    "description": "Bussene kjører Pilestredet og Parkveien. Bussene stopper på holdeplass Welhavens gate og midlertidig holdeplass Riddervolds gate i Parkveien. På Solli stopper bussene på plattform B.",
+    "lines": [
+     "RUT:Line:21"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:823970",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-11-06T21:00:00+01:00",
+    "end": "2026-11-08T14:00:00+01:00",
+    "summary": "Linje 160, 250N, 270: Holdeplassene Oksenøyveien og Strand blir ikke betjent",
+    "description": "Benytt holdeplass Lysaker stasjon eller Høvik kirke",
+    "lines": [
+     "RUT:Line:160",
+     "RUT:Line:270",
+     "RUT:Line:3250"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-75015-18",
+    "severity": "normal",
+    "report_type": "general",
+    "progress": "open",
+    "start": "2026-11-07T22:00:00+01:00",
+    "end": "2026-11-07T22:32:00+01:00",
+    "summary": "Sanntid er ute av drift",
+    "description": "Sanntidsoppdateringer er dessverre ute av drift på denne avgangen. Dette skyldes tekniske problemer. Vennligst se tidtabellen for planlagte avgangstider.",
+    "lines": []
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-75015-9",
+    "severity": "normal",
+    "report_type": "general",
+    "progress": "open",
+    "start": "2026-11-07T22:18:00+01:00",
+    "end": "2026-11-07T23:50:00+01:00",
+    "summary": "Sanntid er ute av drift",
+    "description": "Sanntidsoppdateringer er dessverre ute av drift på denne avgangen. Dette skyldes tekniske problemer. Vennligst se tidtabellen for planlagte avgangstider.",
+    "lines": []
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:822520",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-07-06T09:00:00+02:00",
+    "end": "2028-04-30T23:59:00+02:00",
+    "summary": "Holdeplass Stabekk stasjon i retning mot Bekkestua er flyttet ca. 50 meter bakover.",
+    "description": "Dette skyldes anleggsarbeid i området.",
+    "lines": [
+     "RUT:Line:145",
+     "RUT:Line:150",
+     "RUT:Line:213"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:740310",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-03-10T00:00:00+01:00",
+    "end": "2026-12-31T23:59:00+01:00",
+    "summary": "Linje 453 og 455 har omkjøring",
+    "description": "Holdeplass Sandnesvegen flyttes midlertidig ut i Eidsvegen. Gangavstand ca. 100 meter. Holdeplass Auli senter i retning mot Årnes flyttes til motsatt side av veien utenfor Kiwi (Samme holdeplass som bussene benytter i retning mot Rånåsfoss).",
+    "lines": [
+     "RUT:Line:453",
+     "RUT:Line:455"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-73626-1",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-10-26T19:40:00+01:00",
+    "end": "2026-11-16T02:00:00+01:00",
+    "summary": "Linje 315 stopper ikke mellom Fjellsrud skole og Knatten",
+    "description": "Linje 315 stopper ikke mellom Fjellsrud skole og Knatten. Dette skyldes veiarbeid langs ruta.",
+    "lines": [
+     "RUT:Line:315"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:822457",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-07-08T12:00:00+02:00",
+    "end": "2027-07-04T23:59:00+02:00",
+    "summary": "Holdeplassen er flyttet 110 meter ned i Frysjavegen",
+    "description": "",
+    "lines": [
+     "RUT:Line:25"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-74405-2",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-11-02T07:42:00+01:00",
+    "end": "2026-11-23T04:00:00+01:00",
+    "summary": "T-banen stenger 19.-22. november",
+    "description": "T-banen er stengt på nesten alle strekninger 19. - 22. november. Se ruter.no for mer informasjon.",
+    "lines": [
+     "RUT:Line:2"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-75015-10",
+    "severity": "normal",
+    "report_type": "general",
+    "progress": "open",
+    "start": "2026-11-08T00:00:00+01:00",
+    "end": "2026-11-08T00:32:00+01:00",
+    "summary": "Sanntid er ute av drift",
+    "description": "Sanntidsoppdateringer er dessverre ute av drift på denne avgangen. Dette skyldes tekniske problemer. Vennligst se tidtabellen for planlagte avgangstider.",
+    "lines": []
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-75030-1",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-11-07T19:02:00+01:00",
+    "end": "2026-11-07T19:54:00+01:00",
+    "summary": "Avgangen er ca. 22 minutter forsinket",
+    "description": "Avgangen fra Lillestrøm bussterminal kl. 19:02 i retning Skedsmokorset er ca. 22 minutter forsinket. Dette skyldes uforutsette forhold.",
+    "lines": []
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:823609",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-08-03T05:00:00+02:00",
+    "end": "2026-12-31T23:59:00+01:00",
+    "summary": "Holdeplass Skjønhaug i retning Lindeberg er flyttet ca. 50 meter bakover.",
+    "description": "Dette skyldes bytting av membran på bruen rett etter holdeplassen.",
+    "lines": [
+     "RUT:Line:26",
+     "RUT:Line:79"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-74431-1",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-11-02T13:33:00+01:00",
+    "end": "2026-12-08T23:59:00+01:00",
+    "summary": "Holdeplass Ullern retning Lilleaker er flyttet cirka 50 meter bakover",
+    "description": "Dette gjelder til ca. 12. desember",
+    "lines": [
+     "RUT:Line:3013"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:823971",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-11-06T21:00:00+01:00",
+    "end": "2026-11-08T14:00:00+01:00",
+    "summary": "Linje 250: Holdeplass Oksenøyveien blir ikke betjent.",
+    "description": "Benytt holdeplassene Lysaker stasjon eller IKEA Slependen",
+    "lines": [
+     "RUT:Line:250"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-71016-1",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-10-05T19:34:00+02:00",
+    "end": "2026-11-13T23:59:00+01:00",
+    "summary": "Linje 515 stopper ikke på Ski skole",
+    "description": "Linje 515 stopper ikke på Ski skole. Dette skyldes veiarbeid langs ruta.",
+    "lines": [
+     "RUT:Line:515"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:823813",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-09-14T04:00:00+02:00",
+    "end": "2026-11-17T02:00:00+01:00",
+    "summary": "Buss 30 og 58 stopper ikke på Sandaker",
+    "description": "Bussene stopper på midlertidig holdeplass Sandakerveien i Amtmann Meinichs gate, og på holdeplass Grefsenveien i Sandakerveien.",
+    "lines": [
+     "RUT:Line:30",
+     "RUT:Line:58"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-74405-3",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-11-02T07:42:00+01:00",
+    "end": "2026-11-23T04:00:00+01:00",
+    "summary": "T-banen stenger 19.-22. november",
+    "description": "T-banen er stengt på nesten alle strekninger 19. - 22. november. Se ruter.no for mer informasjon.",
+    "lines": [
+     "RUT:Line:3"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:740003",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2025-10-10T14:00:00+02:00",
+    "end": "2026-12-31T23:59:00+01:00",
+    "summary": "Holdeplass Kolbotn torg er flyttet",
+    "description": "Linje 83, 83N, 580 og 585 stopper på midlertidig holdeplass i Ingierveien. Gjelder i retning Oslo og Svartskog.",
+    "lines": []
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:823879",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-11-08T21:00:00+01:00",
+    "end": "2026-11-08T23:59:00+01:00",
+    "summary": "Buss 31 stopper ikke på Fornebuparken og Lilløyveien.",
+    "description": "Benytt derfor holdeplass Telenor Fornebu. Dette skyldes konsert på Unity arena.",
+    "lines": [
+     "RUT:Line:31"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:823836",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-09-14T03:00:00+02:00",
+    "end": "2026-11-16T01:00:00+01:00",
+    "summary": "Buss 58 i retning mot Tveita stopper ikke på holdeplass Sandaker.",
+    "description": "Bussen stopper i stedet på trikkens holdeplass i Grefsenveien.",
+    "lines": [
+     "RUT:Line:58"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-71016-2",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-10-05T19:34:00+02:00",
+    "end": "2026-11-13T23:59:00+01:00",
+    "summary": "Linje 516 stopper ikke på Ski skole",
+    "description": "Linje 516 stopper ikke på Ski skole. Dette skyldes veiarbeid langs ruta.",
+    "lines": [
+     "RUT:Line:516"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-74405-4",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-11-02T07:42:00+01:00",
+    "end": "2026-11-23T04:00:00+01:00",
+    "summary": "T-banen stenger 19.-22. november",
+    "description": "T-banen er stengt på nesten alle strekninger 19. - 22. november. Se ruter.no for mer informasjon.",
+    "lines": [
+     "RUT:Line:4"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:823920",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-10-12T00:00:00+02:00",
+    "end": "2026-12-13T23:59:00+01:00",
+    "summary": "Omkjøring på linje 410",
+    "description": "Stopper ikke på holdeplass: Gamle Eltonveg, Gutugropa, Hagamoen, Haugerud, Korslund, Låvegghellinga og Slemdal.",
+    "lines": [
+     "RUT:Line:410"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-74405-5",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-11-02T07:42:00+01:00",
+    "end": "2026-11-23T04:00:00+01:00",
+    "summary": "T-banen stenger 19.-22. november",
+    "description": "T-banen er stengt på nesten alle strekninger 19. - 22. november. Se ruter.no for mer informasjon.",
+    "lines": [
+     "RUT:Line:5"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:823921",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-10-12T00:00:00+02:00",
+    "end": "2026-12-13T23:59:00+01:00",
+    "summary": "Omkjøring på linje 3575",
+    "description": "Stopper ikke på holdeplass: Gamle Eltonveg, Gutugropa, Hagamoen, Haugerud, Korslund, Låvegghellinga og Slemdal.",
+    "lines": []
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-71016-3",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-10-05T19:34:00+02:00",
+    "end": "2026-11-13T23:59:00+01:00",
+    "summary": "Linje 81N stopper ikke på Ski skole",
+    "description": "Linje 81N stopper ikke på Ski skole. Dette skyldes veiarbeid langs ruta.",
+    "lines": [
+     "RUT:Line:3981"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:822850",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-08-03T00:00:00+02:00",
+    "end": "2026-11-09T23:59:00+01:00",
+    "summary": "Holdeplass Refstadsvingen retning Nydalen flyttet",
+    "description": "Holdeplass Refstadsvingen (retning Nydalen) er flyttet midlertidig 70 meter tilbake i Refstadveien",
+    "lines": [
+     "RUT:Line:58"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:740605",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-08-10T04:00:00+02:00",
+    "end": "2027-01-29T02:00:00+01:00",
+    "summary": "Linje 13: Buss for trikk direkte mellom Thune og Furulund - Lilleaker",
+    "description": "Vi kjører buss for trikk (linje 13B) direkte mellom Thune og Furulund - Lilleaker. Bussen stopper ikke på Sollerud. 13B betjener Thune fra midlertidig holdeplass i Drammensveien",
+    "lines": [
+     "RUT:Line:13"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:823947",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-10-19T04:00:00+02:00",
+    "end": "2026-11-15T23:59:00+01:00",
+    "summary": "Stoppestedet Fjellsrud skole flyttet midlertidig",
+    "description": "Fjellsrud skole i retning Vallerudtoppen er flyttet til holdeplassen i Kloppaveien. Gangavstand ca. 150 meter",
+    "lines": [
+     "RUT:Line:315"
+    ]
+   }
+  ],
+  "count": 59,
+  "by_dataset": {
+   "RUT": 59
+  }
+ },
+ "signals": [
+  {
+   "category": "transport",
+   "level": 0,
+   "text": "Entur: 59 åpne avvik, ingen merket alvorlige",
+   "source": "entur",
+   "url": "https://developer.entur.org/",
+   "since": null,
+   "value": 59,
+   "level_name": "green"
+  }
+ ]
+}

@@ -1,0 +1,2531 @@
+{
+ "id": "polisen",
+ "name": "Polisen händelser (SE)",
+ "url": "https://polisen.se/aktuellt/handelser/",
+ "category": "naboland",
+ "ok": true,
+ "stale": false,
+ "fetched_at": "2026-11-07T18:51:01+00:00",
+ "last_success_at": "2026-11-07T18:51:01+00:00",
+ "error": "",
+ "license": "Se polisen.se/psidata",
+ "data": {
+  "events": [
+   {
+    "id": 658766,
+    "datetime": "2026-11-07 18:50:12 +01:00",
+    "name": "7 november 17.02, Rån, Borås",
+    "summary": "En person har kommit in i en butik på Brigadgatan, knuffade undan personal och tog ett paket vid paketutlämningen.",
+    "type": "Rån",
+    "location": "Västra Götalands län",
+    "gps": "58.252793,13.059643",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-17.02-ran-boras/"
+   },
+   {
+    "id": 658771,
+    "datetime": "2026-11-07 19:03:19 +01:00",
+    "name": "7 november 18.19, Trafikolycka, Klippan",
+    "summary": "Kollision mellan personbil och A-traktor.",
+    "type": "Trafikolycka",
+    "location": "Skåne län",
+    "gps": "55.990257,13.595769",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-18.19-trafikolycka-klippan/"
+   },
+   {
+    "id": 658767,
+    "datetime": "2026-11-07 18:25:38 +01:00",
+    "name": "7 november 18.17, Försvunnen person, Umeå",
+    "summary": "Äldre person försvunnen",
+    "type": "Försvunnen person",
+    "location": "Västerbottens län",
+    "gps": "65.333731,16.516169",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-18.17-forsvunnen-person-umea/"
+   },
+   {
+    "id": 658768,
+    "datetime": "2026-11-07 18:34:03 +01:00",
+    "name": "7 november 18.13, Trafikolycka, Lomma",
+    "summary": "Två personbilar kolliderar på E6 norr om trafikplats Lomma.",
+    "type": "Trafikolycka",
+    "location": "Skåne län",
+    "gps": "55.990257,13.595769",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-18.13-trafikolycka-lomma/"
+   },
+   {
+    "id": 658765,
+    "datetime": "2026-11-07 17:25:58 +01:00",
+    "name": "7 november 16.36, Trafikolycka, Huddinge",
+    "summary": "Bilförare får böter för att inte ha anpassat avståndet på E4.",
+    "type": "Trafikolycka",
+    "location": "Stockholms län",
+    "gps": "59.602496,18.138438",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-16.36-trafikolycka-huddinge/"
+   },
+   {
+    "id": 658761,
+    "datetime": "2026-11-07 16:01:06 +01:00",
+    "name": "7 november 15.07, Trafikolycka, Kristianstad",
+    "summary": "Singelolycka med personbil på väg 21.",
+    "type": "Trafikolycka",
+    "location": "Skåne län",
+    "gps": "55.990257,13.595769",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-15.07-trafikolycka-kristianstad/"
+   },
+   {
+    "id": 658764,
+    "datetime": "2026-11-07 16:47:42 +01:00",
+    "name": "7 november 15.20, Trafikolycka, Stockholm",
+    "summary": "Flera bilister involverad i trafikolycka i Hammarbytunneln.",
+    "type": "Trafikolycka",
+    "location": "Stockholms län",
+    "gps": "59.602496,18.138438",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-15.20-trafikolycka-stockholm/"
+   },
+   {
+    "id": 658763,
+    "datetime": "2026-11-07 16:36:18 +01:00",
+    "name": "7 november 13.56, Trafikolycka, Huddinge",
+    "summary": "Flera bilar inblandad i trafikolycka på E4.",
+    "type": "Trafikolycka",
+    "location": "Stockholms län",
+    "gps": "59.602496,18.138438",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-13.56-trafikolycka-huddinge/"
+   },
+   {
+    "id": 658762,
+    "datetime": "2026-11-07 16:14:48 +01:00",
+    "name": "7 november 13.44, Olovlig körning, Stenungsund",
+    "summary": "En person ringde polisen om att han legat bakom en A-traktor som framförts i en hastighet över 60 km/h.",
+    "type": "Olovlig körning",
+    "location": "Västra Götalands län",
+    "gps": "58.252793,13.059643",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-13.44-olovlig-korning-stenungsund/"
+   },
+   {
+    "id": 658692,
+    "datetime": "2026-11-06 18:15:53 +01:00",
+    "name": "6 november 17.22, Övrigt, Krokom",
+    "summary": "Föllinge, larm inkommer gällande en skadad person vid en adress",
+    "type": "Övrigt",
+    "location": "Jämtlands län",
+    "gps": "63.171192,14.95918",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-17.22-ovrigt-krokom/"
+   },
+   {
+    "id": 658760,
+    "datetime": "2026-11-07 14:49:33 +01:00",
+    "name": "7 november 14.42, Trafikolycka, Malmö",
+    "summary": "En kollision mellan en moped och personbil inträffar i korsningen Erikfältsgatan Trelleborgsvägen.",
+    "type": "Trafikolycka",
+    "location": "Skåne län",
+    "gps": "55.990257,13.595769",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-14.42-trafikolycka-malmo/"
+   },
+   {
+    "id": 658759,
+    "datetime": "2026-11-07 14:49:07 +01:00",
+    "name": "7 november 00.00, Försvunnen person, Norrtälje",
+    "summary": "En person uppges ha fallit från en båt i Östersjön.",
+    "type": "Försvunnen person",
+    "location": "Stockholms län",
+    "gps": "59.602496,18.138438",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-00.00-forsvunnen-person-norrtalje/"
+   },
+   {
+    "id": 658758,
+    "datetime": "2026-11-07 14:32:28 +01:00",
+    "name": "7 november 13.59, Trafikolycka, Malmö",
+    "summary": "En elsparkcykel och personbil kolliderar på Industrustrigatan.",
+    "type": "Trafikolycka",
+    "location": "Skåne län",
+    "gps": "55.990257,13.595769",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-132.59-trafikolycka-malmo/"
+   },
+   {
+    "id": 658757,
+    "datetime": "2026-11-07 14:31:00 +01:00",
+    "name": "7 november 14.23, Trafikolycka, Leksand",
+    "summary": "Två personbilar har kolliderat i korsningen Rv70/Leksandsvägen",
+    "type": "Trafikolycka",
+    "location": "Dalarnas län",
+    "gps": "61.091701,14.666365",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-14.23-trafikolycka-leksand/"
+   },
+   {
+    "id": 658756,
+    "datetime": "2026-11-07 14:29:25 +01:00",
+    "name": "7 november 14.15, Trafikolycka, Hultsfred",
+    "summary": "En skåpbil och personbil kolliderar väster om Målilla.",
+    "type": "Trafikolycka",
+    "location": "Kalmar län",
+    "gps": "57.235016,16.184935",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-14.15-trafikolycka-hultsfred/"
+   },
+   {
+    "id": 658755,
+    "datetime": "2026-11-07 14:21:12 +01:00",
+    "name": "7 november 14.21, Trafikkontroll, Umeå",
+    "summary": "Urval av polisens arbete i trafiken",
+    "type": "Trafikkontroll",
+    "location": "Västerbottens län",
+    "gps": "65.333731,16.516169",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-14.21-trafikkontroll-umea/"
+   },
+   {
+    "id": 658754,
+    "datetime": "2026-11-07 14:18:54 +01:00",
+    "name": "7 november 14.10, Trafikolycka, singel, Falun",
+    "summary": "En personbil med släp har körts i diket utefter Lv888 vid Höviken, söder om Linghet",
+    "type": "Trafikolycka, singel",
+    "location": "Dalarnas län",
+    "gps": "61.091701,14.666365",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-14.10-trafikolycka-singel-falun/"
+   },
+   {
+    "id": 658753,
+    "datetime": "2026-11-07 14:18:20 +01:00",
+    "name": "7 november 14.18, Trafikkontroll, Norrbottens län",
+    "summary": "Urval av polisens arbete i trafiken",
+    "type": "Trafikkontroll",
+    "location": "Norrbottens län",
+    "gps": "66.830922,20.399197",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-14.18-trafikkontroll-norrbottens-lan/"
+   },
+   {
+    "id": 658752,
+    "datetime": "2026-11-07 14:16:58 +01:00",
+    "name": "7 november 14.16, Trafikkontroll, Västernorrlands län",
+    "summary": "Urval av polisens arbete i trafiken",
+    "type": "Trafikkontroll",
+    "location": "Västernorrlands län",
+    "gps": "63.427647,17.729244",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-14.16-trafikkontroll-vasternorrlands-lan/"
+   },
+   {
+    "id": 658751,
+    "datetime": "2026-11-07 14:04:01 +01:00",
+    "name": "7 november 13.59, Trafikolycka, Malmö",
+    "summary": "Larm om trafikolycka",
+    "type": "Trafikolycka",
+    "location": "Skåne län",
+    "gps": "55.990257,13.595769",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-13.59-trafikolycka-malmo/"
+   },
+   {
+    "id": 658744,
+    "datetime": "2026-11-07 12:29:31 +01:00",
+    "name": "7 november 10.39, Försvunnen person, Malmö",
+    "summary": "Polisen söker efter försvunnen man",
+    "type": "Försvunnen person",
+    "location": "Skåne län",
+    "gps": "55.990257,13.595769",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-10.39-forsvunnen-person-malmo/"
+   },
+   {
+    "id": 658750,
+    "datetime": "2026-11-07 13:16:37 +01:00",
+    "name": "7 november 12.36, Trafikolycka, singel, Smedjebacken",
+    "summary": "En personbil har voltat utefter Lv233 sydost om Malingsbo.",
+    "type": "Trafikolycka, singel",
+    "location": "Dalarnas län",
+    "gps": "61.091701,14.666365",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-12.36-trafikolycka-singel-smedjebacken/"
+   },
+   {
+    "id": 658749,
+    "datetime": "2026-11-07 13:13:51 +01:00",
+    "name": "7 november 09.38, Trafikbrott, Österåker",
+    "summary": "Trafikolycka och olovlig körning i Rydbo.",
+    "type": "Trafikbrott",
+    "location": "Stockholms län",
+    "gps": "59.602496,18.138438",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-09.38-trafikbrott-osteraker/"
+   },
+   {
+    "id": 658748,
+    "datetime": "2026-11-07 13:06:03 +01:00",
+    "name": "7 november 13.05, Trafikolycka, vilt, Norrbottens län",
+    "summary": "Viltolyckor anmälda till polisens ledningscentral",
+    "type": "Trafikolycka, vilt",
+    "location": "Norrbottens län",
+    "gps": "66.830922,20.399197",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-13.05-trafikolycka-vilt-norrbottens-lan/"
+   },
+   {
+    "id": 658747,
+    "datetime": "2026-11-07 12:49:34 +01:00",
+    "name": "7 november 10.57, Trafikolycka, Uppsala",
+    "summary": "Larm om trafikolycka.",
+    "type": "Trafikolycka",
+    "location": "Uppsala län",
+    "gps": "60.009226,17.271459",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-10.57-trafikolycka-uppsala/"
+   },
+   {
+    "id": 658746,
+    "datetime": "2026-11-07 12:42:23 +01:00",
+    "name": "7 november 11.10, Trafikolycka, Örnsköldsvik",
+    "summary": "Polispatrull beordras till Lasarettsgatan i Örnsköldsvik där en person uppges ha blivit påkörd.",
+    "type": "Trafikolycka",
+    "location": "Västernorrlands län",
+    "gps": "63.427647,17.729244",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-11.10-trafikolycka-ornskoldsvik/"
+   },
+   {
+    "id": 658740,
+    "datetime": "2026-11-07 11:41:42 +01:00",
+    "name": "7 november 11.09, Trafikolycka, Kiruna",
+    "summary": "Polispatrull på Kyrkogatan i Kiruna uppmärksammar en olycka med en mindre traktor som vält.",
+    "type": "Trafikolycka",
+    "location": "Norrbottens län",
+    "gps": "66.830922,20.399197",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-11.09-trafikolycka-kiruna/"
+   },
+   {
+    "id": 658745,
+    "datetime": "2026-11-07 12:30:36 +01:00",
+    "name": "7 november 10.58, Trafikolycka, Västerås",
+    "summary": "Trafikolycka på E18.",
+    "type": "Trafikolycka",
+    "location": "Västmanlands län",
+    "gps": "59.671388,16.215895",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-10.58-trafikolycka-vasteras/"
+   },
+   {
+    "id": 658743,
+    "datetime": "2026-11-07 12:14:44 +01:00",
+    "name": "7 november 10.26, Trafikkontroll, Gävle",
+    "summary": "Trafikkontroll genomfördes.",
+    "type": "Trafikkontroll",
+    "location": "Gävleborgs län",
+    "gps": "61.301199,16.153421",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-10.26-trafikkontroll-gavle/"
+   },
+   {
+    "id": 658742,
+    "datetime": "2026-11-07 12:09:05 +01:00",
+    "name": "7 november 11.31, Trafikolycka, Knivsta",
+    "summary": "Larm om trafikolycka.",
+    "type": "Trafikolycka",
+    "location": "Uppsala län",
+    "gps": "60.009226,17.271459",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-11.31-trafikolycka-knivsta/"
+   },
+   {
+    "id": 658741,
+    "datetime": "2026-11-07 12:04:48 +01:00",
+    "name": "7 november 09.00, Rattfylleri, Köping",
+    "summary": "Bil stoppades.",
+    "type": "Rattfylleri",
+    "location": "Västmanlands län",
+    "gps": "59.671388,16.215895",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-09.00-rattfylleri-koping/"
+   },
+   {
+    "id": 658739,
+    "datetime": "2026-11-07 10:59:01 +01:00",
+    "name": "7 november 09.32, Försvunnen person, Norrköping",
+    "summary": "Saknad person i Skärblacka",
+    "type": "Försvunnen person",
+    "location": "Östergötlands län",
+    "gps": "58.345364,15.519784",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-09.32-forsvunnen-person-norrkoping/"
+   },
+   {
+    "id": 658737,
+    "datetime": "2026-11-07 10:40:23 +01:00",
+    "name": "7 november 08.30, Stöld, Boden",
+    "summary": "Polisen kontaktas angående en stöld i en matbutik, Sävast.",
+    "type": "Stöld",
+    "location": "Norrbottens län",
+    "gps": "66.830922,20.399197",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-08.30-stold-boden/"
+   },
+   {
+    "id": 658738,
+    "datetime": "2026-11-07 10:12:05 +01:00",
+    "name": "7 november 08.08, Inbrott, Boden",
+    "summary": "Polispatrull beordras till Sanden med anledning av ett misstänkt inbrott i en lägenhet.",
+    "type": "Inbrott",
+    "location": "Norrbottens län",
+    "gps": "66.830922,20.399197",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-08.08-inbrott-boden/"
+   },
+   {
+    "id": 658735,
+    "datetime": "2026-11-07 9:07:04 +01:00",
+    "name": "7 november 09.03, Trafikolycka, Nässjö",
+    "summary": "Personbilar i kollision på länsväg 817",
+    "type": "Trafikolycka",
+    "location": "Jönköpings län",
+    "gps": "57.370843,14.343917",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-09.03-trafikolycka-nassjo/"
+   },
+   {
+    "id": 658736,
+    "datetime": "2026-11-07 9:27:36 +01:00",
+    "name": "7 november 02.18, Misshandel, Norrtälje",
+    "summary": "Misshandel i Norrtälje.",
+    "type": "Misshandel",
+    "location": "Stockholms län",
+    "gps": "59.602496,18.138438",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-02.18-misshandel-norrtalje/"
+   },
+   {
+    "id": 658734,
+    "datetime": "2026-11-07 8:45:35 +01:00",
+    "name": "7 november 08.38, Sammanfattning natt, Örebro län",
+    "summary": "Det har varit en lugn natt för polisen i länet, utan allvarliga brott eller händelser.",
+    "type": "Sammanfattning natt",
+    "location": "Örebro län",
+    "gps": "59.535036,15.006573",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-08.38-sammanfattning-natt-orebro-lan/"
+   },
+   {
+    "id": 658733,
+    "datetime": "2026-11-07 8:38:06 +01:00",
+    "name": "7 november 07.57, Sammanfattning natt, Dalarnas län",
+    "summary": "Det har varit en lugn natt för polisen i Dalarna utan allvarliga händelser eller brott.",
+    "type": "Sammanfattning natt",
+    "location": "Dalarnas län",
+    "gps": "61.091701,14.666365",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-07.57-sammanfattning-natt-dalarnas-lan/"
+   },
+   {
+    "id": 658732,
+    "datetime": "2026-11-07 8:26:02 +01:00",
+    "name": "7 november 07.57, Trafikolycka, vilt, Kiruna",
+    "summary": "Polisen får in en anmälan om en olycka med en mindre lastbil och ett rådjur på Lombololeden, Kiruna.",
+    "type": "Trafikolycka, vilt",
+    "location": "Norrbottens län",
+    "gps": "66.830922,20.399197",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-07.57-trafikolycka-vilt-kiruna/"
+   },
+   {
+    "id": 658731,
+    "datetime": "2026-11-07 7:57:49 +01:00",
+    "name": "7 november 07.03, Sammanfattning natt, Värmlands län",
+    "summary": "Nedan beskrivs några ärenden polisen i Värmland haft att hantera under natten till lördag.",
+    "type": "Sammanfattning natt",
+    "location": "Värmlands län",
+    "gps": "59.729407,13.235402",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-07.03-sammanfattning-natt-varmlands-lan/"
+   },
+   {
+    "id": 658728,
+    "datetime": "2026-11-07 7:56:55 +01:00",
+    "name": "7 november 07.42, Sammanfattning natt, Jönköpings län",
+    "summary": "Nattsammanfattning",
+    "type": "Sammanfattning natt",
+    "location": "Jönköpings län",
+    "gps": "57.370843,14.343917",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-07.42-sammanfattning-natt-jonkopings-lan/"
+   },
+   {
+    "id": 658729,
+    "datetime": "2026-11-07 7:56:37 +01:00",
+    "name": "7 november 07.42, Sammanfattning natt, Östergötlands län",
+    "summary": "Nattsammanfattning",
+    "type": "Sammanfattning natt",
+    "location": "Östergötlands län",
+    "gps": "58.345364,15.519784",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-07.42-sammanfattning-natt-ostergotlands-lan/"
+   },
+   {
+    "id": 658730,
+    "datetime": "2026-11-07 7:56:21 +01:00",
+    "name": "7 november 07.54, Sammanfattning natt, Södermanlands län",
+    "summary": "Nattsammanfattning",
+    "type": "Sammanfattning natt",
+    "location": "Södermanlands län",
+    "gps": "59.033635,16.75189",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-07.54-sammanfattning-natt-sodermanlands-lan/"
+   },
+   {
+    "id": 658727,
+    "datetime": "2026-11-07 7:38:35 +01:00",
+    "name": "7 november 01.46, Ofredande/förargelse, Västerås",
+    "summary": "Kvinna avvisades.",
+    "type": "Ofredande/förargelse",
+    "location": "Västmanlands län",
+    "gps": "59.671388,16.215895",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-01.46-ofredandeforargelse-vasteras/"
+   },
+   {
+    "id": 658726,
+    "datetime": "2026-11-07 7:36:58 +01:00",
+    "name": "7 november 07.36, Sammanfattning natt, Norrbottens län",
+    "summary": "Ett urval av nattens polisverksamhet 00.00–07.00.",
+    "type": "Sammanfattning natt",
+    "location": "Norrbottens län",
+    "gps": "66.830922,20.399197",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-07.36-sammanfattning-natt-norrbottens-lan/"
+   },
+   {
+    "id": 658723,
+    "datetime": "2026-11-07 7:34:44 +01:00",
+    "name": "7 november 07.34, Sammanfattning natt, Västernorrlands län",
+    "summary": "Ett urval av nattens polisverksamhet 00.00–07.00.",
+    "type": "Sammanfattning natt",
+    "location": "Västernorrlands län",
+    "gps": "63.427647,17.729244",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-07.34-sammanfattning-natt-vasternorrlands-lan/"
+   },
+   {
+    "id": 658725,
+    "datetime": "2026-11-07 7:29:18 +01:00",
+    "name": "7 november 07.29, Sammanfattning natt, Jämtlands län",
+    "summary": "Ett urval av nattens polisverksamhet 00.00–07.00.",
+    "type": "Sammanfattning natt",
+    "location": "Jämtlands län",
+    "gps": "63.171192,14.95918",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-07.29-sammanfattning-natt-jamtlands-lan/"
+   },
+   {
+    "id": 658724,
+    "datetime": "2026-11-07 7:27:13 +01:00",
+    "name": "6 november 23.55, Rattfylleri, Uppsala",
+    "summary": "Bilist misstänkt för drograttfylleri.",
+    "type": "Rattfylleri",
+    "location": "Uppsala län",
+    "gps": "60.009226,17.271459",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-23.55-rattfylleri-uppsala/"
+   },
+   {
+    "id": 658722,
+    "datetime": "2026-11-07 7:20:28 +01:00",
+    "name": "7 november 02.24, Stöld/inbrott, Söderhamn",
+    "summary": "Anmälan om inbrottsstöld.",
+    "type": "Stöld/inbrott",
+    "location": "Gävleborgs län",
+    "gps": "61.301199,16.153421",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-02.24-stoldinbrott-soderhamn/"
+   },
+   {
+    "id": 658721,
+    "datetime": "2026-11-07 7:19:24 +01:00",
+    "name": "7 november 07.19, Sammanfattning natt, Västerbottens län",
+    "summary": "Ett urval av nattens polisverksamhet 00.00–07.00.",
+    "type": "Sammanfattning natt",
+    "location": "Västerbottens län",
+    "gps": "65.333731,16.516169",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-07.19-sammanfattning-natt-vasterbottens-lan/"
+   },
+   {
+    "id": 658720,
+    "datetime": "2026-11-07 7:11:27 +01:00",
+    "name": "7 november 07.05, Sammanfattning kväll och natt, Hallands län",
+    "summary": "Dagens presstalsperson är på plats. Nedan följer ett urval av nattens händelser.",
+    "type": "Sammanfattning kväll och natt",
+    "location": "Hallands län",
+    "gps": "56.896681,12.803399",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-07.05-sammanfattning-kvall-och-natt-hallands-lan/"
+   },
+   {
+    "id": 658719,
+    "datetime": "2026-11-07 7:09:47 +01:00",
+    "name": "7 november 07.05, Sammanfattning kväll och natt, Västra Götalands län",
+    "summary": "Dagens presstalesperson är på plats. Nedan följer ett urval av nattens händelser.",
+    "type": "Sammanfattning kväll och natt",
+    "location": "Västra Götalands län",
+    "gps": "58.252793,13.059643",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-07.05-sammanfattning-kvall-och-natt-vastra-gotalands-lan/"
+   },
+   {
+    "id": 658718,
+    "datetime": "2026-11-07 7:02:48 +01:00",
+    "name": "7 november 01.40, Rattfylleri, Växjö",
+    "summary": "Man misstänkt för rattfylleri, centrum",
+    "type": "Rattfylleri",
+    "location": "Kronobergs län",
+    "gps": "56.71834,14.411467",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-01.40-rattfylleri-vaxjo/"
+   },
+   {
+    "id": 658717,
+    "datetime": "2026-11-07 6:57:54 +01:00",
+    "name": "7 november 00.45, Rattfylleri, Karlshamn",
+    "summary": "Man misstänkt för rattfylleri efter fordonskontroll",
+    "type": "Rattfylleri",
+    "location": "Blekinge län",
+    "gps": "56.278384,15.018006",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-00.45-rattfylleri-karlshamn/"
+   },
+   {
+    "id": 658716,
+    "datetime": "2026-11-07 6:51:19 +01:00",
+    "name": "7 november 06.45, Misshandel, Helsingborg",
+    "summary": "Man gripen efter larm om misshandel i nära relation",
+    "type": "Misshandel",
+    "location": "Skåne län",
+    "gps": "55.990257,13.595769",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-06.45-misshandel-helsingborg/"
+   },
+   {
+    "id": 658715,
+    "datetime": "2026-11-07 6:42:12 +01:00",
+    "name": "7 november 04.53, Rattfylleri, Kalmar",
+    "summary": "Kvinna misstänkt för rattfylleri och olovlig körning, Funkabo",
+    "type": "Rattfylleri",
+    "location": "Kalmar län",
+    "gps": "57.235016,16.184935",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-04.53-rattfylleri-kalmar/"
+   },
+   {
+    "id": 658714,
+    "datetime": "2026-11-07 6:33:07 +01:00",
+    "name": "7 november 04.35, Brand, Malmö",
+    "summary": "Larm om bilbrand",
+    "type": "Brand",
+    "location": "Skåne län",
+    "gps": "55.990257,13.595769",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-04.35-brand-malmo/"
+   },
+   {
+    "id": 658713,
+    "datetime": "2026-11-07 6:28:57 +01:00",
+    "name": "7 november 02.55, Trafikolycka, Lund",
+    "summary": "Larm om trafikolycka",
+    "type": "Trafikolycka",
+    "location": "Skåne län",
+    "gps": "55.990257,13.595769",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-02.55-trafikolycka-lund/"
+   },
+   {
+    "id": 658706,
+    "datetime": "2026-11-06 21:12:10 +01:00",
+    "name": "6 november 20.55, Brand, Nybro",
+    "summary": "Brand i en personbil, Kungshall.",
+    "type": "Brand",
+    "location": "Kalmar län",
+    "gps": "57.235016,16.184935",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-20.55-brand-nybro/"
+   },
+   {
+    "id": 658708,
+    "datetime": "2026-11-06 21:40:24 +01:00",
+    "name": "6 november 21.11, Trafikolycka, singel, Borgholm",
+    "summary": "Singelolycka, Böda.",
+    "type": "Trafikolycka, singel",
+    "location": "Kalmar län",
+    "gps": "57.235016,16.184935",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-21.11-trafikolycka-singel-borgholm/"
+   },
+   {
+    "id": 658711,
+    "datetime": "2026-11-06 22:03:40 +01:00",
+    "name": "6 november 20.10, Trafikolycka, Vindeln",
+    "summary": "E12 Tegslund, en bilist har kört av vägen och voltat",
+    "type": "Trafikolycka",
+    "location": "Västerbottens län",
+    "gps": "65.333731,16.516169",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-20.10-trafikolycka-vindeln/"
+   },
+   {
+    "id": 658710,
+    "datetime": "2026-11-06 22:01:05 +01:00",
+    "name": "6 november 21.25, Trafikhinder, Malmö",
+    "summary": "Stillastående bil, Inre Ringvägen.",
+    "type": "Trafikhinder",
+    "location": "Skåne län",
+    "gps": "55.990257,13.595769",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-21.25-trafikhinder-malmo/"
+   },
+   {
+    "id": 658697,
+    "datetime": "2026-11-06 21:55:26 +01:00",
+    "name": "6 november 21.55, Övrigt, Västra Götalands län",
+    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl i mån av tid.",
+    "type": "Övrigt",
+    "location": "Västra Götalands län",
+    "gps": "58.252793,13.059643",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-21.55-ovrigt-vastra-gotalands-lan/"
+   },
+   {
+    "id": 658696,
+    "datetime": "2026-11-06 21:55:11 +01:00",
+    "name": "6 november 21.55, Övrigt, Hallands län",
+    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl i mån av tid.",
+    "type": "Övrigt",
+    "location": "Hallands län",
+    "gps": "56.896681,12.803399",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-21.55-ovrigt-hallands-lan/"
+   },
+   {
+    "id": 658698,
+    "datetime": "2026-11-06 19:45:14 +01:00",
+    "name": "6 november 19.14, Trafikolycka, Karlstad",
+    "summary": "En singelolycka har inträffat i Edsvalla",
+    "type": "Trafikolycka",
+    "location": "Värmlands län",
+    "gps": "59.729407,13.235402",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-19.14-trafikolycka-karlstad/"
+   },
+   {
+    "id": 658709,
+    "datetime": "2026-11-06 21:48:54 +01:00",
+    "name": "6 november 18.19, Övrigt, Uppsala",
+    "summary": "Polisen utreder ett misstänkt grovt brott.",
+    "type": "Övrigt",
+    "location": "Uppsala län",
+    "gps": "60.009226,17.271459",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-18.19-ovrigt-uppsala/"
+   },
+   {
+    "id": 658705,
+    "datetime": "2026-11-06 20:58:26 +01:00",
+    "name": "6 november 20.38, Brand, Kristianstad",
+    "summary": "Det brinner i en container, Östra Storgatan.",
+    "type": "Brand",
+    "location": "Skåne län",
+    "gps": "55.990257,13.595769",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-20.38-brand-kristianstad/"
+   },
+   {
+    "id": 658702,
+    "datetime": "2026-11-06 21:16:31 +01:00",
+    "name": "6 november 19.51, Trafikolycka, Tierp",
+    "summary": "Bil körde sönder stängsel till kohage.",
+    "type": "Trafikolycka",
+    "location": "Uppsala län",
+    "gps": "60.009226,17.271459",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-19.51-trafikolycka-tierp/"
+   },
+   {
+    "id": 658707,
+    "datetime": "2026-11-06 21:13:39 +01:00",
+    "name": "6 november 19.43, Misshandel, Västerås",
+    "summary": "Man misshandlad utanför nattklubb.",
+    "type": "Misshandel",
+    "location": "Västmanlands län",
+    "gps": "59.671388,16.215895",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-19.43-misshandel-vasteras/"
+   },
+   {
+    "id": 658704,
+    "datetime": "2026-11-06 20:27:32 +01:00",
+    "name": "6 november 19.42, Trafikolycka, singel, Vellinge",
+    "summary": "Singelolycka på parkering, Höllviken.",
+    "type": "Trafikolycka, singel",
+    "location": "Skåne län",
+    "gps": "55.990257,13.595769",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-19.42-trafikolycka-singel-vellinge/"
+   },
+   {
+    "id": 658700,
+    "datetime": "2026-11-06 20:12:05 +01:00",
+    "name": "6 november 18.59, Trafikolycka, personskada, Göteborg",
+    "summary": "SOS larmar om en trafikolycka på Gustaf Dahlénsgatan där en person enligt uppgift skall ha blivit påkörd av en spårvagn.",
+    "type": "Trafikolycka, personskada",
+    "location": "Västra Götalands län",
+    "gps": "58.252793,13.059643",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-18.59-trafikolycka-personskada-goteborg/"
+   },
+   {
+    "id": 658703,
+    "datetime": "2026-11-06 20:16:23 +01:00",
+    "name": "6 november 19.09, Trafikolycka, personskada, Uppsala",
+    "summary": "Föraren skadad efter trafikolycka.",
+    "type": "Trafikolycka, personskada",
+    "location": "Uppsala län",
+    "gps": "60.009226,17.271459",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-19.09-trafikolycka-personskada-uppsala/"
+   },
+   {
+    "id": 658701,
+    "datetime": "2026-11-06 20:07:08 +01:00",
+    "name": "6 november 17.48, Skadegörelse, Köping",
+    "summary": "Sönderslagen fönsterruta på banklokal.",
+    "type": "Skadegörelse",
+    "location": "Västmanlands län",
+    "gps": "59.671388,16.215895",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-17.48-skadegorelse-koping/"
+   },
+   {
+    "id": 658699,
+    "datetime": "2026-11-06 20:03:28 +01:00",
+    "name": "6 november 20.00, Mord/dråp, Norrköping",
+    "summary": "Misstänkt mord utreds i Norrköping",
+    "type": "Mord/dråp",
+    "location": "Östergötlands län",
+    "gps": "58.345364,15.519784",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-20.00-morddrap-norrkoping/"
+   },
+   {
+    "id": 658691,
+    "datetime": "2026-11-06 17:38:37 +01:00",
+    "name": "6 november 17.05, Trafikolycka, Åstorp",
+    "summary": "Larm om påkörd person.",
+    "type": "Trafikolycka",
+    "location": "Skåne län",
+    "gps": "55.990257,13.595769",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-17.05-trafikolycka-astorp/"
+   },
+   {
+    "id": 658695,
+    "datetime": "2026-11-06 19:05:22 +01:00",
+    "name": "6 november 16.08, Bedrägeri, Stockholm",
+    "summary": "Äldre kvinna utsatt för bedrägeri.",
+    "type": "Bedrägeri",
+    "location": "Stockholms län",
+    "gps": "59.602496,18.138438",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-16.08-bedrageri-stockholm/"
+   },
+   {
+    "id": 658694,
+    "datetime": "2026-11-06 18:58:48 +01:00",
+    "name": "6 november 17.36, Trafikolycka, smitning från, Vellinge",
+    "summary": "Misstänkt smitning, Falsterbovägen.",
+    "type": "Trafikolycka, smitning från",
+    "location": "Skåne län",
+    "gps": "55.990257,13.595769",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-17.36-trafikolycka-smitning-fran-vellinge/"
+   },
+   {
+    "id": 658693,
+    "datetime": "2026-11-06 18:16:43 +01:00",
+    "name": "6 november 16.51, Trafikolycka, Lund",
+    "summary": "Påkörd person, sjukhuset.",
+    "type": "Trafikolycka",
+    "location": "Skåne län",
+    "gps": "55.990257,13.595769",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-16.51-trafikolycka-lund/"
+   },
+   {
+    "id": 658687,
+    "datetime": "2026-11-06 16:56:56 +01:00",
+    "name": "6 november 16.21, Trafikolycka, singel, Uppvidinge",
+    "summary": "Personbil kör av riksväg 31, väst om Målerås.",
+    "type": "Trafikolycka, singel",
+    "location": "Kronobergs län",
+    "gps": "56.71834,14.411467",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-16.21-trafikolycka-singel-uppvidinge/"
+   },
+   {
+    "id": 658686,
+    "datetime": "2026-11-06 16:26:22 +01:00",
+    "name": "6 november 15.55, Trafikolycka, vilt, Skellefteå",
+    "summary": "Slyberg, en bilist har kolliderat med en älg mellan Kåge och Jörn",
+    "type": "Trafikolycka, vilt",
+    "location": "Västerbottens län",
+    "gps": "65.333731,16.516169",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-15.55-trafikolycka-vilt-skelleftea/"
+   },
+   {
+    "id": 658689,
+    "datetime": "2026-11-06 17:07:54 +01:00",
+    "name": "6 november 13.37, Våld/hot mot tjänsteman, Mönsterås",
+    "summary": "Man misstänkt för flera brott i centrala Mönsterås.",
+    "type": "Våld/hot mot tjänsteman",
+    "location": "Kalmar län",
+    "gps": "57.235016,16.184935",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-13.37-valdhot-mot-tjansteman-monsteras/"
+   },
+   {
+    "id": 658688,
+    "datetime": "2026-11-06 17:04:13 +01:00",
+    "name": "6 november 13.38, Rån, Kristianstad",
+    "summary": "Misstänkt rån, Tollarp.",
+    "type": "Rån",
+    "location": "Skåne län",
+    "gps": "55.990257,13.595769",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-13.38-ran-kristianstad/"
+   },
+   {
+    "id": 658652,
+    "datetime": "2026-11-06 13:32:31 +01:00",
+    "name": "6 november 12.49, Trafikolycka, Pajala",
+    "summary": "Länsväg 392, trafikolycka strax norr om Korpilombolo.",
+    "type": "Trafikolycka",
+    "location": "Norrbottens län",
+    "gps": "66.830922,20.399197",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-12.49-trafikolycka-pajala/"
+   },
+   {
+    "id": 658685,
+    "datetime": "2026-11-06 16:25:55 +01:00",
+    "name": "6 november 15.02, Trafikbrott, Gotlands län",
+    "summary": "Cyklist och bilist inblandad i trafikolycka.",
+    "type": "Trafikbrott",
+    "location": "Gotlands län",
+    "gps": "57.468412,18.486745",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-15.02-trafikbrott-gotlands-lan/"
+   },
+   {
+    "id": 658684,
+    "datetime": "2026-11-06 16:17:15 +01:00",
+    "name": "6 november 14.14, Narkotikabrott, Umeå",
+    "summary": "Centrala stan, polis kontaktas gällande en man som upplevs påverkad på Vasaplan",
+    "type": "Narkotikabrott",
+    "location": "Västerbottens län",
+    "gps": "65.333731,16.516169",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-14.14-narkotikabrott-umea/"
+   },
+   {
+    "id": 658680,
+    "datetime": "2026-11-06 16:07:11 +01:00",
+    "name": "6 november 15.18, Stöld, Härnösand",
+    "summary": "Kronholmen, ett antal personer kontrolleras vid resecentrum",
+    "type": "Stöld",
+    "location": "Västernorrlands län",
+    "gps": "63.427647,17.729244",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-15.18-stold-harnosand/"
+   },
+   {
+    "id": 658678,
+    "datetime": "2026-11-06 16:00:28 +01:00",
+    "name": "6 november 14.03, Fylleri, Sundsvall",
+    "summary": "Sundsvalls centralstation, polis kontaktas gällande en tågresenär som är berusad och inte ordningsam",
+    "type": "Fylleri",
+    "location": "Västernorrlands län",
+    "gps": "63.427647,17.729244",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-14.03-fylleri-sundsvall/"
+   },
+   {
+    "id": 658674,
+    "datetime": "2026-11-06 15:32:17 +01:00",
+    "name": "6 november 14.31, Trafikolycka, smitning från, Kalmar",
+    "summary": "Bil påbackad, Oxhagen.",
+    "type": "Trafikolycka, smitning från",
+    "location": "Kalmar län",
+    "gps": "57.235016,16.184935",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-14.31-trafikolycka-smitning-fran-kalmar/"
+   },
+   {
+    "id": 658673,
+    "datetime": "2026-11-06 15:31:00 +01:00",
+    "name": "6 november 12.59, Fjällräddning, Åre",
+    "summary": "Storlien, en kvinna uppges ha ramlat och gjort sig illa",
+    "type": "Fjällräddning",
+    "location": "Jämtlands län",
+    "gps": "63.171192,14.95918",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-12.59-fjallraddning-are/"
+   },
+   {
+    "id": 658663,
+    "datetime": "2026-11-06 14:38:34 +01:00",
+    "name": "6 november 13.10, Trafikolycka, personskada, Enköping",
+    "summary": "Tre fordon inblandade i olycka på riksväg 55.",
+    "type": "Trafikolycka, personskada",
+    "location": "Uppsala län",
+    "gps": "60.009226,17.271459",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-13.10-trafikolycka-personskada-enkoping/"
+   },
+   {
+    "id": 658655,
+    "datetime": "2026-11-06 13:38:23 +01:00",
+    "name": "6 november 13.29, Trafikolycka, Kristianstad",
+    "summary": "En trafikolycka mellan en personbil och cyklist inträffar på Kockumsgatan.",
+    "type": "Trafikolycka",
+    "location": "Skåne län",
+    "gps": "55.990257,13.595769",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-13.29-trafikolycka-kristianstad/"
+   },
+   {
+    "id": 658661,
+    "datetime": "2026-11-06 14:26:42 +01:00",
+    "name": "6 november 14.26, Trafikolycka, Linköping",
+    "summary": "Man i 25-årsåldern bötfälld efter bakifrånpåkörning",
+    "type": "Trafikolycka",
+    "location": "Östergötlands län",
+    "gps": "58.345364,15.519784",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-14.26-trafikolycka-linkoping/"
+   },
+   {
+    "id": 658660,
+    "datetime": "2026-11-06 14:08:47 +01:00",
+    "name": "6 november 12.44, Räddningsinsats, Eskilstuna",
+    "summary": "En person avliden efter drunkningslarm",
+    "type": "Räddningsinsats",
+    "location": "Södermanlands län",
+    "gps": "59.033635,16.75189",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-12.44-raddningsinsats-eskilstuna/"
+   },
+   {
+    "id": 658654,
+    "datetime": "2026-11-06 13:35:27 +01:00",
+    "name": "6 november 13.20, Trafikolycka, Umeå",
+    "summary": "Umeå, trafikolycka i centrala stan.",
+    "type": "Trafikolycka",
+    "location": "Västerbottens län",
+    "gps": "65.333731,16.516169",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-13.20-trafikolycka-umea/"
+   },
+   {
+    "id": 658653,
+    "datetime": "2026-11-06 13:17:51 +01:00",
+    "name": "6 november 12.49, Trafikolycka, Örebro",
+    "summary": "En olycka har inträffat i Sandvad",
+    "type": "Trafikolycka",
+    "location": "Örebro län",
+    "gps": "59.535036,15.006573",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-12.49-trafikolycka-orebro/"
+   },
+   {
+    "id": 658630,
+    "datetime": "2026-11-06 10:59:04 +01:00",
+    "name": "6 november 10.35, Trafikolycka, Botkyrka",
+    "summary": "Det är stopp i trafiken på E 4 i södergående riktning i höjd med trafikplats Hallunda, Botkyrka kommun.",
+    "type": "Trafikolycka",
+    "location": "Stockholms län",
+    "gps": "59.602496,18.138438",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-10.35-trafikolycka-botkyrka/"
+   },
+   {
+    "id": 658640,
+    "datetime": "2026-11-06 12:52:28 +01:00",
+    "name": "6 november 12.52, Trafikkontroll, Jämtlands län",
+    "summary": "Jämtland, resultat från några av dagens trafikkontroller.",
+    "type": "Trafikkontroll",
+    "location": "Jämtlands län",
+    "gps": "63.171192,14.95918",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-12.52-trafikkontroll-jamtlands-lan/"
+   },
+   {
+    "id": 658646,
+    "datetime": "2026-11-06 12:29:46 +01:00",
+    "name": "6 november 12.00, Trafikolycka, Örebro",
+    "summary": "En olycka har inträffat på Boglundsängen",
+    "type": "Trafikolycka",
+    "location": "Örebro län",
+    "gps": "59.535036,15.006573",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-12.00-trafikolycka-orebro/"
+   },
+   {
+    "id": 658650,
+    "datetime": "2026-11-06 12:38:11 +01:00",
+    "name": "6 november 10.06, Rån, Kungsbacka",
+    "summary": "Larm om misshandel i bostad.",
+    "type": "Rån",
+    "location": "Hallands län",
+    "gps": "56.896681,12.803399",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-10.06-ran-kungsbacka/"
+   },
+   {
+    "id": 658628,
+    "datetime": "2026-11-06 10:58:01 +01:00",
+    "name": "6 november 10.33, Övrigt, Östersund",
+    "summary": "Östersund, larm inkommer gällande en postförsändelse.",
+    "type": "Övrigt",
+    "location": "Jämtlands län",
+    "gps": "63.171192,14.95918",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-10.33-ovrigt-ostersund/"
+   },
+   {
+    "id": 658639,
+    "datetime": "2026-11-06 11:54:03 +01:00",
+    "name": "6 november 11.54, Trafikkontroll, Västernorrlands län",
+    "summary": "Västernorrland, resultat från några av dagens trafikkontroller.",
+    "type": "Trafikkontroll",
+    "location": "Västernorrlands län",
+    "gps": "63.427647,17.729244",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-11.54-trafikkontroll-vasternorrlands-lan/"
+   },
+   {
+    "id": 658638,
+    "datetime": "2026-11-06 11:51:27 +01:00",
+    "name": "6 november 11.51, Trafikkontroll, Västerbottens län",
+    "summary": "Västerbotten, resultat från några av dagens trafikkontroller.",
+    "type": "Trafikkontroll",
+    "location": "Västerbottens län",
+    "gps": "65.333731,16.516169",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-11.51-trafikkontroll-vasterbottens-lan/"
+   },
+   {
+    "id": 658637,
+    "datetime": "2026-11-06 11:50:09 +01:00",
+    "name": "6 november 11.50, Trafikkontroll, Norrbottens län",
+    "summary": "Norrbotten, resultat från några av dagens trafikkontroller.",
+    "type": "Trafikkontroll",
+    "location": "Norrbottens län",
+    "gps": "66.830922,20.399197",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-11.50-trafikkontroll-norrbottens-lan/"
+   },
+   {
+    "id": 658632,
+    "datetime": "2026-11-06 11:10:25 +01:00",
+    "name": "6 november 10.21, Arbetsplatsolycka, Piteå",
+    "summary": "Piteå, olycka under arbete.",
+    "type": "Arbetsplatsolycka",
+    "location": "Norrbottens län",
+    "gps": "66.830922,20.399197",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-10.21-arbetsplatsolycka-pitea/"
+   },
+   {
+    "id": 658631,
+    "datetime": "2026-11-06 11:06:37 +01:00",
+    "name": "6 november 08.19, Sjukdom/olycksfall, Säffle",
+    "summary": "Polisen är på plats i Sundstorp",
+    "type": "Sjukdom/olycksfall",
+    "location": "Värmlands län",
+    "gps": "59.729407,13.235402",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-08.19-sjukdomolycksfall-saffle/"
+   },
+   {
+    "id": 658629,
+    "datetime": "2026-11-06 10:58:47 +01:00",
+    "name": "6 november 09.19, Misshandel, Falkenberg",
+    "summary": "Någon slängde in smällare i skola.",
+    "type": "Misshandel",
+    "location": "Hallands län",
+    "gps": "56.896681,12.803399",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-09.19-misshandel-falkenberg/"
+   },
+   {
+    "id": 658627,
+    "datetime": "2026-11-06 10:51:16 +01:00",
+    "name": "6 november 08.29, Trafikolycka, Hudiksvall",
+    "summary": "Kollision med buss.",
+    "type": "Trafikolycka",
+    "location": "Gävleborgs län",
+    "gps": "61.301199,16.153421",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-08.29-trafikolycka-hudiksvall/"
+   },
+   {
+    "id": 658625,
+    "datetime": "2026-11-06 9:57:10 +01:00",
+    "name": "6 november 09.42, Trafikolycka, Kävlinge",
+    "summary": "Påkörd cyklist på Landskronavägen, Hofterup.",
+    "type": "Trafikolycka",
+    "location": "Skåne län",
+    "gps": "55.990257,13.595769",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-09.42-trafikolycka-kavlinge/"
+   },
+   {
+    "id": 658620,
+    "datetime": "2026-11-06 9:25:08 +01:00",
+    "name": "6 november 08.51, Trafikolycka, Skellefteå",
+    "summary": "E4, singelolycka i trakten av Kåge.",
+    "type": "Trafikolycka",
+    "location": "Västerbottens län",
+    "gps": "65.333731,16.516169",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-08.51-trafikolycka-skelleftea/"
+   },
+   {
+    "id": 658621,
+    "datetime": "2026-11-06 9:28:22 +01:00",
+    "name": "6 november 09.06, Trafikolycka, Nybro",
+    "summary": "Singelolycka med lastbil.",
+    "type": "Trafikolycka",
+    "location": "Kalmar län",
+    "gps": "57.235016,16.184935",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-09.06-trafikolycka-nybro/"
+   },
+   {
+    "id": 658619,
+    "datetime": "2026-11-06 9:16:20 +01:00",
+    "name": "6 november 07.37, Trafikolycka, vilt, Umeå",
+    "summary": "Ersmark, viltolycka utan personskador.",
+    "type": "Trafikolycka, vilt",
+    "location": "Västerbottens län",
+    "gps": "65.333731,16.516169",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-07.37-trafikolycka-vilt-umea/"
+   },
+   {
+    "id": 658609,
+    "datetime": "2026-11-06 7:52:28 +01:00",
+    "name": "6 november 07.51, Sammanfattning natt, Södermanlands län",
+    "summary": "Sammanfattning av nattens händelser",
+    "type": "Sammanfattning natt",
+    "location": "Södermanlands län",
+    "gps": "59.033635,16.75189",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-07.51-sammanfattning-natt-sodermanlands-lan/"
+   },
+   {
+    "id": 658610,
+    "datetime": "2026-11-06 7:55:01 +01:00",
+    "name": "6 november 07.52, Sammanfattning natt, Jönköpings län",
+    "summary": "Sammanfattning av nattens händelser",
+    "type": "Sammanfattning natt",
+    "location": "Jönköpings län",
+    "gps": "57.370843,14.343917",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-07.52-sammanfattning-natt-jonkopings-lan/"
+   },
+   {
+    "id": 658608,
+    "datetime": "2026-11-06 7:44:04 +01:00",
+    "name": "6 november 07.43, Sammanfattning natt, Östergötlands län",
+    "summary": "Sammanfattning av nattens händelser",
+    "type": "Sammanfattning natt",
+    "location": "Östergötlands län",
+    "gps": "58.345364,15.519784",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-07.43-sammanfattning-natt-ostergotlands-lan/"
+   },
+   {
+    "id": 658606,
+    "datetime": "2026-11-06 7:21:42 +01:00",
+    "name": "6 november 07.20, Trafikolycka, Kinda",
+    "summary": "Halka under morgontrafiken: Kör försiktigt",
+    "type": "Trafikolycka",
+    "location": "Östergötlands län",
+    "gps": "58.345364,15.519784",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-07.20-trafikolycka-kinda/"
+   },
+   {
+    "id": 658605,
+    "datetime": "2026-11-06 7:19:21 +01:00",
+    "name": "6 november 07.16, Trafikolycka, Nässjö",
+    "summary": "Halka under morgontrafiken: Kör försiktigt",
+    "type": "Trafikolycka",
+    "location": "Jönköpings län",
+    "gps": "57.370843,14.343917",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-07.16-trafikolycka-nassjo/"
+   },
+   {
+    "id": 658595,
+    "datetime": "2026-11-06 7:13:11 +01:00",
+    "name": "6 november 07.13, Sammanfattning natt, Norrbottens län",
+    "summary": "Ett urval av nattens polisverksamhet.",
+    "type": "Sammanfattning natt",
+    "location": "Norrbottens län",
+    "gps": "66.830922,20.399197",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-07.13-sammanfattning-natt-norrbottens-lan/"
+   },
+   {
+    "id": 658596,
+    "datetime": "2026-11-06 7:12:55 +01:00",
+    "name": "6 november 07.12, Sammanfattning natt, Västerbottens län",
+    "summary": "Ett urval av nattens polisverksamhet.",
+    "type": "Sammanfattning natt",
+    "location": "Västerbottens län",
+    "gps": "65.333731,16.516169",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-07.12-sammanfattning-natt-vasterbottens-lan/"
+   },
+   {
+    "id": 658601,
+    "datetime": "2026-11-06 7:12:35 +01:00",
+    "name": "6 november 07.12, Sammanfattning natt, Västernorrlands län",
+    "summary": "Ett urval av nattens polisverksamhet.",
+    "type": "Sammanfattning natt",
+    "location": "Västernorrlands län",
+    "gps": "63.427647,17.729244",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-07.12-sammanfattning-natt-vasternorrlands-lan/"
+   },
+   {
+    "id": 658600,
+    "datetime": "2026-11-06 7:12:32 +01:00",
+    "name": "6 november 07.06, Sammanfattning natt, Dalarnas län",
+    "summary": "Det har varit en lugn natt i länet. Nedan följer ett urval av händelser som vi har hanterat",
+    "type": "Sammanfattning natt",
+    "location": "Dalarnas län",
+    "gps": "61.091701,14.666365",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-07.06-sammanfattning-natt-dalarnas-lan/"
+   },
+   {
+    "id": 658602,
+    "datetime": "2026-11-06 7:12:26 +01:00",
+    "name": "6 november 07.07, Sammanfattning natt, Örebro län",
+    "summary": "Det har varit en lugn natt i länet. Nedan följer ett urval av händelser som vi har hanterat",
+    "type": "Sammanfattning natt",
+    "location": "Örebro län",
+    "gps": "59.535036,15.006573",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-07.07-sammanfattning-natt-orebro-lan/"
+   },
+   {
+    "id": 658604,
+    "datetime": "2026-11-06 7:12:18 +01:00",
+    "name": "6 november 07.08, Sammanfattning natt, Värmlands län",
+    "summary": "Det har varit en lugn natt i länet. Nedan följer ett urval av händelser som vi har hanterat",
+    "type": "Sammanfattning natt",
+    "location": "Värmlands län",
+    "gps": "59.729407,13.235402",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-07.08-sammanfattning-natt-varmlands-lan/"
+   },
+   {
+    "id": 658603,
+    "datetime": "2026-11-06 7:12:14 +01:00",
+    "name": "6 november 07.12, Sammanfattning natt, Jämtlands län",
+    "summary": "Ett urval av nattens polisverksamhet.",
+    "type": "Sammanfattning natt",
+    "location": "Jämtlands län",
+    "gps": "63.171192,14.95918",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-07.12-sammanfattning-natt-jamtlands-lan/"
+   },
+   {
+    "id": 658594,
+    "datetime": "2026-11-06 6:42:13 +01:00",
+    "name": "6 november 06.36, Försvunnen person, Kävlinge",
+    "summary": "Polisen söker efter en försvunnen kvinna i Löddeköpinge.",
+    "type": "Försvunnen person",
+    "location": "Skåne län",
+    "gps": "55.990257,13.595769",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-06.36-forsvunnen-person-kavlinge/"
+   },
+   {
+    "id": 658598,
+    "datetime": "2026-11-06 6:51:32 +01:00",
+    "name": "6 november 06.51, Sammanfattning kväll och natt, Västra Götalands län",
+    "summary": "Dagens presstalesperson är på plats. Nedan följer ett urval av nattens händelser.",
+    "type": "Sammanfattning kväll och natt",
+    "location": "Västra Götalands län",
+    "gps": "58.252793,13.059643",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-06.51-sammanfattning-kvall-och-natt-vastra-gotalands-lan/"
+   },
+   {
+    "id": 658597,
+    "datetime": "2026-11-06 6:50:34 +01:00",
+    "name": "6 november 06.50, Sammanfattning kväll och natt, Hallands län",
+    "summary": "Dagens presstalesperson är på plats. Nedan följer ett urval av nattens händelser.",
+    "type": "Sammanfattning kväll och natt",
+    "location": "Hallands län",
+    "gps": "56.896681,12.803399",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-06.50-sammanfattning-kvall-och-natt-hallands-lan/"
+   },
+   {
+    "id": 658592,
+    "datetime": "2026-11-06 6:25:56 +01:00",
+    "name": "6 november 00.37, Misshandel, Malmö",
+    "summary": "Man gripen misstänkt för grov misshandel.",
+    "type": "Misshandel",
+    "location": "Skåne län",
+    "gps": "55.990257,13.595769",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-00.37-misshandel-malmo/"
+   },
+   {
+    "id": 658591,
+    "datetime": "2026-11-06 6:17:12 +01:00",
+    "name": "6 november 06.10, Misshandel, Kalmar",
+    "summary": "Misshandel i relation.",
+    "type": "Misshandel",
+    "location": "Kalmar län",
+    "gps": "57.235016,16.184935",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-06.10-misshandel-kalmar/"
+   },
+   {
+    "id": 658590,
+    "datetime": "2026-11-06 6:17:10 +01:00",
+    "name": "5 november 23.53, Skadegörelse, Kristianstad",
+    "summary": "Klotter på vägg",
+    "type": "Skadegörelse",
+    "location": "Skåne län",
+    "gps": "55.990257,13.595769",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/5/5-november-23.53-skadegorelse-kristianstad/"
+   },
+   {
+    "id": 658589,
+    "datetime": "2026-11-06 0:32:54 +01:00",
+    "name": "5 november 21.54, Vapenlagen, Västerås",
+    "summary": "Person gripen misstänkt för grovt vapenbrott.",
+    "type": "Vapenlagen",
+    "location": "Västmanlands län",
+    "gps": "59.671388,16.215895",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/5-november-21.54-vapenlagen-vasteras/"
+   },
+   {
+    "id": 658583,
+    "datetime": "2026-11-05 21:50:11 +01:00",
+    "name": "5 november 21.50, Övrigt, Västra Götalands län",
+    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst.",
+    "type": "Övrigt",
+    "location": "Västra Götalands län",
+    "gps": "58.252793,13.059643",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/5/5-november-21.50-ovrigt-vastra-gotalands-lan/"
+   },
+   {
+    "id": 658584,
+    "datetime": "2026-11-05 21:50:04 +01:00",
+    "name": "5 november 21.50, Övrigt, Hallands län",
+    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst.",
+    "type": "Övrigt",
+    "location": "Hallands län",
+    "gps": "56.896681,12.803399",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/5/5-november-21.50-ovrigt-hallands-lan/"
+   },
+   {
+    "id": 658579,
+    "datetime": "2026-11-05 21:24:24 +01:00",
+    "name": "5 november 19.48, Stöld, Eskilstuna",
+    "summary": "Guldaffär utsatt för butiksstöld.",
+    "type": "Stöld",
+    "location": "Södermanlands län",
+    "gps": "59.033635,16.75189",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/5/5-november-19.48-stold-eskilstuna/"
+   },
+   {
+    "id": 658582,
+    "datetime": "2026-11-05 21:22:26 +01:00",
+    "name": "5 november 16.15, Stöld, Sigtuna",
+    "summary": "Två personer grips på Arlanda efter att stulit från en taxfreebutik.",
+    "type": "Stöld",
+    "location": "Stockholms län",
+    "gps": "59.602496,18.138438",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/5/5-november-16.15-stold-sigtuna/"
+   },
+   {
+    "id": 658581,
+    "datetime": "2026-11-05 21:18:19 +01:00",
+    "name": "5 november 19.47, Övrigt, Östersund",
+    "summary": "Odenskogs industriområde, polisen kontaktas angående att någon har lagt ut större stenar på en vägbana.",
+    "type": "Övrigt",
+    "location": "Jämtlands län",
+    "gps": "63.171192,14.95918",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/5/5-november-19.47-ovrigt-ostersund/"
+   },
+   {
+    "id": 658580,
+    "datetime": "2026-11-05 20:23:06 +01:00",
+    "name": "5 november 18.42, Trafikolycka, vilt, Linköping",
+    "summary": "Två bilar körde på samma dovhjort utanför Slaka.",
+    "type": "Trafikolycka, vilt",
+    "location": "Östergötlands län",
+    "gps": "58.345364,15.519784",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/5/5-november-18.42-trafikolycka-vilt-linkoping/"
+   },
+   {
+    "id": 658578,
+    "datetime": "2026-11-05 20:13:37 +01:00",
+    "name": "5 november 18.28, Trafikbrott, Stockholm",
+    "summary": "En personbil kör in i en annan personbil bakifrån på E4:an i höjd med trafikplats Västberga.",
+    "type": "Trafikbrott",
+    "location": "Stockholms län",
+    "gps": "59.602496,18.138438",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/5/5-november-18.28-trafikbrott-stockholm/"
+   },
+   {
+    "id": 658553,
+    "datetime": "2026-11-05 16:10:44 +01:00",
+    "name": "5 november 15.59, Trafikolycka, Arvika",
+    "summary": "En bilist och en cyklist är inblandade i en olycka i Myråsen",
+    "type": "Trafikolycka",
+    "location": "Värmlands län",
+    "gps": "59.729407,13.235402",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/5/5-november-15.59-trafikolycka-arvika/"
+   },
+   {
+    "id": 658561,
+    "datetime": "2026-11-05 17:40:21 +01:00",
+    "name": "5 november 16.41, Trafikolycka, Österåker",
+    "summary": "Stora köer och följdolyckor uppstår efter en trafikolycka vid trafikplats Rosenkälla på E18.",
+    "type": "Trafikolycka",
+    "location": "Stockholms län",
+    "gps": "59.602496,18.138438",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/5/5-november-16.41-trafikolycka-osteraker/"
+   },
+   {
+    "id": 658577,
+    "datetime": "2026-11-05 19:33:02 +01:00",
+    "name": "5 november 19.32, Trafikolycka, vilt, Jämtlands län",
+    "summary": "Ett antal viltolyckor utan personskador har rapporterats in till polisen.",
+    "type": "Trafikolycka, vilt",
+    "location": "Jämtlands län",
+    "gps": "63.171192,14.95918",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/5/5-november-19.32-trafikolycka-vilt-jamtlands-lan/"
+   },
+   {
+    "id": 658551,
+    "datetime": "2026-11-05 15:47:07 +01:00",
+    "name": "5 november 15.25, Trafikolycka, Vänersborg",
+    "summary": "En trafikloycka har inträffat på E45 i höjd med Frändefors.",
+    "type": "Trafikolycka",
+    "location": "Västra Götalands län",
+    "gps": "58.252793,13.059643",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/5/5-november-15.25-trafikolycka-vanersborg/"
+   },
+   {
+    "id": 658576,
+    "datetime": "2026-11-05 19:17:38 +01:00",
+    "name": "5 november 19.17, Trafikkontroll, Västerbottens län",
+    "summary": "Ett urval av polisens arbete i trafiken under eftermiddagen.",
+    "type": "Trafikkontroll",
+    "location": "Västerbottens län",
+    "gps": "65.333731,16.516169",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/5/5-november-19.17-trafikkontroll-vasterbottens-lan/"
+   },
+   {
+    "id": 658574,
+    "datetime": "2026-11-05 19:13:07 +01:00",
+    "name": "5 november 17.52, Fylleri, Umeå",
+    "summary": "Strömpilsplatsen, polisen uppmärksammas på en berusad kvinna.",
+    "type": "Fylleri",
+    "location": "Västerbottens län",
+    "gps": "65.333731,16.516169",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/5/5-november-17.52-fylleri-umea/"
+   },
+   {
+    "id": 658570,
+    "datetime": "2026-11-05 19:01:16 +01:00",
+    "name": "5 november 17.48, Misshandel, Stockholm",
+    "summary": "En kvinna i 30-årsåldern blir spottad i ansiktet och dragen i håret av en annan kvinna ombord på ett tunnelbanetåg vid Gullmarsplan.",
+    "type": "Misshandel",
+    "location": "Stockholms län",
+    "gps": "59.602496,18.138438",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/5/5-november-17.48-misshandel-stockholm/"
+   },
+   {
+    "id": 658568,
+    "datetime": "2026-11-05 18:48:56 +01:00",
+    "name": "5 november 18.48, Trafikolycka, vilt, Norrbottens län",
+    "summary": "Ett antal viltolyckor utan personskador har rapporterats in till polisen under eftermiddagen.",
+    "type": "Trafikolycka, vilt",
+    "location": "Norrbottens län",
+    "gps": "66.830922,20.399197",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/5/5-november-18.48-trafikolycka-vilt-norrbottens-lan/"
+   },
+   {
+    "id": 658566,
+    "datetime": "2026-11-05 18:20:34 +01:00",
+    "name": "5 november 18.13, Trafikolycka, Malmö",
+    "summary": "Påkörd person, Lindängen.",
+    "type": "Trafikolycka",
+    "location": "Skåne län",
+    "gps": "55.990257,13.595769",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/5/5-november-18.13-trafikolycka-malmo/"
+   },
+   {
+    "id": 658558,
+    "datetime": "2026-11-05 18:16:57 +01:00",
+    "name": "5 november 15.39, Bråk, Arboga",
+    "summary": "Bråk i centrala Arboga.",
+    "type": "Bråk",
+    "location": "Västmanlands län",
+    "gps": "59.671388,16.215895",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/5/5-november-15.39-brak-arboga/"
+   },
+   {
+    "id": 658565,
+    "datetime": "2026-11-05 18:11:56 +01:00",
+    "name": "5 november 18.11, Trafikkontroll, Luleå",
+    "summary": "Ett urval av polisens arbete i trafiken under eftermiddagen.",
+    "type": "Trafikkontroll",
+    "location": "Norrbottens län",
+    "gps": "66.830922,20.399197",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/5/5-november-18.11-trafikkontroll-lulea/"
+   },
+   {
+    "id": 658564,
+    "datetime": "2026-11-05 18:03:05 +01:00",
+    "name": "5 november 17.08, Brand, Karlskoga",
+    "summary": "Det har brunnit i ett bostadshus på Skrantahöjden",
+    "type": "Brand",
+    "location": "Örebro län",
+    "gps": "59.535036,15.006573",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/5/5-november-17.08-brand-karlskoga/"
+   },
+   {
+    "id": 658559,
+    "datetime": "2026-11-05 17:04:40 +01:00",
+    "name": "5 november 16.36, Brand, Eskilstuna",
+    "summary": "Brand i verkstad utanför Torshälla.",
+    "type": "Brand",
+    "location": "Södermanlands län",
+    "gps": "59.033635,16.75189",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/5/5-november-16.36-brand-eskilstuna/"
+   },
+   {
+    "id": 658563,
+    "datetime": "2026-11-05 17:48:54 +01:00",
+    "name": "5 november 16.27, Trafikolycka, vilt, Kiruna",
+    "summary": "E10 Tuolluvaara, viltolycka med älg.",
+    "type": "Trafikolycka, vilt",
+    "location": "Norrbottens län",
+    "gps": "66.830922,20.399197",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/5/5-november-16.27-trafikolycka-vilt-kiruna/"
+   },
+   {
+    "id": 658562,
+    "datetime": "2026-11-05 17:42:04 +01:00",
+    "name": "5 november 16.15, Trafikolycka, Örnsköldsvik",
+    "summary": "Domsjövägen/Vågsnäsvägen, två personbilar har kolliderat.",
+    "type": "Trafikolycka",
+    "location": "Västernorrlands län",
+    "gps": "63.427647,17.729244",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/5/5-november-16.15-trafikolycka-ornskoldsvik/"
+   },
+   {
+    "id": 658560,
+    "datetime": "2026-11-05 17:19:35 +01:00",
+    "name": "5 november 15.39, Trafikbrott, Sollefteå",
+    "summary": "Långgatan, polisen kontrollerar en personbil.",
+    "type": "Trafikbrott",
+    "location": "Västernorrlands län",
+    "gps": "63.427647,17.729244",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/5/5-november-15.39-trafikbrott-solleftea/"
+   },
+   {
+    "id": 658555,
+    "datetime": "2026-11-05 16:31:14 +01:00",
+    "name": "5 november 16.23, Trafikolycka, Växjö",
+    "summary": "Två personbilar i olycka, Araby.",
+    "type": "Trafikolycka",
+    "location": "Kronobergs län",
+    "gps": "56.71834,14.411467",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/5/5-november-16.23-trafikolycka-vaxjo/"
+   },
+   {
+    "id": 658556,
+    "datetime": "2026-11-05 16:33:24 +01:00",
+    "name": "5 november 15.57, Trafikolycka, Årjäng",
+    "summary": "En singelolycka har inträffat på länsväg 506 vid Fölsbyn",
+    "type": "Trafikolycka",
+    "location": "Värmlands län",
+    "gps": "59.729407,13.235402",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/5/5-november-15.57-trafikolycka-arjang/"
+   },
+   {
+    "id": 658557,
+    "datetime": "2026-11-05 16:34:00 +01:00",
+    "name": "5 november 15.48, Rattfylleri, Järfälla",
+    "summary": "En ledig poliskollega ringer in om en skåpbil som kör vingligt på E18.",
+    "type": "Rattfylleri",
+    "location": "Stockholms län",
+    "gps": "59.602496,18.138438",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/5/5-november-15.48-rattfylleri-jarfalla/"
+   },
+   {
+    "id": 658554,
+    "datetime": "2026-11-05 16:30:26 +01:00",
+    "name": "5 november 16.08, Trafikhinder, Sölvesborg",
+    "summary": "Personbil som ryker på E22, söder om Norje.",
+    "type": "Trafikhinder",
+    "location": "Blekinge län",
+    "gps": "56.278384,15.018006",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/5/5-november-16.08-trafikhinder-solvesborg/"
+   },
+   {
+    "id": 658544,
+    "datetime": "2026-11-05 15:41:13 +01:00",
+    "name": "5 november 15.19, Trafikolycka, Vara",
+    "summary": "Larm inkommer via SOS om en trafikolycka på riksväg 47 i närheten av Tråvad.",
+    "type": "Trafikolycka",
+    "location": "Västra Götalands län",
+    "gps": "58.252793,13.059643",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/5/5-november-15.19-trafikolycka-vara/"
+   },
+   {
+    "id": 658545,
+    "datetime": "2026-11-05 15:41:35 +01:00",
+    "name": "5 november 13.40, Trafikolycka, personskada, Nynäshamn",
+    "summary": "En cyklist blir påkörd av en bil på Hamnviksvägen.",
+    "type": "Trafikolycka, personskada",
+    "location": "Stockholms län",
+    "gps": "59.602496,18.138438",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/5/5-november-13.40-trafikolycka-personskada-nynashamn/"
+   },
+   {
+    "id": 658542,
+    "datetime": "2026-11-05 15:29:54 +01:00",
+    "name": "5 november 13.26, Narkotikabrott, Gotland",
+    "summary": "Polisen kontrollerar två personer på Greta Arwidssons gata i Visby.",
+    "type": "Narkotikabrott",
+    "location": "Gotlands län",
+    "gps": "57.468412,18.486745",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/5/5-november-13.26-narkotikabrott-gotland/"
+   },
+   {
+    "id": 658537,
+    "datetime": "2026-11-05 14:52:44 +01:00",
+    "name": "5 november 13.20, Ofredande/förargelse, Stockholm",
+    "summary": "En person spottar personal i ansiktet på ett kundtjänstcenter i centrala Stockholm.",
+    "type": "Ofredande/förargelse",
+    "location": "Stockholms län",
+    "gps": "59.602496,18.138438",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/5/5-november-13.20-ofredandeforargelse-stockholm/"
+   },
+   {
+    "id": 658533,
+    "datetime": "2026-11-05 13:55:14 +01:00",
+    "name": "5 november 12.34, Olovlig körning, Krokom",
+    "summary": "Olovlig körning i Krokoms centrum.",
+    "type": "Olovlig körning",
+    "location": "Jämtlands län",
+    "gps": "63.171192,14.95918",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/5/5-november-12.34-olovlig-korning-krokom/"
+   },
+   {
+    "id": 658529,
+    "datetime": "2026-11-05 13:42:17 +01:00",
+    "name": "5 november 13.37, Information, Örebro län",
+    "summary": "RMC, Regionalt mediecenter, stänger tidigare idag",
+    "type": "Information",
+    "location": "Örebro län",
+    "gps": "59.535036,15.006573",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/5/5-november-13.37-information-orebro-lan/"
+   },
+   {
+    "id": 658530,
+    "datetime": "2026-11-05 13:42:09 +01:00",
+    "name": "5 november 13.40, Information, Dalarnas län",
+    "summary": "RMC, Regionalt mediecenter, stänger tidigare idag",
+    "type": "Information",
+    "location": "Dalarnas län",
+    "gps": "61.091701,14.666365",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/5/5-november-13.40-information-dalarnas-lan/"
+   },
+   {
+    "id": 658531,
+    "datetime": "2026-11-05 13:42:00 +01:00",
+    "name": "5 november 13.41, Information, Värmlands län",
+    "summary": "RMC, Regionalt mediecenter, stänger tidigare idag",
+    "type": "Information",
+    "location": "Värmlands län",
+    "gps": "59.729407,13.235402",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/5/5-november-13.41-information-varmlands-lan/"
+   },
+   {
+    "id": 658527,
+    "datetime": "2026-11-05 13:17:17 +01:00",
+    "name": "5 november 13.14, Övrigt, Stockholm",
+    "summary": "Polismyndigheten genomför en övning i centrala Stockholm som kan väcka uppmärksamhet för allmänheten.",
+    "type": "Övrigt",
+    "location": "Stockholms län",
+    "gps": "59.602496,18.138438",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/5/5-november-13.14-ovrigt-stockholm/"
+   },
+   {
+    "id": 658525,
+    "datetime": "2026-11-05 12:59:51 +01:00",
+    "name": "5 november 11.50, Skadegörelse, Sundsvall",
+    "summary": "Anmälan om skadegörelse efter att trafikskylt körts ner.",
+    "type": "Skadegörelse",
+    "location": "Västernorrlands län",
+    "gps": "63.427647,17.729244",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/5/5-november-11.50-skadegorelse-sundsvall/"
+   },
+   {
+    "id": 658524,
+    "datetime": "2026-11-05 12:52:04 +01:00",
+    "name": "5 november 11.51, Farligt föremål, misstänkt, Göteborg",
+    "summary": "Polis och räddningstjänst larmas till Lindholmshamnen efter information om ett misstänkt farligt föremål.",
+    "type": "Farligt föremål, misstänkt",
+    "location": "Västra Götalands län",
+    "gps": "58.252793,13.059643",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/5/5-november-11.51-farligt-foremal-misstankt-goteborg/"
+   },
+   {
+    "id": 658521,
+    "datetime": "2026-11-05 12:44:59 +01:00",
+    "name": "5 november 12.44, Trafikkontroll, Norrbottens län",
+    "summary": "Resultat av polisens arbete i trafiken.",
+    "type": "Trafikkontroll",
+    "location": "Norrbottens län",
+    "gps": "66.830922,20.399197",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/5/5-november-12.44-trafikkontroll-norrbottens-lan/"
+   },
+   {
+    "id": 658517,
+    "datetime": "2026-11-05 12:37:29 +01:00",
+    "name": "5 november 10.00, Trafikolycka, Vännäs",
+    "summary": "Trafikolycka på E12 Tväråbäcksområdet, Vännäs.",
+    "type": "Trafikolycka",
+    "location": "Västerbottens län",
+    "gps": "65.333731,16.516169",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/5/5-november-10.00-trafikolycka-vannas/"
+   },
+   {
+    "id": 658484,
+    "datetime": "2026-11-05 7:20:22 +01:00",
+    "name": "5 november 07.20, Sammanfattning natt, Västerbottens län",
+    "summary": "Ett urval av nattens polisverksamhet i Västerbottens län.",
+    "type": "Sammanfattning natt",
+    "location": "Västerbottens län",
+    "gps": "65.333731,16.516169",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/5/5-november-07.20-sammanfattning-natt-vasterbottens-lan/"
+   },
+   {
+    "id": 658505,
+    "datetime": "2026-11-05 12:07:17 +01:00",
+    "name": "5 november 10.26, Trafikolycka, Malmö",
+    "summary": "Olycka på Pågatågstationen i Hyllie.",
+    "type": "Trafikolycka",
+    "location": "Skåne län",
+    "gps": "55.990257,13.595769",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/5/5-november-10.26-trafikolycka-malmo/"
+   },
+   {
+    "id": 658509,
+    "datetime": "2026-11-05 11:31:37 +01:00",
+    "name": "5 november 10.28, Rån, Norrköping",
+    "summary": "Rån i Norrköpingsbutik",
+    "type": "Rån",
+    "location": "Östergötlands län",
+    "gps": "58.345364,15.519784",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/5/5-november-10.28-ran-norrkoping/"
+   },
+   {
+    "id": 658503,
+    "datetime": "2026-11-05 10:32:36 +01:00",
+    "name": "5 november 10.18, Trafikolycka, Kumla",
+    "summary": "Gångtrafikant påbackad av bilist i Kumla.",
+    "type": "Trafikolycka",
+    "location": "Örebro län",
+    "gps": "59.535036,15.006573",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/5/5-november-10.18-trafikolycka-kumla/"
+   },
+   {
+    "id": 658507,
+    "datetime": "2026-11-05 10:57:55 +01:00",
+    "name": "5 november 10.57, Trafikkontroll, Västerbottens län",
+    "summary": "Resultat av polisens arbete i trafiken.",
+    "type": "Trafikkontroll",
+    "location": "Västerbottens län",
+    "gps": "65.333731,16.516169",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/5/5-november-10.57-trafikkontroll-vasterbottens-lan/"
+   },
+   {
+    "id": 658506,
+    "datetime": "2026-11-05 10:53:50 +01:00",
+    "name": "5 november 10.53, Trafikkontroll, Västernorrlands län",
+    "summary": "Resultat av polisens arbete i trafiken.",
+    "type": "Trafikkontroll",
+    "location": "Västernorrlands län",
+    "gps": "63.427647,17.729244",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/5/5-november-10.53-trafikkontroll-vasternorrlands-lan/"
+   },
+   {
+    "id": 658497,
+    "datetime": "2026-11-05 10:00:58 +01:00",
+    "name": "5 november 08.53, Trafikolycka, Eskilstuna",
+    "summary": "Lastbil tvärs över lv 940 Tumbo",
+    "type": "Trafikolycka",
+    "location": "Södermanlands län",
+    "gps": "59.033635,16.75189",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/5/5-november-08.53-trafikolycka-eskilstuna/"
+   },
+   {
+    "id": 658499,
+    "datetime": "2026-11-05 10:22:02 +01:00",
+    "name": "5 november 09.40, Trafikolycka, Örnsköldsvik",
+    "summary": "Trafikolycka på länsväg 352 i Björna.",
+    "type": "Trafikolycka",
+    "location": "Västernorrlands län",
+    "gps": "63.427647,17.729244",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/5/5-november-09.40-trafikolycka-ornskoldsvik/"
+   },
+   {
+    "id": 658498,
+    "datetime": "2026-11-05 10:09:27 +01:00",
+    "name": "5 november 09.12, Trafikolycka, Falun",
+    "summary": "Trafikolycka mellan bilist och gångtrafikant i centrala Falun.",
+    "type": "Trafikolycka",
+    "location": "Dalarnas län",
+    "gps": "61.091701,14.666365",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/5/5-november-09.12-trafikolycka-falun/"
+   },
+   {
+    "id": 658495,
+    "datetime": "2026-11-05 9:15:45 +01:00",
+    "name": "5 november 08.56, Trafikolycka, singel, Karlskoga",
+    "summary": "Singelolycka längs Lv 555, östra sidan av sjön Möckeln.",
+    "type": "Trafikolycka, singel",
+    "location": "Örebro län",
+    "gps": "59.535036,15.006573",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/5/5-november-08.56-trafikolycka-singel-karlskoga/"
+   },
+   {
+    "id": 658486,
+    "datetime": "2026-11-05 7:39:44 +01:00",
+    "name": "5 november 02.06, Arbetsplatsolycka, Huddinge",
+    "summary": "Två personer har skadats när ett tåg kolliderat med en arbetsmaskin på spårområdet.",
+    "type": "Arbetsplatsolycka",
+    "location": "Stockholms län",
+    "gps": "59.602496,18.138438",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/5/5-november-02.06-arbetsplatsolycka-huddinge/"
+   },
+   {
+    "id": 658494,
+    "datetime": "2026-11-05 8:38:48 +01:00",
+    "name": "5 november 07.44, Trafikolycka, Norrköping",
+    "summary": "Trafikolycka på riksvägen Beckershov, Norrköping",
+    "type": "Trafikolycka",
+    "location": "Östergötlands län",
+    "gps": "58.345364,15.519784",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/5/5-november-07.44-trafikolycka-norrkoping/"
+   },
+   {
+    "id": 658491,
+    "datetime": "2026-11-05 8:04:12 +01:00",
+    "name": "5 november 05.31, Stöld, Lomma",
+    "summary": "Inbrott i lastbilsstrailer.",
+    "type": "Stöld",
+    "location": "Skåne län",
+    "gps": "55.990257,13.595769",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/5/5-november-05.31-stold-lomma/"
+   },
+   {
+    "id": 658482,
+    "datetime": "2026-11-05 7:01:30 +01:00",
+    "name": "5 november 07.00, Sammanfattning natt, Örebro län",
+    "summary": "Natt till torsdag i polisområde Örebro.",
+    "type": "Sammanfattning natt",
+    "location": "Örebro län",
+    "gps": "59.535036,15.006573",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/5/5-november-07.00-sammanfattning-natt-orebro-lan/"
+   },
+   {
+    "id": 658481,
+    "datetime": "2026-11-05 7:01:28 +01:00",
+    "name": "5 november 06.59, Sammanfattning natt, Dalarnas län",
+    "summary": "Natt till torsdag i polisområde Dalarna.",
+    "type": "Sammanfattning natt",
+    "location": "Dalarnas län",
+    "gps": "61.091701,14.666365",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/5/5-november-06.59-sammanfattning-natt-dalarnas-lan/"
+   },
+   {
+    "id": 658487,
+    "datetime": "2026-11-05 7:40:41 +01:00",
+    "name": "5 november 07.39, Sammanfattning natt, Jönköpings län",
+    "summary": "Nattsammanfattning",
+    "type": "Sammanfattning natt",
+    "location": "Jönköpings län",
+    "gps": "57.370843,14.343917",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/5/5-november-07.39-sammanfattning-natt-jonkopings-lan/"
+   },
+   {
+    "id": 658490,
+    "datetime": "2026-11-05 7:42:18 +01:00",
+    "name": "5 november 06.48, Trafikolycka, personskada, Uppsala",
+    "summary": "Buss i olycka.",
+    "type": "Trafikolycka, personskada",
+    "location": "Uppsala län",
+    "gps": "60.009226,17.271459",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/5/5-november-06.48-trafikolycka-personskada-uppsala/"
+   },
+   {
+    "id": 658489,
+    "datetime": "2026-11-05 7:41:50 +01:00",
+    "name": "5 november 07.41, Sammanfattning natt, Södermanlands län",
+    "summary": "Nattsammanfattning",
+    "type": "Sammanfattning natt",
+    "location": "Södermanlands län",
+    "gps": "59.033635,16.75189",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/5/5-november-07.41-sammanfattning-natt-sodermanlands-lan/"
+   },
+   {
+    "id": 658488,
+    "datetime": "2026-11-05 7:41:14 +01:00",
+    "name": "5 november 07.40, Sammanfattning natt, Östergötlands län",
+    "summary": "Nattsammanfattning",
+    "type": "Sammanfattning natt",
+    "location": "Östergötlands län",
+    "gps": "58.345364,15.519784",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/5/5-november-07.40-sammanfattning-natt-ostergotlands-lan/"
+   },
+   {
+    "id": 658477,
+    "datetime": "2026-11-05 7:16:47 +01:00",
+    "name": "5 november 06.37, Trafikolycka, Högsby",
+    "summary": "Singelolycka på Länsväg 125, Fagerhult.",
+    "type": "Trafikolycka",
+    "location": "Kalmar län",
+    "gps": "57.235016,16.184935",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/5/5-november-06.37-trafikolycka-hogsby/"
+   },
+   {
+    "id": 658483,
+    "datetime": "2026-11-05 7:01:47 +01:00",
+    "name": "5 november 07.00, Sammanfattning natt, Hallands län",
+    "summary": "Dagens presstalesperson är på plats. Nedan följer ett urval av nattens händelser.",
+    "type": "Sammanfattning natt",
+    "location": "Hallands län",
+    "gps": "56.896681,12.803399",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/5/5-november-07.00-sammanfattning-natt-hallands-lan/"
+   },
+   {
+    "id": 658480,
+    "datetime": "2026-11-05 7:01:25 +01:00",
+    "name": "5 november 06.58, Sammanfattning natt, Värmlands län",
+    "summary": "Natt till torsdag i polisområde Värmland.",
+    "type": "Sammanfattning natt",
+    "location": "Värmlands län",
+    "gps": "59.729407,13.235402",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/5/5-november-06.58-sammanfattning-natt-varmlands-lan/"
+   },
+   {
+    "id": 658479,
+    "datetime": "2026-11-05 7:00:52 +01:00",
+    "name": "5 november 07.00, Sammanfattning natt, Västra Götalands län",
+    "summary": "Dagens presstalesperson är på plats. Nedan följer ett urval av nattens händelser.",
+    "type": "Sammanfattning natt",
+    "location": "Västra Götalands län",
+    "gps": "58.252793,13.059643",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/5/5-november-07.00-sammanfattning-natt-vastra-gotalands-lan/"
+   },
+   {
+    "id": 658478,
+    "datetime": "2026-11-05 7:00:41 +01:00",
+    "name": "5 november 07.00, Sammanfattning natt, Jämtlands län",
+    "summary": "Ett urval av nattens polisverksamhet i Jämtlands län.",
+    "type": "Sammanfattning natt",
+    "location": "Jämtlands län",
+    "gps": "63.171192,14.95918",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/5/5-november-07.00-sammanfattning-natt-jamtlands-lan/"
+   },
+   {
+    "id": 658476,
+    "datetime": "2026-11-05 6:58:23 +01:00",
+    "name": "5 november 06.58, Sammanfattning natt, Västernorrlands län",
+    "summary": "Ett urval av nattens polisverksamhet i Västernorrlands län.",
+    "type": "Sammanfattning natt",
+    "location": "Västernorrlands län",
+    "gps": "63.427647,17.729244",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/5/5-november-06.58-sammanfattning-natt-vasternorrlands-lan/"
+   },
+   {
+    "id": 658475,
+    "datetime": "2026-11-05 6:49:40 +01:00",
+    "name": "5 november 06.49, Sammanfattning natt, Norrbottens län",
+    "summary": "Ett urval av nattens polisverksamhet i Norrbottens län.",
+    "type": "Sammanfattning natt",
+    "location": "Norrbottens län",
+    "gps": "66.830922,20.399197",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/5/5-november-06.49-sammanfattning-natt-norrbottens-lan/"
+   },
+   {
+    "id": 658474,
+    "datetime": "2026-11-05 6:29:57 +01:00",
+    "name": "5 november 06.26, Misshandel, Malmö",
+    "summary": "Misshandel i relation.",
+    "type": "Misshandel",
+    "location": "Skåne län",
+    "gps": "55.990257,13.595769",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/5/5-november-06.26-misshandel-malmo/"
+   },
+   {
+    "id": 658472,
+    "datetime": "2026-11-05 6:25:06 +01:00",
+    "name": "4 november 23.05, Rattfylleri, Ängelholm",
+    "summary": "Man i 40-årsåldern misstänks för rattfylleri.",
+    "type": "Rattfylleri",
+    "location": "Skåne län",
+    "gps": "55.990257,13.595769",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/4/4-november-23.05-rattfylleri-angelholm/"
+   },
+   {
+    "id": 658470,
+    "datetime": "2026-11-04 21:54:29 +01:00",
+    "name": "4 november 20.34, Misshandel, Sundsvall",
+    "summary": "Polisen larmas till en adress i Granloholm med anledning av en misshandel.",
+    "type": "Misshandel",
+    "location": "Västernorrlands län",
+    "gps": "63.427647,17.729244",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/4/4-november-20.34-misshandel-sundsvall/"
+   },
+   {
+    "id": 658469,
+    "datetime": "2026-11-04 21:48:15 +01:00",
+    "name": "4 november 21.09, Brand, Sala",
+    "summary": "Brand i lastbil.",
+    "type": "Brand",
+    "location": "Västmanlands län",
+    "gps": "59.671388,16.215895",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/4/4-november-21.09-brand-sala/"
+   }
+  ],
+  "count": 500,
+  "flagged": [
+   {
+    "id": 658771,
+    "datetime": "2026-11-07 19:03:19 +01:00",
+    "name": "7 november 18.19, Trafikolycka, Klippan",
+    "summary": "Kollision mellan personbil och A-traktor.",
+    "type": "Trafikolycka",
+    "location": "Skåne län",
+    "gps": "55.990257,13.595769",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-18.19-trafikolycka-klippan/"
+   },
+   {
+    "id": 658767,
+    "datetime": "2026-11-07 18:25:38 +01:00",
+    "name": "7 november 18.17, Försvunnen person, Umeå",
+    "summary": "Äldre person försvunnen",
+    "type": "Försvunnen person",
+    "location": "Västerbottens län",
+    "gps": "65.333731,16.516169",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-18.17-forsvunnen-person-umea/"
+   },
+   {
+    "id": 658768,
+    "datetime": "2026-11-07 18:34:03 +01:00",
+    "name": "7 november 18.13, Trafikolycka, Lomma",
+    "summary": "Två personbilar kolliderar på E6 norr om trafikplats Lomma.",
+    "type": "Trafikolycka",
+    "location": "Skåne län",
+    "gps": "55.990257,13.595769",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-18.13-trafikolycka-lomma/"
+   },
+   {
+    "id": 658765,
+    "datetime": "2026-11-07 17:25:58 +01:00",
+    "name": "7 november 16.36, Trafikolycka, Huddinge",
+    "summary": "Bilförare får böter för att inte ha anpassat avståndet på E4.",
+    "type": "Trafikolycka",
+    "location": "Stockholms län",
+    "gps": "59.602496,18.138438",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-16.36-trafikolycka-huddinge/"
+   },
+   {
+    "id": 658761,
+    "datetime": "2026-11-07 16:01:06 +01:00",
+    "name": "7 november 15.07, Trafikolycka, Kristianstad",
+    "summary": "Singelolycka med personbil på väg 21.",
+    "type": "Trafikolycka",
+    "location": "Skåne län",
+    "gps": "55.990257,13.595769",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-15.07-trafikolycka-kristianstad/"
+   },
+   {
+    "id": 658764,
+    "datetime": "2026-11-07 16:47:42 +01:00",
+    "name": "7 november 15.20, Trafikolycka, Stockholm",
+    "summary": "Flera bilister involverad i trafikolycka i Hammarbytunneln.",
+    "type": "Trafikolycka",
+    "location": "Stockholms län",
+    "gps": "59.602496,18.138438",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-15.20-trafikolycka-stockholm/"
+   },
+   {
+    "id": 658763,
+    "datetime": "2026-11-07 16:36:18 +01:00",
+    "name": "7 november 13.56, Trafikolycka, Huddinge",
+    "summary": "Flera bilar inblandad i trafikolycka på E4.",
+    "type": "Trafikolycka",
+    "location": "Stockholms län",
+    "gps": "59.602496,18.138438",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-13.56-trafikolycka-huddinge/"
+   },
+   {
+    "id": 658760,
+    "datetime": "2026-11-07 14:49:33 +01:00",
+    "name": "7 november 14.42, Trafikolycka, Malmö",
+    "summary": "En kollision mellan en moped och personbil inträffar i korsningen Erikfältsgatan Trelleborgsvägen.",
+    "type": "Trafikolycka",
+    "location": "Skåne län",
+    "gps": "55.990257,13.595769",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-14.42-trafikolycka-malmo/"
+   },
+   {
+    "id": 658759,
+    "datetime": "2026-11-07 14:49:07 +01:00",
+    "name": "7 november 00.00, Försvunnen person, Norrtälje",
+    "summary": "En person uppges ha fallit från en båt i Östersjön.",
+    "type": "Försvunnen person",
+    "location": "Stockholms län",
+    "gps": "59.602496,18.138438",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-00.00-forsvunnen-person-norrtalje/"
+   },
+   {
+    "id": 658758,
+    "datetime": "2026-11-07 14:32:28 +01:00",
+    "name": "7 november 13.59, Trafikolycka, Malmö",
+    "summary": "En elsparkcykel och personbil kolliderar på Industrustrigatan.",
+    "type": "Trafikolycka",
+    "location": "Skåne län",
+    "gps": "55.990257,13.595769",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-132.59-trafikolycka-malmo/"
+   },
+   {
+    "id": 658757,
+    "datetime": "2026-11-07 14:31:00 +01:00",
+    "name": "7 november 14.23, Trafikolycka, Leksand",
+    "summary": "Två personbilar har kolliderat i korsningen Rv70/Leksandsvägen",
+    "type": "Trafikolycka",
+    "location": "Dalarnas län",
+    "gps": "61.091701,14.666365",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-14.23-trafikolycka-leksand/"
+   },
+   {
+    "id": 658756,
+    "datetime": "2026-11-07 14:29:25 +01:00",
+    "name": "7 november 14.15, Trafikolycka, Hultsfred",
+    "summary": "En skåpbil och personbil kolliderar väster om Målilla.",
+    "type": "Trafikolycka",
+    "location": "Kalmar län",
+    "gps": "57.235016,16.184935",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-14.15-trafikolycka-hultsfred/"
+   },
+   {
+    "id": 658754,
+    "datetime": "2026-11-07 14:18:54 +01:00",
+    "name": "7 november 14.10, Trafikolycka, singel, Falun",
+    "summary": "En personbil med släp har körts i diket utefter Lv888 vid Höviken, söder om Linghet",
+    "type": "Trafikolycka, singel",
+    "location": "Dalarnas län",
+    "gps": "61.091701,14.666365",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-14.10-trafikolycka-singel-falun/"
+   },
+   {
+    "id": 658751,
+    "datetime": "2026-11-07 14:04:01 +01:00",
+    "name": "7 november 13.59, Trafikolycka, Malmö",
+    "summary": "Larm om trafikolycka",
+    "type": "Trafikolycka",
+    "location": "Skåne län",
+    "gps": "55.990257,13.595769",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-13.59-trafikolycka-malmo/"
+   },
+   {
+    "id": 658744,
+    "datetime": "2026-11-07 12:29:31 +01:00",
+    "name": "7 november 10.39, Försvunnen person, Malmö",
+    "summary": "Polisen söker efter försvunnen man",
+    "type": "Försvunnen person",
+    "location": "Skåne län",
+    "gps": "55.990257,13.595769",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-10.39-forsvunnen-person-malmo/"
+   },
+   {
+    "id": 658750,
+    "datetime": "2026-11-07 13:16:37 +01:00",
+    "name": "7 november 12.36, Trafikolycka, singel, Smedjebacken",
+    "summary": "En personbil har voltat utefter Lv233 sydost om Malingsbo.",
+    "type": "Trafikolycka, singel",
+    "location": "Dalarnas län",
+    "gps": "61.091701,14.666365",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-12.36-trafikolycka-singel-smedjebacken/"
+   },
+   {
+    "id": 658748,
+    "datetime": "2026-11-07 13:06:03 +01:00",
+    "name": "7 november 13.05, Trafikolycka, vilt, Norrbottens län",
+    "summary": "Viltolyckor anmälda till polisens ledningscentral",
+    "type": "Trafikolycka, vilt",
+    "location": "Norrbottens län",
+    "gps": "66.830922,20.399197",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-13.05-trafikolycka-vilt-norrbottens-lan/"
+   },
+   {
+    "id": 658747,
+    "datetime": "2026-11-07 12:49:34 +01:00",
+    "name": "7 november 10.57, Trafikolycka, Uppsala",
+    "summary": "Larm om trafikolycka.",
+    "type": "Trafikolycka",
+    "location": "Uppsala län",
+    "gps": "60.009226,17.271459",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-10.57-trafikolycka-uppsala/"
+   },
+   {
+    "id": 658746,
+    "datetime": "2026-11-07 12:42:23 +01:00",
+    "name": "7 november 11.10, Trafikolycka, Örnsköldsvik",
+    "summary": "Polispatrull beordras till Lasarettsgatan i Örnsköldsvik där en person uppges ha blivit påkörd.",
+    "type": "Trafikolycka",
+    "location": "Västernorrlands län",
+    "gps": "63.427647,17.729244",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-11.10-trafikolycka-ornskoldsvik/"
+   },
+   {
+    "id": 658740,
+    "datetime": "2026-11-07 11:41:42 +01:00",
+    "name": "7 november 11.09, Trafikolycka, Kiruna",
+    "summary": "Polispatrull på Kyrkogatan i Kiruna uppmärksammar en olycka med en mindre traktor som vält.",
+    "type": "Trafikolycka",
+    "location": "Norrbottens län",
+    "gps": "66.830922,20.399197",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-11.09-trafikolycka-kiruna/"
+   },
+   {
+    "id": 658745,
+    "datetime": "2026-11-07 12:30:36 +01:00",
+    "name": "7 november 10.58, Trafikolycka, Västerås",
+    "summary": "Trafikolycka på E18.",
+    "type": "Trafikolycka",
+    "location": "Västmanlands län",
+    "gps": "59.671388,16.215895",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-10.58-trafikolycka-vasteras/"
+   },
+   {
+    "id": 658742,
+    "datetime": "2026-11-07 12:09:05 +01:00",
+    "name": "7 november 11.31, Trafikolycka, Knivsta",
+    "summary": "Larm om trafikolycka.",
+    "type": "Trafikolycka",
+    "location": "Uppsala län",
+    "gps": "60.009226,17.271459",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-11.31-trafikolycka-knivsta/"
+   },
+   {
+    "id": 658739,
+    "datetime": "2026-11-07 10:59:01 +01:00",
+    "name": "7 november 09.32, Försvunnen person, Norrköping",
+    "summary": "Saknad person i Skärblacka",
+    "type": "Försvunnen person",
+    "location": "Östergötlands län",
+    "gps": "58.345364,15.519784",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-09.32-forsvunnen-person-norrkoping/"
+   },
+   {
+    "id": 658735,
+    "datetime": "2026-11-07 9:07:04 +01:00",
+    "name": "7 november 09.03, Trafikolycka, Nässjö",
+    "summary": "Personbilar i kollision på länsväg 817",
+    "type": "Trafikolycka",
+    "location": "Jönköpings län",
+    "gps": "57.370843,14.343917",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-09.03-trafikolycka-nassjo/"
+   },
+   {
+    "id": 658732,
+    "datetime": "2026-11-07 8:26:02 +01:00",
+    "name": "7 november 07.57, Trafikolycka, vilt, Kiruna",
+    "summary": "Polisen får in en anmälan om en olycka med en mindre lastbil och ett rådjur på Lombololeden, Kiruna.",
+    "type": "Trafikolycka, vilt",
+    "location": "Norrbottens län",
+    "gps": "66.830922,20.399197",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-07.57-trafikolycka-vilt-kiruna/"
+   },
+   {
+    "id": 658714,
+    "datetime": "2026-11-07 6:33:07 +01:00",
+    "name": "7 november 04.35, Brand, Malmö",
+    "summary": "Larm om bilbrand",
+    "type": "Brand",
+    "location": "Skåne län",
+    "gps": "55.990257,13.595769",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-04.35-brand-malmo/"
+   },
+   {
+    "id": 658713,
+    "datetime": "2026-11-07 6:28:57 +01:00",
+    "name": "7 november 02.55, Trafikolycka, Lund",
+    "summary": "Larm om trafikolycka",
+    "type": "Trafikolycka",
+    "location": "Skåne län",
+    "gps": "55.990257,13.595769",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/7/7-november-02.55-trafikolycka-lund/"
+   },
+   {
+    "id": 658706,
+    "datetime": "2026-11-06 21:12:10 +01:00",
+    "name": "6 november 20.55, Brand, Nybro",
+    "summary": "Brand i en personbil, Kungshall.",
+    "type": "Brand",
+    "location": "Kalmar län",
+    "gps": "57.235016,16.184935",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-20.55-brand-nybro/"
+   },
+   {
+    "id": 658708,
+    "datetime": "2026-11-06 21:40:24 +01:00",
+    "name": "6 november 21.11, Trafikolycka, singel, Borgholm",
+    "summary": "Singelolycka, Böda.",
+    "type": "Trafikolycka, singel",
+    "location": "Kalmar län",
+    "gps": "57.235016,16.184935",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-21.11-trafikolycka-singel-borgholm/"
+   },
+   {
+    "id": 658711,
+    "datetime": "2026-11-06 22:03:40 +01:00",
+    "name": "6 november 20.10, Trafikolycka, Vindeln",
+    "summary": "E12 Tegslund, en bilist har kört av vägen och voltat",
+    "type": "Trafikolycka",
+    "location": "Västerbottens län",
+    "gps": "65.333731,16.516169",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-20.10-trafikolycka-vindeln/"
+   },
+   {
+    "id": 658698,
+    "datetime": "2026-11-06 19:45:14 +01:00",
+    "name": "6 november 19.14, Trafikolycka, Karlstad",
+    "summary": "En singelolycka har inträffat i Edsvalla",
+    "type": "Trafikolycka",
+    "location": "Värmlands län",
+    "gps": "59.729407,13.235402",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-19.14-trafikolycka-karlstad/"
+   },
+   {
+    "id": 658705,
+    "datetime": "2026-11-06 20:58:26 +01:00",
+    "name": "6 november 20.38, Brand, Kristianstad",
+    "summary": "Det brinner i en container, Östra Storgatan.",
+    "type": "Brand",
+    "location": "Skåne län",
+    "gps": "55.990257,13.595769",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-20.38-brand-kristianstad/"
+   },
+   {
+    "id": 658702,
+    "datetime": "2026-11-06 21:16:31 +01:00",
+    "name": "6 november 19.51, Trafikolycka, Tierp",
+    "summary": "Bil körde sönder stängsel till kohage.",
+    "type": "Trafikolycka",
+    "location": "Uppsala län",
+    "gps": "60.009226,17.271459",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-19.51-trafikolycka-tierp/"
+   },
+   {
+    "id": 658704,
+    "datetime": "2026-11-06 20:27:32 +01:00",
+    "name": "6 november 19.42, Trafikolycka, singel, Vellinge",
+    "summary": "Singelolycka på parkering, Höllviken.",
+    "type": "Trafikolycka, singel",
+    "location": "Skåne län",
+    "gps": "55.990257,13.595769",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-19.42-trafikolycka-singel-vellinge/"
+   },
+   {
+    "id": 658700,
+    "datetime": "2026-11-06 20:12:05 +01:00",
+    "name": "6 november 18.59, Trafikolycka, personskada, Göteborg",
+    "summary": "SOS larmar om en trafikolycka på Gustaf Dahlénsgatan där en person enligt uppgift skall ha blivit påkörd av en spårvagn.",
+    "type": "Trafikolycka, personskada",
+    "location": "Västra Götalands län",
+    "gps": "58.252793,13.059643",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-18.59-trafikolycka-personskada-goteborg/"
+   },
+   {
+    "id": 658703,
+    "datetime": "2026-11-06 20:16:23 +01:00",
+    "name": "6 november 19.09, Trafikolycka, personskada, Uppsala",
+    "summary": "Föraren skadad efter trafikolycka.",
+    "type": "Trafikolycka, personskada",
+    "location": "Uppsala län",
+    "gps": "60.009226,17.271459",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-19.09-trafikolycka-personskada-uppsala/"
+   },
+   {
+    "id": 658691,
+    "datetime": "2026-11-06 17:38:37 +01:00",
+    "name": "6 november 17.05, Trafikolycka, Åstorp",
+    "summary": "Larm om påkörd person.",
+    "type": "Trafikolycka",
+    "location": "Skåne län",
+    "gps": "55.990257,13.595769",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-17.05-trafikolycka-astorp/"
+   },
+   {
+    "id": 658694,
+    "datetime": "2026-11-06 18:58:48 +01:00",
+    "name": "6 november 17.36, Trafikolycka, smitning från, Vellinge",
+    "summary": "Misstänkt smitning, Falsterbovägen.",
+    "type": "Trafikolycka, smitning från",
+    "location": "Skåne län",
+    "gps": "55.990257,13.595769",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-17.36-trafikolycka-smitning-fran-vellinge/"
+   },
+   {
+    "id": 658693,
+    "datetime": "2026-11-06 18:16:43 +01:00",
+    "name": "6 november 16.51, Trafikolycka, Lund",
+    "summary": "Påkörd person, sjukhuset.",
+    "type": "Trafikolycka",
+    "location": "Skåne län",
+    "gps": "55.990257,13.595769",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-16.51-trafikolycka-lund/"
+   },
+   {
+    "id": 658687,
+    "datetime": "2026-11-06 16:56:56 +01:00",
+    "name": "6 november 16.21, Trafikolycka, singel, Uppvidinge",
+    "summary": "Personbil kör av riksväg 31, väst om Målerås.",
+    "type": "Trafikolycka, singel",
+    "location": "Kronobergs län",
+    "gps": "56.71834,14.411467",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-16.21-trafikolycka-singel-uppvidinge/"
+   },
+   {
+    "id": 658686,
+    "datetime": "2026-11-06 16:26:22 +01:00",
+    "name": "6 november 15.55, Trafikolycka, vilt, Skellefteå",
+    "summary": "Slyberg, en bilist har kolliderat med en älg mellan Kåge och Jörn",
+    "type": "Trafikolycka, vilt",
+    "location": "Västerbottens län",
+    "gps": "65.333731,16.516169",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-15.55-trafikolycka-vilt-skelleftea/"
+   },
+   {
+    "id": 658652,
+    "datetime": "2026-11-06 13:32:31 +01:00",
+    "name": "6 november 12.49, Trafikolycka, Pajala",
+    "summary": "Länsväg 392, trafikolycka strax norr om Korpilombolo.",
+    "type": "Trafikolycka",
+    "location": "Norrbottens län",
+    "gps": "66.830922,20.399197",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-12.49-trafikolycka-pajala/"
+   },
+   {
+    "id": 658674,
+    "datetime": "2026-11-06 15:32:17 +01:00",
+    "name": "6 november 14.31, Trafikolycka, smitning från, Kalmar",
+    "summary": "Bil påbackad, Oxhagen.",
+    "type": "Trafikolycka, smitning från",
+    "location": "Kalmar län",
+    "gps": "57.235016,16.184935",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-14.31-trafikolycka-smitning-fran-kalmar/"
+   },
+   {
+    "id": 658663,
+    "datetime": "2026-11-06 14:38:34 +01:00",
+    "name": "6 november 13.10, Trafikolycka, personskada, Enköping",
+    "summary": "Tre fordon inblandade i olycka på riksväg 55.",
+    "type": "Trafikolycka, personskada",
+    "location": "Uppsala län",
+    "gps": "60.009226,17.271459",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-13.10-trafikolycka-personskada-enkoping/"
+   },
+   {
+    "id": 658655,
+    "datetime": "2026-11-06 13:38:23 +01:00",
+    "name": "6 november 13.29, Trafikolycka, Kristianstad",
+    "summary": "En trafikolycka mellan en personbil och cyklist inträffar på Kockumsgatan.",
+    "type": "Trafikolycka",
+    "location": "Skåne län",
+    "gps": "55.990257,13.595769",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-13.29-trafikolycka-kristianstad/"
+   },
+   {
+    "id": 658661,
+    "datetime": "2026-11-06 14:26:42 +01:00",
+    "name": "6 november 14.26, Trafikolycka, Linköping",
+    "summary": "Man i 25-årsåldern bötfälld efter bakifrånpåkörning",
+    "type": "Trafikolycka",
+    "location": "Östergötlands län",
+    "gps": "58.345364,15.519784",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-14.26-trafikolycka-linkoping/"
+   },
+   {
+    "id": 658654,
+    "datetime": "2026-11-06 13:35:27 +01:00",
+    "name": "6 november 13.20, Trafikolycka, Umeå",
+    "summary": "Umeå, trafikolycka i centrala stan.",
+    "type": "Trafikolycka",
+    "location": "Västerbottens län",
+    "gps": "65.333731,16.516169",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-13.20-trafikolycka-umea/"
+   },
+   {
+    "id": 658653,
+    "datetime": "2026-11-06 13:17:51 +01:00",
+    "name": "6 november 12.49, Trafikolycka, Örebro",
+    "summary": "En olycka har inträffat i Sandvad",
+    "type": "Trafikolycka",
+    "location": "Örebro län",
+    "gps": "59.535036,15.006573",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-12.49-trafikolycka-orebro/"
+   },
+   {
+    "id": 658630,
+    "datetime": "2026-11-06 10:59:04 +01:00",
+    "name": "6 november 10.35, Trafikolycka, Botkyrka",
+    "summary": "Det är stopp i trafiken på E 4 i södergående riktning i höjd med trafikplats Hallunda, Botkyrka kommun.",
+    "type": "Trafikolycka",
+    "location": "Stockholms län",
+    "gps": "59.602496,18.138438",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-10.35-trafikolycka-botkyrka/"
+   },
+   {
+    "id": 658646,
+    "datetime": "2026-11-06 12:29:46 +01:00",
+    "name": "6 november 12.00, Trafikolycka, Örebro",
+    "summary": "En olycka har inträffat på Boglundsängen",
+    "type": "Trafikolycka",
+    "location": "Örebro län",
+    "gps": "59.535036,15.006573",
+    "url": "https://polisen.se/aktuellt/handelser/2026/november/6/6-november-12.00-trafikolycka-orebro/"
+   }
+  ]
+ },
+ "signals": [
+  {
+   "category": "naboland",
+   "level": 0,
+   "text": "Polisen: 500 hendelser, 50 flagget for gjennomsyn",
+   "source": "polisen",
+   "url": "https://polisen.se/aktuellt/handelser/",
+   "since": null,
+   "value": 50,
+   "level_name": "green"
+  }
+ ]
+}
