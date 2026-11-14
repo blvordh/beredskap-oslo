@@ -1,0 +1,40 @@
+{
+ "id": "krisinformation",
+ "name": "Krisinformation.se",
+ "url": "https://www.krisinformation.se/",
+ "category": "naboland",
+ "ok": true,
+ "stale": false,
+ "fetched_at": "2026-11-14T10:54:06+00:00",
+ "last_success_at": "2026-11-14T10:54:06+00:00",
+ "error": "",
+ "license": "",
+ "data": {
+  "vmas": [],
+  "news": [
+   {
+    "id": "1258",
+    "published": "2026-11-06T20:55:30+01:00",
+    "updated": "2026-11-06T20:55:30+01:00",
+    "headline": "Kraftigt oväder väntas på Kanarieöarna 7-8 november",
+    "preamble": "Kraftigt regn, åska och hårda vindbyar väntas drabba Kanarieöarna under helgen. UD uppmanar svenskar på plats att hålla sig informerade om väderutvecklingen och följa lokala myndigheters anvisningar.",
+    "url": "https://www.krisinformation.se/aktuellt/nyheter/kraftigt-ovader-vantas-pa-kanarieoarna-7-8-november/",
+    "area": "Sverige",
+    "event": "News",
+    "sender": ""
+   }
+  ]
+ },
+ "signals": [
+  {
+   "category": "naboland",
+   "level": 0,
+   "text": "Ingen aktive VMA i Sverige; 1 krisenyheter siste to døgn",
+   "source": "krisinformation",
+   "url": "https://www.krisinformation.se/",
+   "since": null,
+   "value": 0,
+   "level_name": "green"
+  }
+ ]
+}
