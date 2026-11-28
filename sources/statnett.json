@@ -1,0 +1,311 @@
+{
+ "id": "statnett",
+ "name": "Statnett driftsdata",
+ "url": "https://driftsdata.statnett.no/",
+ "category": "strom",
+ "ok": true,
+ "stale": false,
+ "fetched_at": "2026-11-28T03:52:48+00:00",
+ "last_success_at": "2026-11-28T03:52:48+00:00",
+ "error": "",
+ "license": "Vilkår ikke funnet; avklar med Statnett",
+ "data": {
+  "areas": {
+   "NO3": {
+    "status": "Normal",
+    "text": ""
+   },
+   "NO4": {
+    "status": "Normal",
+    "text": ""
+   },
+   "NO1": {
+    "status": "Normal",
+    "text": ""
+   },
+   "NO2": {
+    "status": "Normal",
+    "text": ""
+   },
+   "NO5": {
+    "status": "Normal",
+    "text": ""
+   }
+  },
+  "flows_no1": [
+   {
+    "from": "NO1",
+    "to": "NO2",
+    "mw": -41.1028,
+    "measured_at": "2026-11-28T03:51:49+00:00"
+   },
+   {
+    "from": "NO1",
+    "to": "NO3",
+    "mw": -158.2804,
+    "measured_at": "2026-11-28T03:51:49+00:00"
+   },
+   {
+    "from": "NO1",
+    "to": "NO5",
+    "mw": -1740.9709,
+    "measured_at": "2026-11-28T03:51:49+00:00"
+   },
+   {
+    "from": "NO1",
+    "to": "SE3",
+    "mw": -922.8184,
+    "measured_at": "2026-11-28T03:51:49+00:00"
+   }
+  ],
+  "overview": {
+   "measured_at": "2026-11-28T02:45:00+00:00",
+   "items": [
+    {
+     "title": "ProductionConsumption.ProductionSEDesc",
+     "value": 19322.0
+    },
+    {
+     "title": "ProductionConsumption.ProductionDKDesc",
+     "value": 2397.0
+    },
+    {
+     "title": "ProductionConsumption.ProductionNODesc",
+     "value": 17957.0
+    },
+    {
+     "title": "ProductionConsumption.ProductionFIDesc",
+     "value": 11745.0
+    },
+    {
+     "title": "ProductionConsumption.ProductionEEDesc",
+     "value": 604.0
+    },
+    {
+     "title": "ProductionConsumption.ProductionLTDesc",
+     "value": 362.0
+    },
+    {
+     "title": "ProductionConsumption.ProductionLVDesc",
+     "value": 821.0
+    },
+    {
+     "title": "ProductionConsumption.ProductionTotalDesc",
+     "value": 53207.0
+    },
+    {
+     "title": "ProductionConsumption.NuclearSEDesc",
+     "value": 4591.0
+    },
+    {
+     "title": "ProductionConsumption.NuclearFIDesc",
+     "value": 3095.0
+    },
+    {
+     "title": "ProductionConsumption.NuclearTotalDesc",
+     "value": 7686.0
+    },
+    {
+     "title": "ProductionConsumption.HydroSEDesc",
+     "value": 9587.0
+    },
+    {
+     "title": "ProductionConsumption.HydroDKDesc",
+     "value": 2.0
+    },
+    {
+     "title": "ProductionConsumption.HydroNODesc",
+     "value": 16060.0
+    },
+    {
+     "title": "ProductionConsumption.HydroFIDesc",
+     "value": 1294.0
+    },
+    {
+     "title": "ProductionConsumption.HydroEEDesc",
+     "value": 1.0
+    },
+    {
+     "title": "ProductionConsumption.HydroLTDesc",
+     "value": 24.0
+    },
+    {
+     "title": "ProductionConsumption.HydroLVDesc",
+     "value": 300.0
+    },
+    {
+     "title": "ProductionConsumption.HydroTotalDesc",
+     "value": 27268.0
+    },
+    {
+     "title": "ProductionConsumption.ThermalSEDesc",
+     "value": 2.0
+    },
+    {
+     "title": "ProductionConsumption.ThermalDKDesc",
+     "value": 1541.0
+    },
+    {
+     "title": "ProductionConsumption.ThermalNODesc",
+     "value": 189.0
+    },
+    {
+     "title": "ProductionConsumption.ThermalFIDesc",
+     "value": 1434.0
+    },
+    {
+     "title": "ProductionConsumption.ThermalEEDesc",
+     "value": 587.0
+    },
+    {
+     "title": "ProductionConsumption.ThermalLTDesc",
+     "value": 213.0
+    },
+    {
+     "title": "ProductionConsumption.ThermalLVDesc",
+     "value": 510.0
+    },
+    {
+     "title": "ProductionConsumption.ThermalTotalDesc",
+     "value": 4475.0
+    },
+    {
+     "title": "ProductionConsumption.WindSEDesc",
+     "value": 5141.0
+    },
+    {
+     "title": "ProductionConsumption.WindDKDesc",
+     "value": 194.0
+    },
+    {
+     "title": "ProductionConsumption.WindNODesc",
+     "value": 1652.0
+    },
+    {
+     "title": "ProductionConsumption.WindFIDesc",
+     "value": 5549.0
+    },
+    {
+     "title": "ProductionConsumption.WindEEDesc",
+     "value": 16.0
+    },
+    {
+     "title": "ProductionConsumption.WindLTDesc",
+     "value": 70.0
+    },
+    {
+     "title": "ProductionConsumption.WindLVDesc",
+     "value": 2.0
+    },
+    {
+     "title": "ProductionConsumption.WindTotalDesc",
+     "value": 12624.0
+    },
+    {
+     "title": "ProductionConsumption.NotSpecifiedSEDesc",
+     "value": 1.0
+    },
+    {
+     "title": "ProductionConsumption.NotSpecifiedDKDesc",
+     "value": 661.0
+    },
+    {
+     "title": "ProductionConsumption.NotSpecifiedNODesc",
+     "value": 57.0
+    },
+    {
+     "title": "ProductionConsumption.NotSpecifiedFIDesc",
+     "value": 373.0
+    },
+    {
+     "title": "ProductionConsumption.NotSpecifiedEEDesc",
+     "value": 0.0
+    },
+    {
+     "title": "ProductionConsumption.NotSpecifiedLTDesc",
+     "value": 55.0
+    },
+    {
+     "title": "ProductionConsumption.NotSpecifiedLVDesc",
+     "value": 9.0
+    },
+    {
+     "title": "ProductionConsumption.NotSpecifiedTotalDesc",
+     "value": 1155.0
+    },
+    {
+     "title": "ProductionConsumption.ConsumptionSEDesc",
+     "value": 21470.0
+    },
+    {
+     "title": "ProductionConsumption.ConsumptionDKDesc",
+     "value": 4857.0
+    },
+    {
+     "title": "ProductionConsumption.ConsumptionNODesc",
+     "value": 18354.0
+    },
+    {
+     "title": "ProductionConsumption.ConsumptionFIDesc",
+     "value": 11912.0
+    },
+    {
+     "title": "ProductionConsumption.ConsumptionEEDesc",
+     "value": 1037.0
+    },
+    {
+     "title": "ProductionConsumption.ConsumptionLTDesc",
+     "value": 1450.0
+    },
+    {
+     "title": "ProductionConsumption.ConsumptionLVDesc",
+     "value": 846.0
+    },
+    {
+     "title": "ProductionConsumption.ConsumptionTotalDesc",
+     "value": 59926.0
+    },
+    {
+     "title": "ProductionConsumption.NetExchangeSEDesc",
+     "value": 2148.0
+    },
+    {
+     "title": "ProductionConsumption.NetExchangeDKDesc",
+     "value": 2459.0
+    },
+    {
+     "title": "ProductionConsumption.NetExchangeNODesc",
+     "value": 397.0
+    },
+    {
+     "title": "ProductionConsumption.NetExchangeFIDesc",
+     "value": 167.0
+    },
+    {
+     "title": "ProductionConsumption.NetExchangeEEDesc",
+     "value": 433.0
+    },
+    {
+     "title": "ProductionConsumption.NetExchangeLTDesc",
+     "value": 1088.0
+    },
+    {
+     "title": "ProductionConsumption.NetExchangeLVDesc",
+     "value": 25.0
+    }
+   ]
+  }
+ },
+ "signals": [
+  {
+   "category": "strom",
+   "level": 0,
+   "text": "Statnett: kraftsituasjon NO1 er «Normal»",
+   "source": "statnett",
+   "url": "https://driftsdata.statnett.no/",
+   "since": null,
+   "value": null,
+   "level_name": "green"
+  }
+ ]
+}

@@ -1,0 +1,107 @@
+{
+ "id": "nve",
+ "name": "NVE varsom og magasinstatistikk",
+ "url": "https://varsom.no/",
+ "category": "vann",
+ "ok": true,
+ "stale": false,
+ "fetched_at": "2026-11-28T03:52:48+00:00",
+ "last_success_at": "2026-11-28T03:52:48+00:00",
+ "error": "",
+ "license": "NLOD. Varsler fra Flomvarslingen og Jordskredvarslingen i Norge, www.varsom.no",
+ "data": {
+  "flom": {
+   "warnings": [
+    {
+     "kind": "flom",
+     "activity_level": 1,
+     "main_text": "Grønt nivå",
+     "warning_text": "",
+     "valid_from": "2026-11-28T07:00:00",
+     "valid_to": "2026-11-29T06:59:59",
+     "publish_time": "2026-11-27T14:09:21.8402765"
+    },
+    {
+     "kind": "flom",
+     "activity_level": 1,
+     "main_text": "Grønt nivå",
+     "warning_text": "",
+     "valid_from": "2026-11-29T07:00:00",
+     "valid_to": "2026-11-30T06:59:59",
+     "publish_time": "2026-11-27T14:09:21.8402765"
+    },
+    {
+     "kind": "flom",
+     "activity_level": 0,
+     "main_text": "Ikke vurdert",
+     "warning_text": "",
+     "valid_from": "2026-11-30T07:00:00",
+     "valid_to": "2026-12-01T06:59:59",
+     "publish_time": "2026-11-30T00:00:00"
+    }
+   ],
+   "max_level": 1
+  },
+  "jordskred": {
+   "warnings": [
+    {
+     "kind": "jordskred",
+     "activity_level": 1,
+     "main_text": "Grønt nivå",
+     "warning_text": "",
+     "valid_from": "2026-11-28T07:00:00",
+     "valid_to": "2026-11-29T06:59:59",
+     "publish_time": "2026-11-27T12:47:24.0442815"
+    },
+    {
+     "kind": "jordskred",
+     "activity_level": 1,
+     "main_text": "Grønt nivå",
+     "warning_text": "",
+     "valid_from": "2026-11-29T07:00:00",
+     "valid_to": "2026-11-30T06:59:59",
+     "publish_time": "2026-11-27T12:47:24.0442815"
+    },
+    {
+     "kind": "jordskred",
+     "activity_level": 0,
+     "main_text": "Ikke vurdert",
+     "warning_text": "",
+     "valid_from": "2026-11-30T07:00:00",
+     "valid_to": "2026-12-01T06:59:59",
+     "publish_time": "2026-11-30T00:00:00"
+    }
+   ],
+   "max_level": 1
+  },
+  "magasin_no1": {
+   "week": "2026-W47",
+   "fill_pct": 72.7,
+   "change_pct": -3.5,
+   "capacity_twh": 6.0032635,
+   "next_publish": "2026-12-02T13:00:00"
+  }
+ },
+ "signals": [
+  {
+   "category": "vann",
+   "level": 0,
+   "text": "NVE: flom- og jordskredvarsel for Oslo på grønt nivå",
+   "source": "nve",
+   "url": "https://varsom.no/",
+   "since": null,
+   "value": 1,
+   "level_name": "green"
+  },
+  {
+   "category": "strom",
+   "level": 0,
+   "text": "Magasinfylling NO1 uke 2026-W47: 72.7 %",
+   "source": "nve",
+   "url": "https://varsom.no/",
+   "since": null,
+   "value": 72.7,
+   "level_name": "green"
+  }
+ ]
+}

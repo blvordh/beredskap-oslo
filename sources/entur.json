@@ -1,0 +1,766 @@
+{
+ "id": "entur",
+ "name": "Entur avvik (SIRI SX)",
+ "url": "https://developer.entur.org/",
+ "category": "transport",
+ "ok": true,
+ "stale": false,
+ "fetched_at": "2026-11-28T03:52:49+00:00",
+ "last_success_at": "2026-11-28T03:52:49+00:00",
+ "error": "",
+ "license": "NLOD (Entur)",
+ "data": {
+  "situations": [
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-77105-1",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-11-24T16:24:00+01:00",
+    "end": "2027-01-29T23:59:00+01:00",
+    "summary": "Omkjøring på linje 410",
+    "description": "Stopper ikke på holdeplass: Gamle Eltonveg, Gutugropa, Hagamoen, Haugerud, Korslund, Låvegghellinga og Slemdal.",
+    "lines": [
+     "RUT:Line:410"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-77311-2",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-12-02T04:00:00+01:00",
+    "end": "2026-12-03T02:00:00+01:00",
+    "summary": "Holdeplass Kolbotn torg flyttet",
+    "description": "Holdeplass Kolbotn torg er flyttet midlertidig til Ingierveien",
+    "lines": [
+     "RUT:Line:87"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-77138-2",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-07-06T09:00:00+02:00",
+    "end": "2028-04-30T23:59:00+02:00",
+    "summary": "Holdeplass Stabekk stasjon i retning mot Bekkestua er flyttet ca. 50 meter bakover",
+    "description": "Dette skyldes anleggsarbeid i området.",
+    "lines": [
+     "RUT:Line:150"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-77135-1",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-11-24T17:00:09+01:00",
+    "end": "2026-12-31T23:59:00+01:00",
+    "summary": "Holdeplass Kolbotn torg er flyttet",
+    "description": "Linje 83 stopper på midlertidig holdeplass i Ingierveien. Gjelder i retning Oslo og Svartskog.",
+    "lines": [
+     "RUT:Line:83"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-77115-1",
+    "severity": "normal",
+    "report_type": "general",
+    "progress": "open",
+    "start": "2026-11-24T16:43:00+01:00",
+    "end": "2027-04-30T00:00:00+02:00",
+    "summary": "Holdeplassene Tinghuset, Stortorvet, Lakkegata skole og Ekebergparken egner seg ikke for rullestolbrukere.",
+    "description": "Benytt andre holdeplasser for av- og påstigning. Gjelder i begge retninger.",
+    "lines": [
+     "RUT:Line:17"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-77145-1",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-06-10T17:45:00+02:00",
+    "end": "2027-01-29T02:00:00+01:00",
+    "summary": "Holdeplass Thune: Buss for trikk 13B stopper på andre siden av rundkjøringen i Drammensveien.",
+    "description": "Gangavstand ca. 140 meter i retning mot Skøyen stasjon.",
+    "lines": [
+     "RUT:Line:13"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-77138-1",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-07-06T09:00:00+02:00",
+    "end": "2028-04-30T23:59:00+02:00",
+    "summary": "Holdeplass Stabekk stasjon i retning mot Bekkestua er flyttet ca. 50 meter bakover.",
+    "description": "Dette skyldes anleggsarbeid i området.",
+    "lines": [
+     "RUT:Line:145"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-77108-1",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-10-12T00:00:00+02:00",
+    "end": "2027-01-29T23:59:00+01:00",
+    "summary": "Omkjøring på linje 3837",
+    "description": "Følgende holdeplasser på linje 3837 til og fra Eltonåsen skole blir iveratatt med minibuss/ taxi: Brotno, Døhlen, Finstad sameie, Finstad skole Gutugropa, Hagamoen, Haugerud, Korslund og Låvegghellinga.",
+    "lines": [
+     "RUT:Line:3837"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-77147-3",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-04-15T18:50:00+02:00",
+    "end": "2027-01-29T23:59:00+01:00",
+    "summary": "Holdeplass CC vest retning Simensbråten/Voksen skog er flyttet 50 meter bakover",
+    "description": "Dette skyldes buss for trikk på Lilleakerbanen.",
+    "lines": [
+     "RUT:Line:9842"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-77311-1",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-12-02T04:00:00+01:00",
+    "end": "2026-12-03T02:00:00+01:00",
+    "summary": "Holdeplass Kolbotn torg flyttet",
+    "description": "Holdeplass Kolbotn torg er flyttet midlertidig til Ingierveien",
+    "lines": [
+     "RUT:Line:83"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-77269-2",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-12-01T22:00:00+01:00",
+    "end": "2026-12-02T05:30:00+01:00",
+    "summary": "Linje 500N stopper ikke på Svartskogtoppen nattestid",
+    "description": "Dette grunnet veiarbeid.",
+    "lines": [
+     "RUT:Line:3500"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-77072-2",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-07-04T06:00:00+02:00",
+    "end": "2026-12-03T02:00:00+01:00",
+    "summary": "Holdeplass Skibakken er flyttet ca. 80 meter oppover retning Maridalen/Kjelsås",
+    "description": "Holdeplassen er flytte grunnet veiarbeid.",
+    "lines": [
+     "RUT:Line:54"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-77084-1",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-08-17T03:00:00+02:00",
+    "end": "2027-01-05T23:59:00+01:00",
+    "summary": "Buss 21 har omkjøring mellom Bislett og Observatoriegata i retning mot Tjuvholmen",
+    "description": "Bussene kjører Pilestredet og Parkveien. Bussene stopper på holdeplass Welhavens gate og midlertidig holdeplass Riddervolds gate i Parkveien. På Solli stopper bussene på plattform B.",
+    "lines": [
+     "RUT:Line:21"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-77146-1",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-08-10T04:00:00+02:00",
+    "end": "2027-01-29T02:00:00+01:00",
+    "summary": "Linje 13: Buss for trikk direkte mellom Thune og Furulund - Lilleaker",
+    "description": "Vi kjører buss for trikk (linje 13B) direkte mellom Thune og Furulund - Lilleaker. Bussen stopper ikke på Sollerud. 13B betjener Thune fra midlertidig holdeplass i Drammensveien",
+    "lines": [
+     "RUT:Line:13"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-77081-1",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-08-03T00:00:00+02:00",
+    "end": "2027-01-07T23:59:00+01:00",
+    "summary": "Holdeplass Refstadsvingen retning Nydalen flyttet",
+    "description": "Holdeplass Refstadsvingen (retning Nydalen) er flyttet midlertidig 70 meter tilbake i Refstadveien",
+    "lines": [
+     "RUT:Line:58"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-77072-1",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-07-04T06:00:00+02:00",
+    "end": "2026-12-03T02:00:00+01:00",
+    "summary": "Holdeplass Skibakken er flyttet ca. 80 meter oppover retning Maridalen/Kjelsås",
+    "description": "Holdeplassen er flytte grunnet veiarbeid.",
+    "lines": [
+     "RUT:Line:51"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-77418-1",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-11-27T12:15:00+01:00",
+    "end": "2026-11-30T12:00:00+01:00",
+    "summary": "Linje 360 stopper ikke på Riis",
+    "description": "Dette skyldes veiarbeid langs ruta.",
+    "lines": [
+     "RUT:Line:360"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-77122-1",
+    "severity": "normal",
+    "report_type": "general",
+    "progress": "open",
+    "start": "2026-10-24T05:00:00+02:00",
+    "end": "2027-03-31T23:59:00+02:00",
+    "summary": "Toaletter på Nakkholmen stengt for vinteren",
+    "description": "Toalettene på Nakkholmen er nå stengt ned for vinteren og vil holdes permanent stengt frem til april. Passasjerer som planlegger et besøk på øya bør derfor være oppmerksomme på at det ikke er tilgjengelige toalettfasiliteter der i denne perioden.",
+    "lines": []
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-77271-2",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-12-01T22:00:00+01:00",
+    "end": "2026-12-02T05:30:00+01:00",
+    "summary": "Linje 505 stopper ikke på Svartskogtoppen",
+    "description": "Dette skyldes veiarbeid langs ruta.",
+    "lines": [
+     "RUT:Line:505"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-77140-1",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-11-24T18:25:00+01:00",
+    "end": "2027-01-29T02:00:00+01:00",
+    "summary": "Holdeplass Abbediengen betjenes i Sigurd Iversens vei",
+    "description": "Gjelder i retning Skøyen.",
+    "lines": [
+     "RUT:Line:3013"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-77085-1",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-10-22T05:00:00+02:00",
+    "end": "2026-11-29T23:59:00+01:00",
+    "summary": "Holdeplass Ulven torg retning Økern er flyttet",
+    "description": "Holdeplass Ulven torg retning Økern er flyttet noe lenger frem og over til bilfeltet",
+    "lines": []
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-77123-2",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-03-10T00:00:00+01:00",
+    "end": "2026-12-31T23:59:00+01:00",
+    "summary": "Linje 455 har omkjøring",
+    "description": "Holdeplass Sandnesvegen flyttes midlertidig ut i Eidsvegen. Gangavstand ca. 100 meter. Holdeplass Auli senter i retning mot Årnes flyttes til motsatt side av veien utenfor Kiwi (Samme holdeplass som bussene benytter i retning mot Rånåsfoss).",
+    "lines": [
+     "RUT:Line:455"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-77135-5",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-11-24T17:00:09+01:00",
+    "end": "2026-12-31T23:59:00+01:00",
+    "summary": "Holdeplass Kolbotn torg er flyttet",
+    "description": "Linje 87 stopper på midlertidig holdeplass i Ingierveien.",
+    "lines": [
+     "RUT:Line:87"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-74431-1",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-11-02T13:33:00+01:00",
+    "end": "2026-12-08T23:59:00+01:00",
+    "summary": "Holdeplass Ullern retning Lilleaker er flyttet cirka 50 meter bakover",
+    "description": "Dette gjelder til ca. 12. desember",
+    "lines": [
+     "RUT:Line:3013"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-77271-1",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-12-01T22:00:00+01:00",
+    "end": "2026-12-02T05:30:00+01:00",
+    "summary": "Linje 500N stopper ikke på Svartskogtoppen",
+    "description": "Dette skyldes veiarbeid langs ruta.",
+    "lines": [
+     "RUT:Line:3500"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-77135-4",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-11-24T17:00:09+01:00",
+    "end": "2026-12-31T23:59:00+01:00",
+    "summary": "Holdeplass Kolbotn torg er flyttet",
+    "description": "Linje 585 stopper på midlertidig holdeplass i Ingierveien. Gjelder i retning Oslo og Svartskog.",
+    "lines": [
+     "RUT:Line:585"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-77088-1",
+    "severity": "normal",
+    "report_type": "general",
+    "progress": "open",
+    "start": "2026-10-02T04:00:00+02:00",
+    "end": "2026-12-31T23:59:00+01:00",
+    "summary": "Tøyen: Linje 5 retning sentrum",
+    "description": "På grunn av bygging av ny inngang, ber vi reisende benytte fremre del av toget ved avstigning.",
+    "lines": [
+     "RUT:Line:5"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-77123-1",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-03-10T00:00:00+01:00",
+    "end": "2026-12-31T23:59:00+01:00",
+    "summary": "Linje 453 har omkjøring",
+    "description": "Holdeplass Sandnesvegen flyttes midlertidig ut i Eidsvegen. Gangavstand ca. 100 meter. Holdeplass Auli senter i retning mot Årnes flyttes til motsatt side av veien utenfor Kiwi (Samme holdeplass som bussene benytter i retning mot Rånåsfoss).",
+    "lines": [
+     "RUT:Line:453"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-76881-2",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-11-23T13:42:00+01:00",
+    "end": "2026-12-04T23:59:00+01:00",
+    "summary": "Linje 230 stopper ikke på Odds vei",
+    "description": "Dette skyldes veiarbeid langs ruta.",
+    "lines": [
+     "RUT:Line:230"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-76070-1",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-11-16T22:00:00+01:00",
+    "end": "2026-11-17T06:00:00+01:00",
+    "summary": "Buss 500N stopper ikke på Svartskogtoppen i retning mot Drøbak",
+    "description": "Dette skyldes veiarbeid som fører til at bussen har omkjøring via Gamle Mossevei mellom Fiskevollen og Tusenfryd.",
+    "lines": [
+     "RUT:Line:3500"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-77074-1",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-07-08T12:00:00+02:00",
+    "end": "2026-12-03T02:00:00+01:00",
+    "summary": "Holdeplass Skibakken er flyttet 110 meter ned i Frysjavegen",
+    "description": "Holdeplassen er flytte grunnet veiarbeid.",
+    "lines": [
+     "RUT:Line:25"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-77127-3",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-06-29T04:00:00+02:00",
+    "end": "2027-07-12T02:00:00+02:00",
+    "summary": "Holdeplass Haslevangen i retning mot Oslo sentrum er midlertidig lagt ned.",
+    "description": "Dette skyldes et større byggearbeid i området. Nærmeste holdeplass er Hasle.",
+    "lines": [
+     "RUT:Line:60"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-77144-1",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-11-24T18:32:00+01:00",
+    "end": "2027-01-29T02:00:00+01:00",
+    "summary": "Buss 20 stopper i bilfeltet på Thune",
+    "description": "Dette skyldes arbeid med trikkesporet",
+    "lines": [
+     "RUT:Line:20"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-77147-2",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-04-15T18:50:00+02:00",
+    "end": "2027-01-29T23:59:00+01:00",
+    "summary": "Holdeplass CC vest retning Simensbråten/Voksen skog er flyttet 50 meter bakover",
+    "description": "Dette skyldes buss for trikk på Lilleakerbanen.",
+    "lines": [
+     "RUT:Line:42"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-77144-2",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-11-24T18:32:00+01:00",
+    "end": "2027-01-29T02:00:00+01:00",
+    "summary": "Buss 31 stopper i bilfeltet på Thune",
+    "description": "Dette skyldes arbeid med trikkesporet",
+    "lines": [
+     "RUT:Line:31"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-77135-3",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-11-24T17:00:09+01:00",
+    "end": "2026-12-31T23:59:00+01:00",
+    "summary": "Holdeplass Kolbotn torg er flyttet",
+    "description": "Linje 580 stopper på midlertidig holdeplass i Ingierveien. Gjelder i retning Oslo og Svartskog.",
+    "lines": [
+     "RUT:Line:580"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-77082-1",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-04-13T03:00:00+02:00",
+    "end": "2027-11-05T18:00:00+01:00",
+    "summary": "Buss 21: Omkjøring mellom Riddervolds plass og Hegdehaugsveien i retning mot Helsfyr",
+    "description": "Bussene kjører via Holtegata. Under omkjøringen stopper bussene på holdeplass Rosenborg i Holtegata.",
+    "lines": [
+     "RUT:Line:21"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-77127-2",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-06-29T04:00:00+02:00",
+    "end": "2027-07-12T02:00:00+02:00",
+    "summary": "Holdeplass Haslevangen i retning mot Oslo sentrum er midlertidig lagt ned.",
+    "description": "Dette skyldes et større byggearbeid i området. Nærmeste holdeplass er Hasle.",
+    "lines": [
+     "RUT:Line:28"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-76070-2",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-11-16T22:00:00+01:00",
+    "end": "2026-11-17T06:00:00+01:00",
+    "summary": "Buss 505 stopper ikke på Svartskogtoppen i retning mot Drøbak",
+    "description": "Dette skyldes veiarbeid som fører til at bussen har omkjøring via Gamle Mossevei mellom Fiskevollen og Tusenfryd.",
+    "lines": [
+     "RUT:Line:505"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-77115-3",
+    "severity": "normal",
+    "report_type": "general",
+    "progress": "open",
+    "start": "2026-11-24T16:43:00+01:00",
+    "end": "2027-04-30T00:00:00+02:00",
+    "summary": "Holdeplassene Tinghuset, Stortorvet og Ekebergparken egner seg ikke for rullestolbrukere.",
+    "description": "Benytt andre holdeplasser for av- og påstigning. Gjelder i begge retninger.",
+    "lines": [
+     "RUT:Line:19"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-77101-1",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-10-12T00:00:00+02:00",
+    "end": "2027-01-29T23:59:00+01:00",
+    "summary": "Omkjøring på linje 3575",
+    "description": "Stopper ikke på holdeplass: Gamle Eltonveg, Gutugropa, Hagamoen, Haugerud, Korslund, Låvegghellinga og Slemdal.",
+    "lines": [
+     "RUT:Line:3575"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-77269-1",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-12-01T22:00:00+01:00",
+    "end": "2026-12-02T05:30:00+01:00",
+    "summary": "Linje 505 stopper ikke på Svartskogtoppen nattestid",
+    "description": "Dette grunnet veiarbeid.",
+    "lines": [
+     "RUT:Line:505"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-76881-1",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-11-23T13:42:00+01:00",
+    "end": "2026-12-04T23:59:00+01:00",
+    "summary": "Linje 230 stopper ikke på Odds vei",
+    "description": "Dette skyldes veiarbeid langs ruta.",
+    "lines": [
+     "RUT:Line:230"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-77139-1",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-06-09T23:45:00+02:00",
+    "end": "2027-01-29T02:00:00+01:00",
+    "summary": "Linje 13: Buss for trikk mellom Thune og Lilleaker",
+    "description": "Vi kjører buss for trikk (linje 13B) mellom Thune og Lilleaker. Bussen stopper ikke på Sollerud. 13B betjener Thune fra midlertidig holdeplass i Drammensveien",
+    "lines": [
+     "RUT:Line:13"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-77311-4",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-12-02T04:00:00+01:00",
+    "end": "2026-12-03T02:00:00+01:00",
+    "summary": "Holdeplass Kolbotn torg flyttet",
+    "description": "Holdeplass Kolbotn torg er flyttet midlertidig til Ingierveien",
+    "lines": [
+     "RUT:Line:585"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-77112-1",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-11-11T00:00:00+01:00",
+    "end": "2026-12-04T23:59:00+01:00",
+    "summary": "Holdeplass Fløysbonn i retning sør er flyttet ca. 50 meter bakover",
+    "description": "Dette skyldes veiarbeid.",
+    "lines": []
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-77124-1",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-08-06T10:00:00+02:00",
+    "end": "2026-12-31T23:59:00+01:00",
+    "summary": "Avstigning med rullestol på Frognerseteren stasjon",
+    "description": "Ved ankomst Frognerseteren kan forflytningshemmede bli med toget videre når det kjører inn for å vende. Plattform mot sentrum er bedre egnet for avstigning med rullestol.",
+    "lines": []
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-77138-3",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-07-06T09:00:00+02:00",
+    "end": "2028-04-30T23:59:00+02:00",
+    "summary": "Holdeplass Stabekk stasjon i retning mot Bekkestua er flyttet ca. 50 meter bakover.",
+    "description": "Dette skyldes anleggsarbeid i området.",
+    "lines": [
+     "RUT:Line:213"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-77115-2",
+    "severity": "normal",
+    "report_type": "general",
+    "progress": "open",
+    "start": "2026-11-24T16:43:00+01:00",
+    "end": "2027-04-30T00:00:00+02:00",
+    "summary": "Holdeplassene Tinghuset, Stortorvet, Lakkegata skole og Ekebergparken egner seg ikke for rullestolbrukere.",
+    "description": "Benytt andre holdeplasser for av- og påstigning. Gjelder i begge retninger.",
+    "lines": [
+     "RUT:Line:18"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-77127-1",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-06-29T04:00:00+02:00",
+    "end": "2027-07-12T02:00:00+02:00",
+    "summary": "Holdeplass Haslevangen i retning mot Oslo sentrum er midlertidig lagt ned.",
+    "description": "Dette skyldes et større byggearbeid i området. Nærmeste holdeplass er Hasle.",
+    "lines": [
+     "RUT:Line:3905"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-77311-3",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-12-02T04:00:00+01:00",
+    "end": "2026-12-03T02:00:00+01:00",
+    "summary": "Holdeplass Kolbotn torg flyttet",
+    "description": "Holdeplass Kolbotn torg er flyttet midlertidig til Ingierveien",
+    "lines": [
+     "RUT:Line:580"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-77135-2",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-11-24T17:00:09+01:00",
+    "end": "2026-12-31T23:59:00+01:00",
+    "summary": "Holdeplass Kolbotn torg er flyttet",
+    "description": "Linje 83N stopper på midlertidig holdeplass i Ingierveien. Gjelder i retning Oslo og Svartskog.",
+    "lines": [
+     "RUT:Line:3983"
+    ]
+   },
+   {
+    "dataset": "RUT",
+    "id": "RUT:SituationNumber:2026-77147-1",
+    "severity": "normal",
+    "report_type": "incident",
+    "progress": "open",
+    "start": "2026-04-15T18:50:00+02:00",
+    "end": "2027-01-29T23:59:00+01:00",
+    "summary": "Holdeplass CC vest retning Simensbråten/Voksen skog er flyttet 50 meter bakover",
+    "description": "Dette skyldes buss for trikk på Lilleakerbanen.",
+    "lines": [
+     "RUT:Line:23"
+    ]
+   }
+  ],
+  "count": 53,
+  "by_dataset": {
+   "RUT": 53
+  }
+ },
+ "signals": [
+  {
+   "category": "transport",
+   "level": 0,
+   "text": "Entur: 53 åpne avvik, ingen merket alvorlige",
+   "source": "entur",
+   "url": "https://developer.entur.org/",
+   "since": null,
+   "value": 53,
+   "level_name": "green"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "id": "krisinformation",
+ "name": "Krisinformation.se",
+ "url": "https://www.krisinformation.se/",
+ "category": "naboland",
+ "ok": true,
+ "stale": false,
+ "fetched_at": "2026-11-28T03:52:49+00:00",
+ "last_success_at": "2026-11-28T03:52:49+00:00",
+ "error": "",
+ "license": "",
+ "data": {
+  "vmas": [],
+  "news": []
+ },
+ "signals": [
+  {
+   "category": "naboland",
+   "level": 0,
+   "text": "Ingen aktive VMA i Sverige; 0 krisenyheter siste to døgn",
+   "source": "krisinformation",
+   "url": "https://www.krisinformation.se/",
+   "since": null,
+   "value": 0,
+   "level_name": "green"
+  }
+ ]
+}
